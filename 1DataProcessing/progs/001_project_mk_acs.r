@@ -22,7 +22,7 @@
 	gc(reset=TRUE)
 	
 	#Set Working Directory
-	setwd("//chi1fls02/tsp/LosAngeles/Admin/001_Users/jjg/Project/1DataProcessing/progs/")	
+	setwd("./")	
 	
 	#Package Install
 	require(gdata)			#Excel processing 
