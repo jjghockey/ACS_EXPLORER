@@ -1,0 +1,2353 @@
+"state","puma12","stab","PUMAname","LandSQMI","afact"
+"FIPS state","puma12","State Postal Code","PUMA12 Name","Land Area Sq Mls","puma12 to puma12 alloc factor"
+"01","00100","AL","Lauderdale, Colbert, Franklin & Marion (Northeast) Counties",2085.318,1 
+"01","00200","AL","Limestone & Madison (Outer) Counties--Huntsville City (Far West & Southwest)",1034.85,1 
+"01","00301","AL","Huntsville (North) & Madison (East) Cities",91.175,1 
+"01","00302","AL","Huntsville City (Central & South)",62.25,1 
+"01","00400","AL","DeKalb & Jackson Counties",1854.961,1 
+"01","00500","AL","Marshall & Madison (Southeast) Counties--Huntsville City (Far Southeast)",739.095,1 
+"01","00600","AL","Morgan & Lawrence Counties--Decatur City",1270.015,1 
+"01","00700","AL","Cullman & Winston Counties",1347.819,1 
+"01","00800","AL","St. Clair & Blount Counties",1276.678,1 
+"01","00900","AL","Etowah County",534.991,1 
+"01","01000","AL","Talladega, Cherokee, Randolph, Cleburne & Clay Counties",3035.086,1 
+"01","01100","AL","Calhoun County",605.868,1 
+"01","01200","AL","Shelby County",784.93,1 
+"01","01301","AL","Birmingham City (West)",42.28,1 
+"01","01302","AL","Birmingham City (East)",52.237,1 
+"01","01303","AL","Jefferson County (Southeast)--Hoover (North), Vestavia Hills & Homewood Cities",136.356,1 
+"01","01304","AL","Jefferson County (Northeast)--Trussville, Center Point & Gardendale Cities",453.475,1 
+"01","01305","AL","Jefferson County (West)--Bessemer, Hueytown & Pleasant Grove Cities",426.928,1 
+"01","01400","AL","Walker, Marion (South & West), Fayette & Lamar Counties",2574.809,1 
+"01","01500","AL","Tuscaloosa (Outer) & Pickens Counties--Northport City (North & West)",2130.18,1 
+"01","01600","AL","Tuscaloosa & Northport (Southeast) Cities",72.983,1 
+"01","01700","AL","Dallas, Bibb, Marengo, Hale, Sumter, Perry & Greene Counties",5492.763,1 
+"01","01800","AL","Chilton, Tallapoosa, Chambers & Coosa Counties",2656.832,1 
+"01","01900","AL","Lee County--Auburn City",607.536,1 
+"01","02000","AL","Montgomery City & Pike Road Town (North)",132.236,1 
+"01","02100","AL","Elmore, Autauga, Montgomery (Outer) & Lowndes Counties",2580.842,1 
+"01","02200","AL","Southwest Alabama",6941.582,1 
+"01","02300","AL","Coffee, Covington, Butler & Crenshaw Counties",3095.097,1 
+"01","02400","AL","Russell, Pike, Barbour, Macon & Bullock Counties",3429.801,1 
+"01","02500","AL","Houston, Dale, Geneva & Henry Counties--Dothan City",2277.132,1 
+"01","02600","AL","Baldwin County",1589.784,1 
+"01","02701","AL","Mobile City (East)",61.349,1 
+"01","02702","AL","Mobile City (West)",56.919,1 
+"01","02703","AL","Mobile County (Outer)--Prichard City, Tillmans Corner & Saraland City",1111.168,1 
+"02","00101","AK","Anchorage Municipality (North)",1031.669,1 
+"02","00102","AK","Anchorage Municipality (South)",673.014,1 
+"02","00200","AK","Matanuska-Susitna & Kenai Peninsula Boroughs",40683.229,1 
+"02","00300","AK","Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska",89429.577,1 
+"02","00400","AK","Subsistence Alaska",438823.46,1 
+"04","00100","AZ","Maricopa County--Gilbert (South) & Queen Creek Towns",68.962,1 
+"04","00101","AZ","Maricopa County--Mesa City (East)",86.676,1 
+"04","00102","AZ","Maricopa County--Mesa City (North Central)",40.986,1 
+"04","00103","AZ","Maricopa County--Mesa City (West)",18.036,1 
+"04","00104","AZ","Maricopa County--Mesa City (South Central)",20.908,1 
+"04","00105","AZ","Maricopa County--Gilbert Town (North)",36.961,1 
+"04","00106","AZ","Maricopa County--Chandler City (Northeast)",22.912,1 
+"04","00107","AZ","Maricopa County--Chandler City (South)",40.707,1 
+"04","00108","AZ","Maricopa County--Tempe (South) & Chandler (Northwest) Cities",27.293,1 
+"04","00109","AZ","Maricopa County--Tempe City (North)",24.341,1 
+"04","00110","AZ","Maricopa County--Scottsdale City (Southwest) & Paradise Valley Town",47.066,1 
+"04","00111","AZ","Maricopa County (Northeast)--Scottsdale City (Southeast) & Fountain Hills Town",1274.542,1 
+"04","00112","AZ","Maricopa County--Scottsdale (North), Phoenix (Far Northeast) Cities & Cave Creek",235.004,1 
+"04","00113","AZ","Phoenix City (Northeast)",33.04,1 
+"04","00114","AZ","Phoenix City (Northeast Central)",24.037,1 
+"04","00115","AZ","Phoenix City (Northwest Central)",21.905,1 
+"04","00116","AZ","Phoenix City (Uptown)",17.182,1 
+"04","00117","AZ","Phoenix City (East)",23.927,1 
+"04","00118","AZ","Phoenix City--Downtown & Sky Harbor International Airport",34.594,1 
+"04","00119","AZ","Phoenix City (South)",30.653,1 
+"04","00120","AZ","Phoenix City--Ahwatukee & South Mountain",55.074,1 
+"04","00121","AZ","Phoenix (Southwest) & Tolleson Cities",63.218,1 
+"04","00122","AZ","Phoenix City--Maryvale (East)",14.246,1 
+"04","00123","AZ","Phoenix City--Maryvale (West)",16.071,1 
+"04","00124","AZ","Maricopa County--Glendale City (South)",26.034,1 
+"04","00125","AZ","Phoenix City (West)",15.924,1 
+"04","00126","AZ","Maricopa County--Glendale City (North)",32.026,1 
+"04","00127","AZ","Maricopa County--Peoria City (South & Central)",28.397,1 
+"04","00128","AZ","Phoenix City (North)",28.915,1 
+"04","00129","AZ","Phoenix (Far North) & Peoria (Northwest) Cities",252.406,1 
+"04","00130","AZ","Maricopa County--El Mirage City & Sun City",44.027,1 
+"04","00131","AZ","Maricopa County--Surprise City (Central)",38.229,1 
+"04","00132","AZ","Maricopa County--Goodyear, Glendale (West) & Litchfield Park (Northwest) Cities",142.09,1 
+"04","00133","AZ","Maricopa County--Avondale (Central) & Litchfield Park (Central) Cities",38.925,1 
+"04","00134","AZ","Maricopa County (West) & Gila River Indian Community (Northwest)",6274.831,1 
+"04","00201","AZ","Pima County (West)",7073.62,1 
+"04","00202","AZ","Tucson (West) & Marana Cities",320.554,1 
+"04","00203","AZ","Pima County (North Central)--Oro Valley Town",203.842,1 
+"04","00204","AZ","Pima County (Northeast)",346.287,1 
+"04","00205","AZ","Pima County (Southeast)--Tucson City (Far Southeast) & Sahuarita Town",1129.599,1 
+"04","00206","AZ","Tucson City (Northeast)",23.404,1 
+"04","00207","AZ","Tucson City (Northwest)",19.393,1 
+"04","00208","AZ","Tucson City (South)",26.641,1 
+"04","00209","AZ","Tucson City (Southeast)",43.696,1 
+"04","00300","AZ","Navajo & Apache Counties",21147.942,1 
+"04","00400","AZ","Coconino County--Flagstaff City",18618.885,1 
+"04","00500","AZ","Yavapai County",8123.499,1 
+"04","00600","AZ","Mohave & La Paz Counties--Lake Havasu City",17810.712,1 
+"04","00700","AZ","Yuma County--Yuma City",5513.992,1 
+"04","00800","AZ","Gila, Graham, Greenlee & Pinal (East) Counties",12250.612,1 
+"04","00803","AZ","Pinal County (North)--Apache Junction City",554.193,1 
+"04","00805","AZ","Pinal County (Central)--Florence Town, Eloy (Northeast) & Coolidge Cities",2115.244,1 
+"04","00807","AZ","Pinal County (West)--Maricopa, Casa Grande & Eloy (Southeast) Cities",1669.218,1 
+"04","00900","AZ","Cochise & Santa Cruz Counties--Sierra Vista City",7402.607,1 
+"05","00100","AR","Benton County",847.357,1 
+"05","00200","AR","Washington County",941.966,1 
+"05","00300","AR","Baxter, Boone, Carroll, Marion, Madison, Newton & Searcy Counties",4692.856,1 
+"05","00400","AR","Independence, Cleburne, Van Buren, Sharp, Izard, Stone & Fulton Counties",4435.402,1 
+"05","00500","AR","Craighead (West), Greene, Randolph, Lawrence & Clay Counties",2926.92,1 
+"05","00600","AR","Crittenden, Mississippi & Craighead (East) Counties",1747.589,1 
+"05","00700","AR","St. Francis, Poinsett, Phillips, Cross, Lee & Monroe Counties",3914.946,1 
+"05","00800","AR","White, Jackson, Prairie & Woodruff Counties",2903.762,1 
+"05","00900","AR","Pulaski County (Outer)--North Little Rock, Sherwood & Jacksonville Cities",645.117,1 
+"05","01000","AR","Pulaski County (Central)--Little Rock City",114.646,1 
+"05","01100","AR","Faulkner & Lonoke Counties",1418.613,1 
+"05","01200","AR","Saline County",723.604,1 
+"05","01300","AR","Pope, Johnson, Yell, Conway & Perry Counties",3505.988,1 
+"05","01400","AR","Sebastian & Crawford Counties",1125.005,1 
+"05","01500","AR","Logan, Polk, Franklin, Sevier, Howard & Scott Counties",4220.661,1 
+"05","01600","AR","Garland, Hot Spring, Clark & Montgomery Counties",2938.938,1 
+"05","01700","AR","Jefferson, Grant & Arkansas (Northwest) Counties",1824.166,1 
+"05","01800","AR","Southeast Arkansas",5641.849,1 
+"05","01900","AR","South Central Arkansas",3834.018,1 
+"05","02000","AR","Southwest Arkansas",3632.074,1 
+"06","00101","CA","Alameda County (North)--Berkeley & Albany Cities",12.258,1 
+"06","00102","CA","Alameda County (Northwest)--Oakland (Northwest) & Emeryville Cities",15.56,1 
+"06","00103","CA","Alameda County (Northeast)--Oakland (East) & Piedmont Cities",27.596,1 
+"06","00104","CA","Alameda County (North Central)--Oakland City (South Central)",9.267,1 
+"06","00105","CA","Alameda County (West)--San Leandro, Alameda & Oakland (Southwest) Cities",31.019,1 
+"06","00106","CA","Alameda County (North Central)--Castro Valley, San Lorenzo & Ashland",57.909,1 
+"06","00107","CA","Alameda County (Central)--Hayward City",58.277,1 
+"06","00108","CA","Alameda County (Southwest)--Union City, Newark & Fremont (West) Cities",68.201,1 
+"06","00109","CA","Alameda County (South Central)--Fremont City (East)",43.463,1 
+"06","00110","CA","Alameda County (East)--Livermore, Pleasanton & Dublin Cities",415.467,1 
+"06","00300","CA","Alpine, Amador, Calaveras, Inyo, Mariposa, Mono & Tuolumne Counties",19252.489,1 
+"06","00701","CA","Butte County (Northwest)--Chico City",509.478,1 
+"06","00702","CA","Butte County (Southeast)--Oroville City & Paradise Town",1126.986,1 
+"06","01100","CA","Colusa, Glenn, Tehama & Trinity Counties",8593.64,1 
+"06","01301","CA","Contra Costa County (Far Southwest)--Richmond (Southwest) & San Pablo Cities",20.42,1 
+"06","01302","CA","Contra Costa County (Far Northwest)--Richmond (North), Hercules & El Cerrito Cites",34.748,1 
+"06","01303","CA","Contra Costa County (Northwest)--Concord (West), Martinez & Pleasant Hill Cities",88.06,1 
+"06","01304","CA","Contra Costa County--Walnut Creek (West), Lafayette, Orinda Cities & Moraga Town",93.839,1 
+"06","01305","CA","Contra Costa County (South)--San Ramon City & Danville Town",156.42,1 
+"06","01306","CA","Contra Costa County (Central)--Concord (South), Walnut Creek (East) & Clayton Cities",59.088,1 
+"06","01307","CA","Contra Costa County (North Central)--Pittsburg & Concord (North & East) Cities",62.289,1 
+"06","01308","CA","Contra Costa County (Northeast)--Antioch City",64.552,1 
+"06","01309","CA","Contra Costa County (East)--Brentwood & Oakley Cities",136.522,1 
+"06","01500","CA","Del Norte, Lassen, Modoc, Plumas & Siskiyou Counties",18296.257,1 
+"06","01700","CA","El Dorado County--El Dorado Hills",1707.883,1 
+"06","01901","CA","Fresno County (West)--Selma, Kerman & Coalinga Cities",2764.136,1 
+"06","01902","CA","Fresno County (North Central)--Fresno City (North)",52.399,1 
+"06","01903","CA","Fresno County (Central)--Fresno City (East Central)",22.683,1 
+"06","01904","CA","Fresno County (Central)--Fresno City (Southwest)",73.752,1 
+"06","01905","CA","Fresno County (Central)--Fresno City (Southeast)",39.765,1 
+"06","01906","CA","Fresno County (Central)--Clovis City",53.349,1 
+"06","01907","CA","Fresno County (East)--Sanger, Reedley & Parlier Cities",2951.908,1 
+"06","02300","CA","Humboldt County",3567.987,1 
+"06","02500","CA","Imperial County--El Centro City",4176.603,1 
+"06","02901","CA","Kern County (West)--Delano, Wasco & Shafter Cities",2849.626,1 
+"06","02902","CA","Kern County (Central)--Bakersfield City (West)",70.348,1 
+"06","02903","CA","Kern County (Central)--Bakersfield City (Northeast)",97.143,1 
+"06","02904","CA","Kern County (Central)--Bakersfield City (Southeast)",77.143,1 
+"06","02905","CA","Kern County (East)--Ridgecrest, Arvin, Tehachapi & California City Cities",5037.656,1 
+"06","03100","CA","Kings County--Hanford City",1389.42,1 
+"06","03300","CA","Lake & Mendocino Counties",4762.807,1 
+"06","03701","CA","Los Angeles County (North/Unincorporated)--Castaic",2103.071,1 
+"06","03702","CA","Los Angeles County (Northwest)--Santa Clarita City",63.535,1 
+"06","03703","CA","Los Angeles County (North Central)--Lancaster City",142.323,1 
+"06","03704","CA","Los Angeles County (North Central)--Palmdale City",128.729,1 
+"06","03705","CA","Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch)",36.85,1 
+"06","03706","CA","Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar)",29.339,1 
+"06","03707","CA","Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities",19.386,1 
+"06","03708","CA","Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga)",38.869,1 
+"06","03709","CA","Los Angeles County (Central)--San Gabriel Valley Region (North)",98.933,1 
+"06","03710","CA","Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities",37.901,1 
+"06","03711","CA","Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities",61.994,1 
+"06","03712","CA","Los Angeles County (East Central)--Pomona City",21.9,1 
+"06","03713","CA","Los Angeles County (East Central)--Covina & Walnut Cities",24.396,1 
+"06","03714","CA","Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights",43.93,1 
+"06","03715","CA","Los Angeles County (East Central)--West Covina City",15.516,1 
+"06","03716","CA","Los Angeles County (East Central)--La Puente & Industry Cities",16.626,1 
+"06","03717","CA","Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities",27.898,1 
+"06","03718","CA","Los Angeles County (Central)--Pasadena City",19.867,1 
+"06","03719","CA","Los Angeles County (Central)--Glendale City",30.417,1 
+"06","03720","CA","Los Angeles County (Central)--Burbank City",28.411,1 
+"06","03721","CA","Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village)",10.31,1 
+"06","03722","CA","Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks)",13.177,1 
+"06","03723","CA","Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City)",10.277,1 
+"06","03724","CA","Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana)",29.768,1 
+"06","03725","CA","Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills)",25.846,1 
+"06","03726","CA","Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities",183.741,1 
+"06","03727","CA","Los Angeles County (Central)--LA City (Central/Pacific Palisades)",47.467,1 
+"06","03728","CA","Los Angeles County (Southwest)--Santa Monica City",9.578,1 
+"06","03729","CA","Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles)",16.125,1 
+"06","03730","CA","Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire)",11.565,1 
+"06","03731","CA","Los Angeles County (Central)--West Hollywood & Beverly Hills Cities",13.448,1 
+"06","03732","CA","Los Angeles County (Central)--LA City (East Central/Hollywood)",10.401,1 
+"06","03733","CA","Los Angeles County (Central)--LA City (Central/Koreatown)",2.878,1 
+"06","03734","CA","Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake)",11.667,1 
+"06","03735","CA","Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park)",19.32,1 
+"06","03736","CA","Los Angeles County (Central)--Alhambra & South Pasadena Cities",11.545,1 
+"06","03737","CA","Los Angeles County (Central)--Monterey Park & Rosemead Cities",14.6,1 
+"06","03738","CA","Los Angeles County (Central)--El Monte & South El Monte Cities",14.87,1 
+"06","03739","CA","Los Angeles County (Southeast)--Whittier City & Hacienda Heights",37.007,1 
+"06","03740","CA","Los Angeles County (Central)--Pico Rivera & Montebello Cities",16.654,1 
+"06","03741","CA","Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities",14.098,1 
+"06","03742","CA","Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park",11.956,1 
+"06","03743","CA","Los Angeles County (Central)--East Los Angeles",7.17,1 
+"06","03744","CA","Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights)",15.306,1 
+"06","03745","CA","Los Angeles County (Central)--LA City (Southeast/East Vernon)",5.619,1 
+"06","03746","CA","Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park)",5.526,1 
+"06","03747","CA","Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills)",12.682,1 
+"06","03748","CA","Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities",29.306,1 
+"06","03749","CA","Los Angeles County (Central)--Inglewood City",9.173,1 
+"06","03750","CA","Los Angeles County (South Central)--LA City (South Central/Westmont)",11.271,1 
+"06","03751","CA","Los Angeles County (South Central)--LA City (South Central/Watts)",8.561,1 
+"06","03752","CA","Los Angeles County (South)--South Gate & Lynwood Cities",12.527,1 
+"06","03753","CA","Los Angeles County (South)--Downey City",12.085,1 
+"06","03754","CA","Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities",23.636,1 
+"06","03755","CA","Los Angeles County (Southeast)--Norwalk City",11.57,1 
+"06","03756","CA","Los Angeles County (Southeast)--Bellflower & Paramount Cities",9.308,1 
+"06","03757","CA","Los Angeles County (South Central)--Compton City & West Rancho Dominguez",19.319,1 
+"06","03758","CA","Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens",13.579,1 
+"06","03759","CA","Los Angeles County (South Central)--Hawthorne City",8.379,1 
+"06","03760","CA","Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities",17.025,1 
+"06","03761","CA","Los Angeles County (South Central)--Torrance City",17.9,1 
+"06","03762","CA","Los Angeles County (South Central)--Carson City",21.117,1 
+"06","03763","CA","Los Angeles County (South Central)--Long Beach City (North)",13.303,1 
+"06","03764","CA","Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities",20.614,1 
+"06","03765","CA","Los Angeles County (Southeast)--Long Beach City (East)",22.324,1 
+"06","03766","CA","Los Angeles County (South)--Long Beach City (Southwest & Port)",11.524,1 
+"06","03767","CA","Los Angeles County (South)--LA City (South/San Pedro)",25.858,1 
+"06","03768","CA","Los Angeles County (Southwest)--Palos Verdes Peninsula",161.417,1 
+"06","03769","CA","Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities",5.598,1 
+"06","03900","CA","Madera County--Madera City",2137.069,1 
+"06","04101","CA","Marin County (North & West)--Novato & San Rafael (North) Cities",470.224,1 
+"06","04102","CA","Marin County (Southeast)--San Rafael (South), Mill Valley & Sausalito Cities",50.081,1 
+"06","04701","CA","Merced County (West & South)--Los Banos & Livingston Cities",1494.75,1 
+"06","04702","CA","Merced County (Northeast)--Merced & Atwater Cities",440.222,1 
+"06","05301","CA","Monterey County (North Central)--Seaside, Monterey, Marina & Pacific Grove Cities",509.657,1 
+"06","05302","CA","Monterey County (Northeast)--Salinas City",174.855,1 
+"06","05303","CA","Monterey (South & East) & San Benito Counties",3984.793,1 
+"06","05500","CA","Napa County--Napa City",748.362,1 
+"06","05700","CA","Nevada & Sierra Counties",1910.986,1 
+"06","05901","CA","Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities",47.236,1 
+"06","05902","CA","Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities",21.069,1 
+"06","05903","CA","Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities",72.761,1 
+"06","05904","CA","Orange County (Central)--Irvine City (Central)",51.165,1 
+"06","05905","CA","Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado",144.34,1 
+"06","05906","CA","Orange County (North)--Yorba Linda, La Habra & Brea Cities",53.3,1 
+"06","05907","CA","Orange County (North Central)--Fullerton & Placentia Cities",29.802,1 
+"06","05908","CA","Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities",34.506,1 
+"06","05909","CA","Orange County (North Central)--Anaheim City (West)",14.158,1 
+"06","05910","CA","Orange County (North Central)--Anaheim City (East)",29.851,1 
+"06","05911","CA","Orange County (Central)--Orange & Villa Park Cities",25.826,1 
+"06","05912","CA","Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities",18.768,1 
+"06","05913","CA","Orange County (Northwest)--Garden Grove City (East)",14.854,1 
+"06","05914","CA","Orange County (Northwest)--Huntington Beach City",28.96,1 
+"06","05915","CA","Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch",152.229,1 
+"06","05916","CA","Orange County (Central)--Santa Ana City (West)",12.344,1 
+"06","05917","CA","Orange County (Central)--Santa Ana City (East)",13.459,1 
+"06","05918","CA","Orange County (Central)--Costa Mesa & Fountain Valley Cities",25.939,1 
+"06","06101","CA","Placer County (Southwest)--Roseville City",137.703,1 
+"06","06102","CA","Placer County (Central)--Rocklin, Lincoln Cities & Loomis Town",74.971,1 
+"06","06103","CA","Placer County (East/High Country Region)--Auburn & Colfax Cities",1194.334,1 
+"06","06501","CA","Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities",4299.31,1 
+"06","06502","CA","Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities",692.44,1 
+"06","06503","CA","Riverside County (Southwest)--Temecula City",166.074,1 
+"06","06504","CA","Riverside County (Southwest)--Murrieta & Wildomar Cities",57.384,1 
+"06","06505","CA","Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities",207.891,1 
+"06","06506","CA","Riverside County (Southwest)--Hemet City & East Hemet",249.222,1 
+"06","06507","CA","Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities",338.59,1 
+"06","06508","CA","Riverside County (Northwest)--Moreno Valley City",93.713,1 
+"06","06509","CA","Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley",169.746,1 
+"06","06510","CA","Riverside County (Northwest)--Riverside City (East)",70.588,1 
+"06","06511","CA","Riverside County (Northwest)--Riverside City (West)",33.808,1 
+"06","06512","CA","Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens",85.896,1 
+"06","06513","CA","Riverside County (West Central)--Corona (Northwest) & Norco Cities",38.825,1 
+"06","06514","CA","Riverside County (Northwest)--Jurupa Valley & Eastvale Cities",60.657,1 
+"06","06515","CA","Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities",642.336,1 
+"06","06701","CA","Sacramento County (North Central)--Citrus Heights City",18.792,1 
+"06","06702","CA","Sacramento County (Central)--Rancho Cordova City",69.449,1 
+"06","06703","CA","Sacramento County (North Central)--Arden-Arcade, Carmichael & Fair Oaks (West)",26.51,1 
+"06","06704","CA","Sacramento County (North Central)--North Highlands, Foothill Farms & McClellan Park",25.237,1 
+"06","06705","CA","Sacramento County (Northwest)--Sacramento City (Northwest/Natomas)",61.424,1 
+"06","06706","CA","Sacramento County (North)--Sacramento City (North), Antelope & Rio Linda",36.817,1 
+"06","06707","CA","Sacramento County (West)--Sacramento City (Central/Downtown & Midtown)",25.411,1 
+"06","06708","CA","Sacramento County--Sacramento City (Southeast/Fruitridge, Avondale & Depot Park)",44.519,1 
+"06","06709","CA","Sacramento County--Sacramento City (Southwest/Pocket, Meadowview & North Laguna)",22.772,1 
+"06","06710","CA","Sacramento County (Central)--Elk Grove City",40.957,1 
+"06","06711","CA","Sacramento County (South)--Galt, Isleton Cities & Delta Region",550.87,1 
+"06","06712","CA","Sacramento County (Northeast)--Folsom City, Orangevale & Fair Oaks (East)",41.886,1 
+"06","07101","CA","San Bernardino County (Northeast)--Twentynine Palms & Barstow Cities",17928.315,1 
+"06","07102","CA","San Bernardino County (West Central)--Victorville & Adelanto Cities",331.649,1 
+"06","07103","CA","San Bernardino County (West Central)--Hesperia City & Apple Valley Town",193.636,1 
+"06","07104","CA","San Bernardino County (Southwest)--Phelan, Lake Arrowhead & Big Bear City",1141.874,1 
+"06","07105","CA","San Bernardino County (Southwest)--Redlands & Yucaipa Cities",94.2,1 
+"06","07106","CA","San Bernardino County (Southwest)--Colton, Loma Linda & Grand Terrace Cities",40.86,1 
+"06","07107","CA","San Bernardino County (Southwest)--San Bernardino City (East)",28.688,1 
+"06","07108","CA","San Bernardino County (Southwest)--San Bernardino City (West)",34.615,1 
+"06","07109","CA","San Bernardino County (Southwest)--Rialto City",22.683,1 
+"06","07110","CA","San Bernardino County (Southwest)--Fontana City (East)",20.481,1 
+"06","07111","CA","San Bernardino County (Southwest)--Rancho Cucamonga City",41.438,1 
+"06","07112","CA","San Bernardino County (Southwest)--Upland & Montclair Cities",23.393,1 
+"06","07113","CA","San Bernardino County (Southwest)--Ontario City",44.768,1 
+"06","07114","CA","San Bernardino County (Southwest)--Chino & Chino Hills Cities",81.953,1 
+"06","07115","CA","San Bernardino County (Southwest)--Fontana City (West)",28.385,1 
+"06","07301","CA","San Diego County (Northwest)--Oceanside City & Camp Pendleton",250.174,1 
+"06","07302","CA","San Diego County (North & East)--Fallbrook, Alpine & Valley Center",2687.816,1 
+"06","07303","CA","San Diego County (Northwest)--Vista City",43.99,1 
+"06","07304","CA","San Diego County (Northwest)--Carlsbad City",38.821,1 
+"06","07305","CA","San Diego County (Northwest)--San Marcos & Escondido (West) Cities",47.786,1 
+"06","07306","CA","San Diego County (Northwest)--Escondido City (East)",101.39,1 
+"06","07307","CA","San Diego County (Central)--Lakeside, Winter Gardens & Ramona",244.188,1 
+"06","07308","CA","San Diego County (Central)--San Diego (Northeast/Rancho Bernardo) & Poway Cities",65.724,1 
+"06","07309","CA","San Diego County (West)--San Diego (Northwest/San Dieguito) & Encinitas Cities",88.53,1 
+"06","07310","CA","San Diego County (West)--San Diego City (Southwest/Central Coastal)",41.448,1 
+"06","07311","CA","San Diego County (West Central)--San Diego City (Northwest/Del Mar Mesa)",38.934,1 
+"06","07312","CA","San Diego County (Central)--San Diego City (Central/Mira Mesa & University Heights)",41.574,1 
+"06","07313","CA","San Diego County (Central)--El Cajon & Santee Cities",38.862,1 
+"06","07314","CA","San Diego County (Central)--San Diego (East Central/Navajo) & La Mesa Cities",58.471,1 
+"06","07315","CA","San Diego County (West Central)--San Diego City (Central/Clairemont & Kearny Mesa)",32.119,1 
+"06","07316","CA","San Diego County (South Central)--San Diego City (Central/Centre City & Balboa Park)",16.74,1 
+"06","07317","CA","San Diego County (South Central)--San Diego City (Central/Mid-City)",15.78,1 
+"06","07318","CA","San Diego County (South)--San Diego City (Southeast/Encanto & Skyline)",18.838,1 
+"06","07319","CA","San Diego County (South Central)--Lemon Grove City, La Presa & Spring Valley",228.3,1 
+"06","07320","CA","San Diego County (Southwest)--Sweetwater Region--Chula Vista City (East)",40.198,1 
+"06","07321","CA","San Diego County (Southwest)--Chula Vista (West) & National City Cities",21.885,1 
+"06","07322","CA","San Diego County (South)--San Diego City (South/Otay Mesa & South Bay)",45.059,1 
+"06","07501","CA","San Francisco County (North & West)--Richmond District",9.654,1 
+"06","07502","CA","San Francisco County (North & East)--North Beach & Chinatown",4.457,1 
+"06","07503","CA","San Francisco County (Central)--South of Market & Potrero",5.515,1 
+"06","07504","CA","San Francisco County (Central)--Inner Mission & Castro",4.066,1 
+"06","07505","CA","San Francisco County (Central)--Sunset District (North)",5.828,1 
+"06","07506","CA","San Francisco County (South Central)--Sunset District (South)",8.721,1 
+"06","07507","CA","San Francisco County (South Central)--Bayview & Hunters Point",8.632,1 
+"06","07701","CA","San Joaquin County (Central)--Stockton City (North)",37.955,1 
+"06","07702","CA","San Joaquin County (Central)--Stockton City (South)",30.545,1 
+"06","07703","CA","San Joaquin County (South)--Tracy, Manteca & Lathrop Cities",341.793,1 
+"06","07704","CA","San Joaquin County (North)--Lodi, Ripon & Escalon Cities",981.029,1 
+"06","07901","CA","San Luis Obispo County (West)--Coastal Region",584.161,1 
+"06","07902","CA","San Luis Obispo County (East)--Inland Region",2714.406,1 
+"06","08101","CA","San Mateo County (North Central)--Daly City, Pacifica Cities & Colma Town",25.408,1 
+"06","08102","CA","San Mateo County (North Central)--South San Francisco, San Bruno & Brisbane Cities",26.02,1 
+"06","08103","CA","San Mateo County (Central)--San Mateo (North), Burlingame & Millbrae Cities",18.876,1 
+"06","08104","CA","San Mateo County (South & West)--San Mateo (South) & Half Moon Bay Cities",286.867,1 
+"06","08105","CA","San Mateo County (East Central)--Redwood City, San Carlos & Belmont Cities",31.542,1 
+"06","08106","CA","San Mateo County (Southeast)--Menlo Park, East Palo Alto Cities & Atherton Town",59.695,1 
+"06","08301","CA","Santa Barbara County (Northwest)--Santa Maria City & Orcutt",35.195,1 
+"06","08302","CA","Santa Barbara County (North)--Lompoc, Guadalupe, Solvang & Buellton Cities",2351.398,1 
+"06","08303","CA","Santa Barbara County--South Coast Region",348.493,1 
+"06","08501","CA","Santa Clara County (Northwest)--Mountain View, Palo Alto & Los Altos Cities",95.892,1 
+"06","08502","CA","Santa Clara County (Northwest)--Sunnyvale & San Jose (North) Cities",39.039,1 
+"06","08503","CA","Santa Clara County (Northwest)--San Jose (Northwest) & Santa Clara Cities",25.55,1 
+"06","08504","CA","Santa Clara County (North Central)--Milpitas & San Jose (Northeast) Cities",26.281,1 
+"06","08505","CA","Santa Clara County (North Central)--San Jose City (East Central) & Alum Rock",28.683,1 
+"06","08506","CA","Santa Clara County (East)--Gilroy, Morgan Hill & San Jose (South) Cities",830.436,1 
+"06","08507","CA","Santa Clara County (Southwest)--Cupertino, Saratoga Cities & Los Gatos Town",102.342,1 
+"06","08508","CA","Santa Clara County (Central)--San Jose (West Central) & Campbell Cities",15.323,1 
+"06","08509","CA","Santa Clara County (Central)--San Jose City (Northwest)",15.216,1 
+"06","08510","CA","Santa Clara County (Central)--San Jose City (Central)",19.2,1 
+"06","08511","CA","Santa Clara County (Central)--San Jose City (South Central/Branham) & Cambrian Park",12.891,1 
+"06","08512","CA","Santa Clara County (Central)--San Jose City (Southwest/Almaden Valley)",38.063,1 
+"06","08513","CA","Santa Clara County (Central)--San Jose City (Southeast/Evergreen)",32.275,1 
+"06","08514","CA","Santa Clara County (Central)--San Jose City (East Central/East Valley)",8.908,1 
+"06","08701","CA","Santa Cruz County (North)--Watsonville & Scotts Valley Cities",402.029,1 
+"06","08702","CA","Santa Cruz County (South & Coastal)--Santa Cruz City",43.141,1 
+"06","08900","CA","Shasta County--Redding City",3775.402,1 
+"06","09501","CA","Solano County (Southwest)--Vallejo & Benicia Cities",69.024,1 
+"06","09502","CA","Solano County (Central)--Fairfield & Suisun City Cities",209.851,1 
+"06","09503","CA","Solano County (Northeast)--Vacaville & Dixon Cities",542.89,1 
+"06","09701","CA","Sonoma County (North)--Windsor Town, Healdsburg & Sonoma Cities",1352.857,1 
+"06","09702","CA","Sonoma County (South)--Petaluma, Rohnert Park & Cotati Cities",132.999,1 
+"06","09703","CA","Sonoma County (Central)--Santa Rosa City",89.993,1 
+"06","09901","CA","Stanislaus County (Southwest)--Ceres, Patterson & Newman Cities",761.055,1 
+"06","09902","CA","Stanislaus County (Central)--Modesto City (West)",28.062,1 
+"06","09903","CA","Stanislaus County (Northeast)--Turlock, Riverbank, Oakdale & Waterford Cities",685.144,1 
+"06","09904","CA","Stanislaus County (Central)--Modesto City (East)",20.565,1 
+"06","10100","CA","Sutter & Yuba Counties--Yuba City",1234.249,1 
+"06","10701","CA","Tulare County (Northwest)--Visalia City",136.42,1 
+"06","10702","CA","Tulare County (West Central)--Tulare & Porterville Cities",399.177,1 
+"06","10703","CA","Tulare County (Outside Visalia, Tulare & Porterville Cities)",4288.617,1 
+"06","11101","CA","Ventura County (Southeast)--Simi Valley City",48.694,1 
+"06","11102","CA","Ventura County (Southeast)--Thousand Oaks City",85.395,1 
+"06","11103","CA","Ventura County (Southwest)--Oxnard & Port Hueneme Cities",27.381,1 
+"06","11104","CA","Ventura County (Southwest)--San Buenaventura (Ventura) City",47.743,1 
+"06","11105","CA","Ventura County (North)--Santa Paula, Fillmore & Ojai Cities",1430.763,1 
+"06","11106","CA","Ventura County (South Central)--Camarillo & Moorpark Cities",203.156,1 
+"06","11300","CA","Yolo County--Davis, Woodland & West Sacramento Cities",1014.689,1 
+"08","00100","CO","Northeast Colorado--Eastern Plains Region",23787.486,1 
+"08","00102","CO","Larimer County (South)--Loveland City",723.791,1 
+"08","00103","CO","Larimer County (North)--Fort Collins City",1872.21,1 
+"08","00200","CO","Northwest Colorado--Garfield, Routt, Moffat & Rio Blanco Counties",13273.813,1 
+"08","00300","CO","Weld County (South Central)--Greeley, Windsor & Evans Cities",568.856,1 
+"08","00400","CO","Eagle, Summit, Grand & Jackson Counties",6723.637,1 
+"08","00600","CO","Fremont, Chaffee, Park, Lake, Huerfano, Pueblo (Southwest) & Custer Counties",7729.702,1 
+"08","00700","CO","Pueblo County (North)--Pueblo City & Pueblo West",1273.971,1 
+"08","00800","CO","Southeast Colorado",19250.414,1 
+"08","00801","CO","DRCOG Mountains--Jefferson (West), Boulder (West), Clear Creek & Gilpin Counties",1566.108,1 
+"08","00802","CO","Boulder (Northeast) & Weld (Southwest) Counties--Longmont City & Erie Town",304.221,1 
+"08","00803","CO","Boulder County (Central)--Boulder City",69.924,1 
+"08","00804","CO","Broomfield, Jefferson (Northeast), Adams (Northwest) & Boulder (Southeast) Counties",114.069,1 
+"08","00805","CO","Adams (West) & Jefferson (Far Northeast) Counties--Westminster & Northglenn Cities",28.756,1 
+"08","00806","CO","Adams County (West Central)--Thornton & Federal Heights Cities",31.654,1 
+"08","00807","CO","Adams County (West Central)--Commerce City & Brighton Cities",184.123,1 
+"08","00808","CO","Arapahoe County (West)--Aurora (Southwest) & Centennial (East) Cities",29.601,1 
+"08","00809","CO","Arapahoe (West) & Adams (South Central) Counties--Aurora City (North Central)",19.827,1 
+"08","00810","CO","Arapahoe (Northwest) & Adams (Southwest) Counties--Aurora City (Northwest)",18.01,1 
+"08","00811","CO","Arapahoe County (Southwest)--Centennial (West & Central) & Greenwood Village Cities",46.288,1 
+"08","00812","CO","Denver City (Northeast)",78.814,1 
+"08","00813","CO","Denver City (Northwest)",16.746,1 
+"08","00814","CO","Denver City (South Central)",14.921,1 
+"08","00815","CO","Denver City (Southeast)",26.187,1 
+"08","00816","CO","Denver City (Southwest)",20.147,1 
+"08","00817","CO","Jefferson County (Northeast)--Arvada City",41.275,1 
+"08","00818","CO","Jefferson County (East Central)--Lakewood (North), Wheat Ridge & Golden Cities",40.701,1 
+"08","00819","CO","Jefferson County (East Central)--Lakewood City (South) & Dakota Ridge",45.69,1 
+"08","00820","CO","Arapahoe (West) & Jefferson (East) Counties--Littleton, Englewood Cities & Columbine",29.593,1 
+"08","00821","CO","Douglas (West) & Jefferson (Southeast) Counties--Highlands Ranch & Chatfield Park",105.634,1 
+"08","00822","CO","Douglas County (South)--Castle Rock Town",661.678,1 
+"08","00823","CO","Douglas (Northeast) & Elbert (West) Counties--Parker Town & The Pinery",482.955,1 
+"08","00824","CO","DRCOG East Plains--Arapahoe (East) & Adams (East) Counties--Aurora City (Northeast)",2354.633,1 
+"08","00900","CO","La Plata, Montezuma, Gunnison, Archuleta, Dolores, Hinsdale & San Juan Counties",10882.671,1 
+"08","01001","CO","Mesa County (Central)--Greater Grand Junction & Fruita Cities",133.661,1 
+"08","01002","CO","Mesa (Outside Grand Junction City), Montrose, Delta, San Miguel & Ouray Counties",8406.263,1 
+"08","04101","CO","El Paso (Outside Colorado Springs City) & Teller Counties--Fountain City",2320.883,1 
+"08","04102","CO","El Paso County (West Central)--Colorado Springs City (West)",54.026,1 
+"08","04103","CO","El Paso County (Central)--Colorado Springs City (Central)",29.965,1 
+"08","04104","CO","El Paso County (Central)--Colorado Springs City (East) & Cimarron Hills",25.436,1 
+"08","04105","CO","El Paso County (Central)--Colorado Springs City (South) & Security-Widefield",48.98,1 
+"08","04106","CO","El Paso County (North Central)--Colorado Springs City (North) & Monument Town",204.567,1 
+"09","00100","CT","Danbury, Ridgefield, Bethel, Brookfield, New Fairfield, Redding & Sherman Towns",186.902,1 
+"09","00101","CT","Fairfield, New Canaan, Wilton, Weston & Easton Towns",126.12,1 
+"09","00102","CT","Stamford & Greenwich Towns",85.261,1 
+"09","00103","CT","Norwalk, Westport & Darien Towns",55.473,1 
+"09","00104","CT","Bridgeport Town",15.974,1 
+"09","00105","CT","Stratford, Shelton, Trumbull, Newtown & Monroe Towns",155.161,1 
+"09","00300","CT","Hartford County (North)",259.719,1 
+"09","00301","CT","Manchester & East Hartford Towns",45.399,1 
+"09","00302","CT","Hartford Town",17.381,1 
+"09","00303","CT","West Hartford, Farmington, Simsbury, Bloomfield, Avon & Canton Towns",157.579,1 
+"09","00304","CT","Bristol, Southington & Burlington Towns",92.064,1 
+"09","00305","CT","New Britain, Berlin & Plainville Towns",49.428,1 
+"09","00306","CT","Glastonbury, Newington, Wethersfield, Rocky Hill & Marlborough Towns",113.527,1 
+"09","00500","CT","Litchfield County",920.56,1 
+"09","00700","CT","Middlesex County",369.301,1 
+"09","00900","CT","New Haven County (Northwest)",183.191,1 
+"09","00901","CT","Waterbury Town",28.519,1 
+"09","00902","CT","Meriden, Wallingford & North Haven Towns",83.673,1 
+"09","00903","CT","Hamden, Ansonia, Seymour, Derby, Woodbridge & Bethany Towns",98.179,1 
+"09","00904","CT","West Haven, Milford & Orange Towns",50.103,1 
+"09","00905","CT","New Haven Town",18.679,1 
+"09","00906","CT","East Haven, Branford, Guilford, Madison & North Branford Towns",142.162,1 
+"09","01100","CT","New London County (North)",467.504,1 
+"09","01101","CT","New London County (South)",197.374,1 
+"09","01300","CT","Tolland County",410.214,1 
+"09","01500","CT","Windham County",512.91,1 
+"10","00101","DE","New Castle County (East Central)--Wilmington City",22.889,1 
+"10","00102","DE","New Castle County (North)--Hockessin",84.8,1 
+"10","00103","DE","New Castle County (West Central)--Newark City & Brookside",58.386,1 
+"10","00104","DE","New Castle County (South)--Middletown Town, Bear & Glasgow",260.211,1 
+"10","00200","DE","Kent County--Dover City",586.179,1 
+"10","00300","DE","Sussex County",936.079,1 
+"11","00101","DC","District of Columbia (West)",14.211,1 
+"11","00102","DC","District of Columbia (North)",9.533,1 
+"11","00103","DC","District of Columbia (Northeast)",11.065,1 
+"11","00104","DC","District of Columbia (East)",16.398,1 
+"11","00105","DC","District of Columbia (Central)",9.842,1 
+"12","00101","FL","Alachua County (Central)--Gainesville City (Central)",72.696,1 
+"12","00102","FL","Alachua County (Outer)",802.324,1 
+"12","00500","FL","Walton, Washington, Holmes & Bay Counties",2857.665,1 
+"12","00901","FL","Brevard County (Northwest)--Titusville, Rockledge & Cocoa Cities",313.806,1 
+"12","00902","FL","Brevard County (East)--Beaches & Merritt Island",209.149,1 
+"12","00903","FL","Brevard County (Southwest)--Melbourne & West Melbourne Cities",348.157,1 
+"12","00904","FL","Brevard County (Southeast)--Palm Bay City, Grant-Valkaria & Malabar Towns",144.552,1 
+"12","01101","FL","Broward County (West)--Coral Springs & Parkland Cities",837.002,1 
+"12","01102","FL","Broward County (North Central)--Margate & Coconut Creek Cities",21.642,1 
+"12","01103","FL","Broward County--Deerfield, Pompano Beach (North) & Lighthouse Point Cities",21.296,1 
+"12","01104","FL","Broward County--Pompano Beach (South) & Fort Lauderdale (Northeast) Cities",27.034,1 
+"12","01105","FL","Broward County (Central)--Tamarac, Oakland Park & North Lauderdale Cities",31.865,1 
+"12","01106","FL","Broward County (Central)--Plantation & Sunrise Cities",38.573,1 
+"12","01107","FL","Broward County (Central)--Lauderhill & Lauderdale Lakes Cities",12.257,1 
+"12","01108","FL","Broward County (East Central)--Fort Lauderdale City (Central)",29.002,1 
+"12","01109","FL","Broward County (Southeast)--Hollywood (North) & Dania Beach (South) Cities",27.962,1 
+"12","01110","FL","Broward County (Central)--Davie Town & Cooper City",39.114,1 
+"12","01111","FL","Broward County--Weston, Pembroke Pines (Northwest) Cities & Southwest Ranches Town",56.07,1 
+"12","01112","FL","Broward County (South Central)--Miramar (West) & Pembroke Pines (Southwest) Cities",35.058,1 
+"12","01113","FL","Broward County (Southeast)--Hollywood (South) & Pembroke Pines (East) Cities",18.162,1 
+"12","01114","FL","Broward County (Southeast)--Miramar (East), Hallandale Beach & West Park Cities",14.748,1 
+"12","01500","FL","Charlotte County",680.279,1 
+"12","01701","FL","Citrus County",581.696,1 
+"12","01900","FL","Clay County",604.36,1 
+"12","02101","FL","Collier County (Northwest)",70.704,1 
+"12","02102","FL","Collier County (Southwest)",69.501,1 
+"12","02103","FL","Collier County (East)",1858.119,1 
+"12","02300","FL","Columbia, Levy, Bradford, Gilchrist, Dixie & Union Counties",3508.027,1 
+"12","02700","FL","Southwest Heartland--Highlands (Northwest), DeSoto & Hardee Counties",1684.929,1 
+"12","03101","FL","Duval County (Outer)--Jacksonville City (North & West)",402.371,1 
+"12","03102","FL","Duval County (Northwest Central)--Jacksonville City (Northwest)",58.939,1 
+"12","03103","FL","Duval County (North Central)--Jacksonville City (Arlington)",33.829,1 
+"12","03104","FL","Duval County (East)--Jacksonville City (Beaches)",52.609,1 
+"12","03105","FL","Duval County (Southeast)--Jacksonville City (Southeast)",101.057,1 
+"12","03106","FL","Duval County (South Central)--Jacksonville City (Southeast River)",51.641,1 
+"12","03107","FL","Duval County (Southwest Central)--Jacksonville City (Southwest)",61.745,1 
+"12","03301","FL","Escambia County (North)",526.474,1 
+"12","03302","FL","Escambia County (South)",129.987,1 
+"12","03500","FL","Flagler & Volusia (North Central) Counties",508.473,1 
+"12","05301","FL","Hernando County",472.539,1 
+"12","05701","FL","Hillsborough County (Central)--Tampa City (Central)",30.88,1 
+"12","05702","FL","Hillsborough County (Southwest)--Tampa City (South)",57.642,1 
+"12","05703","FL","Hillsborough County (Northwest)",79.251,1 
+"12","05704","FL","Hillsborough County (North Central)",61.061,1 
+"12","05705","FL","Hillsborough County (North Central)--Tampa City (North)",103.194,1 
+"12","05706","FL","Hillsborough County (Northeast)",208.96,1 
+"12","05707","FL","Hillsborough County (Central)",76.389,1 
+"12","05708","FL","Hillsborough County (South County)",402.836,1 
+"12","06100","FL","Indian River County",502.872,1 
+"12","06300","FL","Apalachee Region (Outside Leon County)",5140.239,1 
+"12","06901","FL","Lake County (North)",430.299,1 
+"12","06902","FL","Sumter (North) & Lake (North) Counties",287.851,1 
+"12","06903","FL","Lake (South) & Sumter (South) Counties",767.164,1 
+"12","07101","FL","Lee County (South & West)--Barrier Islands Region",139.141,1 
+"12","07102","FL","Lee County (Northwest)--Cape Coral City",125.535,1 
+"12","07103","FL","Lee County (Northeast)--Lehigh Acres & North Fort Myers",217.233,1 
+"12","07104","FL","Lee County (Central)--Greater Fort Myers City",79.463,1 
+"12","07105","FL","Lee County (Southeast)--Bonita Springs City & Estero (East)",223.141,1 
+"12","07300","FL","Leon County (Outer)",614.902,1 
+"12","07301","FL","Leon County (Central)--Tallahassee City (Central)",51.95,1 
+"12","08101","FL","Manatee County (North)",369.634,1 
+"12","08102","FL","Manatee County (West Central)",43.651,1 
+"12","08103","FL","Manatee County (South)",329.646,1 
+"12","08301","FL","Marion County (North)",1218.485,1 
+"12","08302","FL","Marion County (Central)--Ocala City",123.736,1 
+"12","08303","FL","Marion County (South Central)",242.325,1 
+"12","08500","FL","Martin County",543.464,1 
+"12","08601","FL","Miami-Dade County (North Central)--Greater Miami Lakes Town",29.321,1 
+"12","08602","FL","Miami-Dade County (North Central)--Miami Gardens City (North & West)",16.208,1 
+"12","08603","FL","Miami-Dade County (Northeast)--Greater North Miami Beach City (West)",13.825,1 
+"12","08604","FL","Miami-Dade County (Northeast)--Aventura City & Surfside Town",10.056,1 
+"12","08605","FL","Miami-Dade County--North Miami City (Southwest) & Golden Glades (West)",14.262,1 
+"12","08606","FL","Miami-Dade County (Northeast)--Opa-Locka City, West Little River & Westview",20.341,1 
+"12","08607","FL","Miami-Dade County (Northeast)--Hialeah City (North Central)",7.045,1 
+"12","08608","FL","Miami-Dade County (North Central)--Doral, Sweetwater Cities & Fontainebleau",84.592,1 
+"12","08609","FL","Miami-Dade County (Northeast)--Hialeah City (South Central)",9.7,1 
+"12","08610","FL","Miami-Dade County (Central)--Miami Springs City & Miami International Airport",21.313,1 
+"12","08611","FL","Miami-Dade County (Northeast Central)--Miami City (North)",9.891,1 
+"12","08612","FL","Miami-Dade County (Northeast)--Miami Beach City & Miami Shores Village",11.549,1 
+"12","08613","FL","Miami-Dade County (Northeast Central)--Miami City (Downtown)",7.512,1 
+"12","08614","FL","Miami-Dade County (East)--Miami City (East) & Key Biscayne Village",12.492,1 
+"12","08615","FL","Miami-Dade County (East Central)--Miami City (West)",8.572,1 
+"12","08616","FL","Miami-Dade County (East)--Coral Gables City, Pinecrest Village & Kendall (South)",29.221,1 
+"12","08617","FL","Miami-Dade County (East Central)--South Miami City, Westchester & Coral Terrace",16.724,1 
+"12","08618","FL","Miami-Dade County (North Central)--Tamiami Trail Region (South)--Tamiami",20.376,1 
+"12","08619","FL","Miami-Dade County (Central)--Kendale Lakes (Southwest) & Kendall West (South)",15.234,1 
+"12","08620","FL","Miami-Dade County (East Central)--Kendall (North), Sunset & Westwood Lakes",19.669,1 
+"12","08621","FL","Miami-Dade County (Central)--The Hammocks (West), Richmond West (West) & Country Walk",32.759,1 
+"12","08622","FL","Miami-Dade County (Southwest)--South Miami Heights",51.706,1 
+"12","08623","FL","Miami-Dade County (Southeast)--Cutler Bay Town & Palmetto Bay Village",48.436,1 
+"12","08624","FL","Miami-Dade County (South)--Homestead City (North) & Florida City (North)",29.115,1 
+"12","08700","FL","Miami-Dade (South/Outside Urban Development Boundary) & Monroe Counties",2341.081,1 
+"12","08900","FL","Nassau & Baker Counties",1233.87,1 
+"12","09100","FL","Okaloosa County",930.247,1 
+"12","09300","FL","Southeast Heartland--Highlands (South & East), Okeechobee, Hendry & Glades Counties",3334.196,1 
+"12","09501","FL","Orange County (Northwest)",135.01,1 
+"12","09502","FL","Orange County (West Central)--Winter Garden, Ocoee Cities & Oakland Town",52.813,1 
+"12","09503","FL","Orange County (Southwest)--Disney-International Drive Region",131.427,1 
+"12","09504","FL","Orange County (South Central)--Orlando City (South Central), Conway & Pine Castle",34.105,1 
+"12","09505","FL","Orange County (Central)--Orlando City (East Downtown) & Azalea Park",24.795,1 
+"12","09506","FL","Orange County (Central)--Orlando City (West Downtown) & Pine Hills (Southeast)",25.969,1 
+"12","09507","FL","Orange County (North Central)--Orlando (North), Winter Park & Maitland Cities",32.188,1 
+"12","09508","FL","Orange County (North Central)--Orlando City (Univ. of Central Florida) & Union Park",32.633,1 
+"12","09509","FL","Orange County (Southeast)",231.404,1 
+"12","09510","FL","Orange County (Northeast)",203.084,1 
+"12","09701","FL","Osceola County (West)",184.583,1 
+"12","09702","FL","Osceola County (East)",1142.869,1 
+"12","09901","FL","Palm Beach County (Northeast)",79.519,1 
+"12","09902","FL","Palm Beach County (Northeast)--Palm Beach Gardens & Riviera Beach Cities",107.54,1 
+"12","09903","FL","Palm Beach County (East)--West Palm Beach City (Southeast) & Palm Beach Town",39.004,1 
+"12","09904","FL","Palm Beach County (East)--Greenacres City (North) & Palm Springs Village (North)",26.055,1 
+"12","09905","FL","Palm Beach County (East Central)--Lake Worth City, Lantana Town & Atlantis City",26.466,1 
+"12","09906","FL","Palm Beach County (East Central)--Greater Boynton Beach City (North)",40.267,1 
+"12","09907","FL","Palm Beach County (Southeast)--Greater Delray Beach City",34.924,1 
+"12","09908","FL","Palm Beach County (Southeast)--Boca Raton City & Highland Beach Town",37.631,1 
+"12","09909","FL","Palm Beach County (West of Boca Raton City)",35.207,1 
+"12","09910","FL","Palm Beach County (Central)--Wellington Village & Agricultural Reserve",101.818,1 
+"12","09911","FL","Palm Beach County (West)--Glades & Western Communities",1441.332,1 
+"12","10101","FL","Pasco County (East Central)",406.878,1 
+"12","10102","FL","Pasco County (West Central)",173.152,1 
+"12","10103","FL","Pasco County (Gulf Coast)",54.969,1 
+"12","10104","FL","Pasco County (South)",111.886,1 
+"12","10301","FL","Pinellas County (North)",60.587,1 
+"12","10302","FL","Pinellas County (North Central)",33.956,1 
+"12","10303","FL","Pinellas County (Central)--Clearwater City (South & Central)",25.112,1 
+"12","10304","FL","Pinellas County (Central)--Greater Largo City",27.94,1 
+"12","10305","FL","Pinellas County (West Central)--Greater Seminole City",28.005,1 
+"12","10306","FL","Pinellas County (Central)--Greater Pinellas Park City",33.928,1 
+"12","10307","FL","Pinellas County (Southeast)--St. Petersburg City (East)",36.684,1 
+"12","10308","FL","Pinellas County (South Central)--St. Petersburg City (West)",27.586,1 
+"12","10501","FL","Polk County (Northwest)",287.87,1 
+"12","10502","FL","Polk County (Northeast)",318.044,1 
+"12","10503","FL","Polk County (Central)",144.613,1 
+"12","10504","FL","Polk County (South)",1047.31,1 
+"12","10700","FL","Putnam & St. Johns (South) Counties",970.81,1 
+"12","10900","FL","St. Johns County (North)",357.467,1 
+"12","11101","FL","St. Lucie County (North)",455.483,1 
+"12","11102","FL","St. Lucie County (South)",116.443,1 
+"12","11300","FL","Santa Rosa County",1011.605,1 
+"12","11501","FL","Sarasota County (North)",45.283,1 
+"12","11502","FL","Sarasota County (Central & Gulf Coast)",77.304,1 
+"12","11503","FL","Sarasota County (East)",433.281,1 
+"12","11701","FL","Seminole County (West)",59.415,1 
+"12","11702","FL","Seminole County (North Central)",43.808,1 
+"12","11703","FL","Seminole County (South Central)",33.146,1 
+"12","11704","FL","Seminole County (East)",172.852,1 
+"12","12100","FL","Suwannee, Taylor, Madison, Hamilton & Lafayette Counties",3485.007,1 
+"12","12701","FL","Volusia County (Central & Northwest)--DeLand, DeBary Cities & Pierson Town",343.097,1 
+"12","12702","FL","Volusia County (Northeast)--Daytona Beach, Ormond Beach & Holly Hill Cities",175.966,1 
+"12","12703","FL","Volusia County--Port Orange, Edgewater, New Smyrna Beach (East) & Oak Hill Cities",147.977,1 
+"12","12704","FL","Volusia County (Southwest Central)--Deltona & Lake Helen Cities",410.98,1 
+"13","00100","GA","Coastal Regional Commission (South)--Glynn Camden & McIntosh Counties",1457.077,1 
+"13","00200","GA","Coastal Regional Commission (West)--Liberty, Bryan & Long Counties",1326.061,1 
+"13","00300","GA","Coastal Regional Commission (North)--Bulloch, Effingham & Screven Counties",1795.61,1 
+"13","00401","GA","Coastal Regional Commission (East)--Chatham County (West Central)--Savannah City",128.329,1 
+"13","00402","GA","Coastal Regional Commission (East)--Chatham County (East & Outside Savannah City)",298.107,1 
+"13","00500","GA","Southern Georgia Regional Commission (East & Central)",4998.326,1 
+"13","00600","GA","Southern Georgia Regional Commission (South Central)--Lowndes County--Valdosta City",496.066,1 
+"13","00700","GA","Southern Georgia Regional Commission (West)",2320.875,1 
+"13","00800","GA","Southwest Georgia Regional Commission (East)--Colquitt, Thomas & Worth Counties",1659.451,1 
+"13","00900","GA","Southwest Georgia Regional Commission (North Central)--Dougherty & Lee Counties",684.472,1 
+"13","01001","GA","Atlanta Regional Commission (Central)--Fulton County (North)--Sandy Springs City",45.815,1 
+"13","01002","GA","Atlanta Regional Commission (Central)--Fulton County (Northeast)--Johns Creek City",44.376,1 
+"13","01003","GA","Atlanta Regional Commission (Central)--Fulton County (Central)--Atlanta City (South)",70.673,1 
+"13","01004","GA","Atlanta Regional Commission (Central)--Fulton County (South)--Union & Fairburn Cities",181.237,1 
+"13","01005","GA","Atlanta Regional Commission (Central)--Fulton County (Northwest)--Roswell City",92.945,1 
+"13","01006","GA","Atlanta Regional Commission (Central)--Fulton County (Central)--Atlanta City (North)",33.378,1 
+"13","01007","GA","Atlanta Regional Commission (Central)--Fulton County (East)--Atlanta City (Southeast)",25.99,1 
+"13","01008","GA","Atlanta Regional Commission (Central)--DeKalb County (South)",71.082,1 
+"13","01100","GA","Southwest Georgia Regional Commission (West & Central)",3551.742,1 
+"13","01200","GA","Heart of Georgia Altamaha Regional Commission (Southeast)",3478.17,1 
+"13","01300","GA","Heart of Georgia Altamaha Regional Commission (North & West)",3322.854,1 
+"13","01400","GA","Middle Georgia Regional Commission (Central)--Bibb County--Macon City",249.762,1 
+"13","01500","GA","Middle Georgia Regional Commission (South)--Houston & Pulaski Counties",624.572,1 
+"13","01600","GA","Middle Georgia Regional Commission (North & Outside Bibb County)",2672.935,1 
+"13","01700","GA","River Valley Regional Commission (West Central)--Muscogee & Chattahoochee Counties",465.121,1 
+"13","01800","GA","River Valley Regional Commission (Outside Muscogee & Chattahoochee Counties)",4755.42,1 
+"13","01900","GA","Three Rivers Regional Commission (East)",1103.884,1 
+"13","02001","GA","Atlanta Regional Commission (Central)--DeKalb County (East Central)--Redan",57.617,1 
+"13","02002","GA","Atlanta Regional Commission--DeKalb County--Decatur & Avondale Estates Cities",36.843,1 
+"13","02003","GA","Atlanta Regional Commission (Central)--DeKalb County (Northeast)--Tucker",57.697,1 
+"13","02004","GA","Atlanta Regional Commission--DeKalb County (North)--Dunwoody City",37.74,1 
+"13","02100","GA","Three Rivers Regional Commission (North Central)--Coweta County",440.892,1 
+"13","02200","GA","Three Rivers Regional Commission (Southwest)--Troup, Meriwether & Heard Counties",1211.241,1 
+"13","02300","GA","Three Rivers Regional Commission (Northwest)--Carroll County",499.076,1 
+"13","02400","GA","Atlanta Regional Commission (South Central)--Fayette County",194.342,1 
+"13","02500","GA","Northwest Georgia Regional Commission (Southwest)--Floyd, Polk & Haralson Counties",1102.407,1 
+"13","02600","GA","Northwest Georgia Regional Commission--Walker, Catoosa, Chattooga & Dade Counties",1095.858,1 
+"13","02700","GA","Northwest Georgia Regional Commission (North Central)--Whitfield County",290.464,1 
+"13","02800","GA","Northwest Georgia Regional Commission (Northeast)",1745.595,1 
+"13","02900","GA","Northwest Georgia Regional Commission (East Central)--Bartow County",459.544,1 
+"13","03001","GA","Atlanta Regional Commission (Northwest)--Cobb County (Central)--Marietta City",56.64,1 
+"13","03002","GA","Atlanta Regional Commission--Cobb County (Northwest)--Kennesaw & Acworth Cities",65.043,1 
+"13","03003","GA","Atlanta Regional Commission (Northwest)--Cobb County (Southwest)--Powder Springs City",88.689,1 
+"13","03004","GA","Atlanta Regional Commission (Northwest)--Cobb County (Southeast)--Smyrna City",63.734,1 
+"13","03005","GA","Atlanta Regional Commission (Northwest)--Cobb County (Northeast)",65.443,1 
+"13","03101","GA","Atlanta Regional Commission--Cherokee County (Central)--Woodstock & Canton Cities",87.84,1 
+"13","03102","GA","Atlanta Regional Commission--Cherokee County (Outside Woodstock & Canton Cities)",333.833,1 
+"13","03200","GA","Georgia Mountains Regional Commission (North & Northwest)",1592.931,1 
+"13","03300","GA","Georgia Mountains Regional Commission (Southwest)--Forsyth County",224.021,1 
+"13","03400","GA","Georgia Mountains Regional Commission (South Central)--Hall County",392.782,1 
+"13","03500","GA","Georgia Mountains Regional Commission (Southeast)",1181.852,1 
+"13","03600","GA","Northeast Georgia Regional Commission (Central)--Clarke County--Athens City",119.2,1 
+"13","03700","GA","Northeast Georgia Regional Commission (East)",1644.103,1 
+"13","03800","GA","Northeast Georgia Regional Commission (Northwest)--Barrow & Jackson Counties",499.972,1 
+"13","03900","GA","Northeast Georgia Regional Commission (Southwest)--Walton, Morgan & Jasper Counties",1041.195,1 
+"13","04000","GA","Central Savannah River Area Regional Commission (East Central)--Richmond County",324.326,1 
+"13","04001","GA","Atlanta Regional Commission (Northeast)--Gwinnett County (West Central)--Duluth City",59.307,1 
+"13","04002","GA","Atlanta Regional Commission (Northeast)--Gwinnett County (North)--Sugar Hill City",82.374,1 
+"13","04003","GA","Atlanta Regional Commission--Gwinnett County (Central)--Lawrenceville City",69.937,1 
+"13","04004","GA","Atlanta Regional Commission (Northeast)--Gwinnett County (East)",90.074,1 
+"13","04005","GA","Atlanta Regional Commission (Northeast)--Gwinnett County (South)--Snellville City",69.49,1 
+"13","04006","GA","Atlanta Regional Commission (Northeast)--Gwinnett County (Southwest)--Lilburn City",59.202,1 
+"13","04100","GA","Central Savannah River Area Regional Commission (East Central)--Columbia County",290.09,1 
+"13","04200","GA","Central Savannah River Area Regional Commission (West & Outside Richmond & Columbia)",4411,1 
+"13","04300","GA","Atlanta & Northeast Georgia Regional Commissions--Newton & Rockdale Counties",401.954,1 
+"13","04400","GA","Atlanta Regional Commission (Southwest)--Douglas County",200.067,1 
+"13","04500","GA","Northwest Georgia Regional Commission (Southeast)--Paulding County",312.219,1 
+"13","04600","GA","Atlanta Regional Commission--Fulton County (Central)--Atlanta City (Central)",38.824,1 
+"13","05001","GA","Atlanta Regional Commission (South Central)--Clayton County (South)",67.918,1 
+"13","05002","GA","Atlanta Regional Commission (South Central)--Clayton County (North)--Forest Park City",73.652,1 
+"13","06001","GA","Atlanta Regional Commission (Southeast)--Henry County (South)--McDonough City",203.104,1 
+"13","06002","GA","Atlanta Regional Commission (Southeast)--Henry County (North)--Stockbridge City",119.022,1 
+"15","00100","HI","Maui, Kalawao & Kauai Counties",1793.469,1 
+"15","00200","HI","Hawaii County",4028.417,1 
+"15","00301","HI","Honolulu County--Rural Oahu",259.413,1 
+"15","00302","HI","Honolulu County--Koolaupoko",67.424,1 
+"15","00303","HI","Honolulu County--East Honolulu to Kapahulu",33.736,1 
+"15","00304","HI","Honolulu County--Tantalus to Waikiki",11.745,1 
+"15","00305","HI","Honolulu County--Nuuanu to Kalihi",20.069,1 
+"15","00306","HI","Honolulu County--Moanalua to Pearl City",65.148,1 
+"15","00307","HI","Honolulu County--Central Oahu",76.202,1 
+"15","00308","HI","Honolulu County--Ewa",67.006,1 
+"16","00100","ID","Bonner, Latah, Shoshone, Boundary, Benewah & Kootenai (Southeast) Counties",8150.089,1 
+"16","00200","ID","Kootenai County (Northwest)--Coeur dAlene, Post Falls & Hayden Cities",579.446,1 
+"16","00300","ID","Central Idaho--Lewiston City & Nez Perce Reservation",32668.5,1 
+"16","00400","ID","Ada (North), Payette, Canyon (North), Gem & Washington Counties--Eagle City",2857.94,1 
+"16","00500","ID","Canyon (South) & Owyhee Counties--Caldwell & Nampa (South & West) Cities",7941.935,1 
+"16","00600","ID","Canyon (East) & Ada (West) Counties--Nampa (Central & East) & Meridian (West) Cities",110.697,1 
+"16","00701","ID","Ada County (Central)--Meridian (Northeast) & Boise (Far West) Cities",40.809,1 
+"16","00702","ID","Ada County (Northeast)--Boise (North & West) & Garden City Cities",39.539,1 
+"16","00800","ID","Ada County (South)--Boise (South) & Kuna Cities",735.285,1 
+"16","00900","ID","Twin Falls & Cassia Counties--Twin Falls City",4486.293,1 
+"16","01000","ID","Elmore, Jerome, Blaine, Minidoka, Gooding, Lincoln & Camas Counties",10077.971,1 
+"16","01100","ID","Bingham (Outside Fort Hall AIR), Madison, Jefferson, Fremont & Teton Counties",5618.568,1 
+"16","01200","ID","Bonneville County--Idaho Falls City",1866.077,1 
+"16","01300","ID","Southeast Idaho--Pocatello, Chubbuck Cities & Fort Hall Reservation",7469.966,1 
+"17","00104","IL","Jo Daviess, Carroll, Whiteside & Lee Counties",2455.041,1 
+"17","00105","IL","Rock Island County",427.636,1 
+"17","00202","IL","Henry, Mercer, Henderson, Warren, Hancock, McDonough & Fulton Counties",4554.193,1 
+"17","00300","IL","Adams, Pike, Brown, Schuyler & Mason Counties",2968.701,1 
+"17","00401","IL","Cass, Morgan, Scott, Greene, Macoupin, Jersey & Calhoun Counties",3224.544,1 
+"17","00501","IL","Montgomery, Bond, Clinton, Fayette & Effingham Counties",2753.31,1 
+"17","00600","IL","Douglas, Edgar, Coles & Cumberland Counties",1894.354,1 
+"17","00700","IL","Clark, Jasper, Crawford, Lawrence, Richland, Clay & Wayne Counties",3353.855,1 
+"17","00800","IL","South & Southeast Illinois",4053.572,1 
+"17","00900","IL","Jackson, Williamson, Franklin & Perry Counties",1854.88,1 
+"17","01001","IL","Monroe, Randolph, Washington, Jefferson & Marion Counties",2666.615,1 
+"17","01104","IL","St. Clair County (Central & Northeast)",280.234,1 
+"17","01105","IL","St. Clair County (Northwest, Southwest & Southeast)",377.525,1 
+"17","01204","IL","Madison County (East)",468.188,1 
+"17","01205","IL","Madison County (West)--Granite City, Alton, Wood River Cities & Godfrey Village",247.393,1 
+"17","01300","IL","Sangamon County--Springfield City",868.302,1 
+"17","01500","IL","Macon County--Decatur City",580.689,1 
+"17","01602","IL","Menard, Logan, De Witt, Piatt, Moultrie, Shelby & Christian Counties",3573.055,1 
+"17","01701","IL","Peoria County--Peoria City",619.209,1 
+"17","01900","IL","Tazewell County",648.974,1 
+"17","02000","IL","McLean County",1183.378,1 
+"17","02100","IL","Champaign County--Champaign & Urbana Cities",996.266,1 
+"17","02200","IL","Livingston, Ford, Iroquois & Vermilion Counties",3545.586,1 
+"17","02300","IL","Kankakee County",676.556,1 
+"17","02400","IL","LaSalle County",1135.124,1 
+"17","02501","IL","Knox, Stark, Bureau, Marshall & Woodford Counties",2948.254,1 
+"17","02601","IL","DeKalb County",631.307,1 
+"17","02700","IL","Stephenson & Ogle Counties",1323.097,1 
+"17","02801","IL","Winnebago County (Southeast & West)--Rockford City",373.44,1 
+"17","02901","IL","Winnebago (Northeast) & Boone Counties",420.641,1 
+"17","03005","IL","Kane County (Southeast)--Aurora Township",34.677,1 
+"17","03007","IL","Kane County (East)--St. Charles, Batavia (Central) & Geneva (Central) Townships",64.124,1 
+"17","03008","IL","Kane County (Northeast)--Elgin (North & Central) & Dundee Townships",54.527,1 
+"17","03009","IL","Kane County (West)",366.73,1 
+"17","03102","IL","Will County (West Central)--Joliet & Troy Townships",69.997,1 
+"17","03105","IL","Will County (Northwest Central)--Plainfield & Lockport Townships",69.422,1 
+"17","03106","IL","Will County (Northwest)--DuPage & Wheatland Townships",71.75,1 
+"17","03107","IL","Will County (Northeast)--Frankfort, Homer & New Lenox (North) Townships",94.111,1 
+"17","03108","IL","Will County (South)",531.628,1 
+"17","03202","IL","DuPage County (Central)--Milton Township",34.39,1 
+"17","03203","IL","DuPage County (South Central)--Lisle Township",35.328,1 
+"17","03204","IL","DuPage County (Southeast)--Downers Grove Township",49.562,1 
+"17","03205","IL","DuPage County (East Central)--York Township",35.067,1 
+"17","03207","IL","Dupage County (Northeast)--Addison & Bloomingdale (North) Townships",44.48,1 
+"17","03208","IL","DuPage County (Northwest)--Bloomingdale (South), Wayne & Winfield (North) Townships",72.361,1 
+"17","03209","IL","DuPage County (Southwest)--Naperville & Winfield (South) Townships",56.311,1 
+"17","03306","IL","Lake County (Northwest)--Avon, Lake Villa, Antioch & Grant Townships",97.729,1 
+"17","03307","IL","Lake County (Northeast)--Waukegan, Zion, Benton & Newport Townships",77.248,1 
+"17","03308","IL","Lake County (Southwest)--Ela, Freemont, Wauconda & Cuba Townships",114.214,1 
+"17","03309","IL","Lake County (East Central)--Warren, Libertyville (North & East) & Shields Townships",83.558,1 
+"17","03310","IL","Lake County--Vernon, Moraine, West Deerfield & Libertyville (Southeast) Townships",70.921,1 
+"17","03401","IL","Cook County (Northwest)--Palatine & Barrington Townships",70.326,1 
+"17","03407","IL","Cook County (West Central)--Proviso, Riverside & River Forest Townships",36.212,1 
+"17","03408","IL","Cook County (Central)--Cicero, Berwyn & Oak Park Townships",14.47,1 
+"17","03409","IL","Cook County (West Central)--Lyons & Stickney Townships",48.837,1 
+"17","03410","IL","Cook County (Southwest)--Orland (West & Central), Palos & Lemont Townships",88.383,1 
+"17","03411","IL","Cook County (South Central)--Worth & Calumet Townships",36.316,1 
+"17","03412","IL","Cook County (South Central)--Bremen & Orland (East) Townships",39.218,1 
+"17","03413","IL","Cook County (Southeast)--Thornton Township",46.925,1 
+"17","03414","IL","Cook County (South)--Bloom & Rich Townships",82.858,1 
+"17","03415","IL","Cook County (North)--Wheeling Township (North & East)",30.502,1 
+"17","03416","IL","Cook County (Northeast)--Northfield & New Trier Townships",50.186,1 
+"17","03417","IL","Cook County (Northwest)--Hanover & Schaumburg (Northwest) Townships",37.705,1 
+"17","03418","IL","Cook County (Northwest)--Schaumburg Township (South & Central)",26.392,1 
+"17","03419","IL","Cook County (Northwest)--Elk Grove & Wheeling (Southwest) Townships",33.114,1 
+"17","03420","IL","Cook County (North)--Maine, Norwood Park Townships & Chicago City--Edison Park",32.53,1 
+"17","03421","IL","Cook County (North)--Niles & Evanston Townships",29.011,1 
+"17","03422","IL","Cook County (West)--Leyden, Norwood Park (South) Townships & Chicago City--OHare",33.671,1 
+"17","03501","IL","Chicago City (North)--Edgewater, Uptown & Rogers Park",5.885,1 
+"17","03502","IL","Chicago City (North)--Lake View & Lincoln Park",6.218,1 
+"17","03503","IL","Chicago City (North)--West Ridge, Lincoln Square & North Center",8.149,1 
+"17","03504","IL","Chicago City (Northwest)--Irving Park, Albany Park, Forest Glen & North Park",10.855,1 
+"17","03520","IL","Chicago City (Northwest)--Portage Park, Dunning & Jefferson Park",9.998,1 
+"17","03521","IL","Chicago City (West)--Austin, Belmont Cragin & Montclare",12.02,1 
+"17","03522","IL","Chicago City (Northwest)--Logan Square, Avondale & Hermosa",6.78,1 
+"17","03523","IL","Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park",14.481,1 
+"17","03524","IL","Chicago City (West)--West Town, Near West Side & Lower West Side",13.01,1 
+"17","03525","IL","Chicago City (Central)--Near North Side, Loop & Near South Side",6.042,1 
+"17","03526","IL","Chicago City (Southwest)--Brighton Park, New City, Bridgeport & McKinley Park",13.989,1 
+"17","03527","IL","Chicago City (Southwest)--Gage Park, Garfield Ridge & West Lawn",13.136,1 
+"17","03528","IL","Chicago City (South)--Chicago Lawn, Englewood/West Englewood & Greater Grand Crossing",13.231,1 
+"17","03529","IL","Chicago City (South)--South Shore, Hyde Park, Woodlawn, Grand Boulevard & Douglas",13.729,1 
+"17","03530","IL","Chicago City (South)--Ashburn, Washington Heights, Morgan Park & Beverly",16.773,1 
+"17","03531","IL","Chicago City (South)--Auburn Gresham, Roseland, Chatham, Avalon Park & Burnside",13.38,1 
+"17","03532","IL","Chicago City (South)--South Chicago, Pullman, West Pullman, East Side & South Deering",30.994,1 
+"17","03601","IL","McHenry County (North, West & Central)",465.246,1 
+"17","03602","IL","McHenry County (Southeast)--Algonquin, McHenry & Nunda Townships",137.925,1 
+"17","03700","IL","Kendall & Grundy Counties",738.378,1 
+"18","00101","IN","Lake County (Northwest)--Hammond & East Chicago Cities",38.698,1 
+"18","00102","IN","Lake County (Northeast)--Gary City & Griffith Town",76.643,1 
+"18","00103","IN","Lake County (Central)",79.663,1 
+"18","00104","IN","Lake County (South)",303.958,1 
+"18","00200","IN","Porter County",418.153,1 
+"18","00300","IN","LaPorte County",598.299,1 
+"18","00401","IN","St. Joseph County (North)--South Bend City",51.737,1 
+"18","00402","IN","St. Joseph County (Outside South Bend City)--Mishawaka City",406.114,1 
+"18","00500","IN","Elkhart County--Elkhart & Goshen Cities",463.17,1 
+"18","00600","IN","Noble, DeKalb, LaGrange & Steuben Counties",1462.231,1 
+"18","00700","IN","Jasper, Starke, Fulton, Newton & Pulaski Counties",2072.555,1 
+"18","00800","IN","Kosciusko & Marshall Counties",975.009,1 
+"18","00900","IN","Huntington, Whitley, Adams & Wells Counties",1425.336,1 
+"18","01001","IN","Allen County (Central)--Fort Wayne City (South)",60.914,1 
+"18","01002","IN","Allen County (Central)--Fort Wayne City (North)",68.752,1 
+"18","01003","IN","Allen County (Outside Fort Wayne City)",527.642,1 
+"18","01100","IN","Montgomery, Clinton, White, Carroll & Benton Counties",2193.449,1 
+"18","01200","IN","Tippecanoe County--Lafayette & West Lafayette Cities",499.806,1 
+"18","01300","IN","Howard, Cass & Tipton Counties--Kokomo City",965.752,1 
+"18","01400","IN","Grant, Miami & Wabash Counties",1200.351,1 
+"18","01500","IN","Henry, Randolph, Jay & Blackford Counties",1393.24,1 
+"18","01600","IN","Clay, Sullivan, Parke, Fountain, Vermillion & Warren Counties",2266.562,1 
+"18","01700","IN","Vigo County--Terre Haute City",403.313,1 
+"18","01801","IN","Boone & Hamilton (Northwest) Counties",586.78,1 
+"18","01802","IN","Hamilton County (Central)--Carmel City & Fishers Town (West)",64.319,1 
+"18","01803","IN","Hamilton County (East)--Noblesville City & Fishers Town (East)",166.082,1 
+"18","01900","IN","Madison County--Anderson City",451.915,1 
+"18","02000","IN","Delaware County--Muncie City",392.124,1 
+"18","02100","IN","Morgan, Putnam & Brown Counties",1196.478,1 
+"18","02200","IN","Hendricks County",406.911,1 
+"18","02301","IN","Marion County--Pike & Washington (Northwest) Townships--Indianapolis City (Northwest)",48.411,1 
+"18","02302","IN","Marion County--Washington Township (South & East)--Indianapolis City (North)",41.846,1 
+"18","02303","IN","Marion County--Lawrence Township--Indianapolis (Northeast) & Lawrence Cities",46.88,1 
+"18","02304","IN","Marion County--Wayne & Decatur (Northwest) Townships--Indianapolis City (West)",57.682,1 
+"18","02305","IN","Marion County--Center Township--Indianapolis City (Central)",41.853,1 
+"18","02306","IN","Marion County--Warren & Franklin Townships--Indianapolis City (East & Southeast)",90.448,1 
+"18","02307","IN","Marion County--Perry & Decatur (South & East) Townships--Indianapolis City (South)",69.179,1 
+"18","02400","IN","Johnson County--Greenwood City",320.427,1 
+"18","02500","IN","Hancock & Shelby Counties",717.163,1 
+"18","02600","IN","Wayne, Fayette, Rush & Union Counties",1186.102,1 
+"18","02700","IN","Greene, Daviess, Owen, Orange & Martin Counties",2540.563,1 
+"18","02800","IN","Monroe County--Bloomington City",394.509,1 
+"18","02900","IN","Bartholomew & Jackson Counties--Columbus City",916.22,1 
+"18","03000","IN","Jefferson, Jennings, Decatur & Scott Counties",1300.179,1 
+"18","03100","IN","Dearborn, Franklin, Ripley, Switzerland & Ohio Counties",1442.662,1 
+"18","03200","IN","Warrick, Gibson & Posey Counties",1281.872,1 
+"18","03300","IN","Vanderburgh County--Evansville City",233.475,1 
+"18","03400","IN","Dubois, Knox, Spencer, Perry, Pike & Crawford Counties",2361.653,1 
+"18","03500","IN","Floyd, Harrison & Washington Counties",1146.176,1 
+"18","03600","IN","Clark County--Jeffersonville City",372.855,1 
+"19","00100","IA","Sioux, Clay, Dickinson, OBrien, Lyon, Emmet, Palo Alto & Osceola Counties",4235.272,1 
+"19","00200","IA","Cerro Gordo, Floyd, Kossuth, Hancock, Winnebago, Mitchell & Worth Counties",3882.415,1 
+"19","00400","IA","Bremer, Winneshiek, Fayette, Clayton, Allamakee, Chickasaw & Howard Counties",4251.405,1 
+"19","00500","IA","Black Hawk County--Waterloo & Cedar Falls Cities",565.769,1 
+"19","00600","IA","Webster, Hardin, Hamilton, Butler, Wright, Grundy, Franklin & Humboldt Counties",4540.413,1 
+"19","00700","IA","Dubuque, Buchanan, Jackson & Delaware Counties--Dubuque City",2393.119,1 
+"19","00800","IA","Clinton, Muscatine, Jones & Cedar Counties",2287.441,1 
+"19","00900","IA","Scott County--Davenport City",458.089,1 
+"19","01000","IA","Linn County--Cedar Rapids City",716.88,1 
+"19","01100","IA","Johnson County--Iowa City",614.04,1 
+"19","01200","IA","Marshall, Benton, Poweshiek, Tama & Iowa Counties",3181.166,1 
+"19","01300","IA","Story & Boone Counties--Ames City",1144.387,1 
+"19","01400","IA","Warren, Jasper, Marion, Dallas (West) & Madison Counties",2808.842,1 
+"19","01500","IA","Polk (Southwest) & Dallas (East) Counties--West Des Moines & Urbandale Cities",288.291,1 
+"19","01600","IA","Polk County (East)--Ankeny & Altoona Cities",414.081,1 
+"19","01700","IA","Des Moines City",66.815,1 
+"19","01800","IA","South Central Iowa",6367.421,1 
+"19","01900","IA","Northwest Central Iowa--Storm Lake, Denison & Cherokee Region",5852.821,1 
+"19","02000","IA","Woodbury & Plymouth Counties--Sioux City",1735.727,1 
+"19","02100","IA","Southwest Iowa--Council Bluffs City",4709.803,1 
+"19","02200","IA","Wapello, Mahaska, Washington, Jefferson, Keokuk, Davis & Van Buren Counties",3573.198,1 
+"19","02300","IA","Des Moines, Lee, Henry & Louisa Counties",1769.736,1 
+"20","00100","KS","Northwest Kansas",21091.295,1 
+"20","00200","KS","North Central Kansas--Salina City",9925.224,1 
+"20","00300","KS","Riley, Geary & Pottawatomie Counties--Manhattan City",1835.411,1 
+"20","00400","KS","Northeast Kansas",1819.982,1 
+"20","00500","KS","Wyandotte County--Kansas City",151.6,1 
+"20","00601","KS","Johnson County (Northwest)--Shawnee, Lenexa & De Soto Cities",139.53,1 
+"20","00602","KS","Johnson County (Northeast)--Overland Park (North), Prairie Village & Merriam Cities",43.976,1 
+"20","00603","KS","Johnson County (Southwest)--Olathe, Gardner, Spring Hill & Edgerton Cities",184.54,1 
+"20","00604","KS","Johnson County (Southeast)--Blue Valley Region",105.329,1 
+"20","00700","KS","Douglas County--Lawrence City",455.871,1 
+"20","00801","KS","Shawnee County (Central)--Topeka City",52.835,1 
+"20","00802","KS","Shawnee (Outside Topeka City), Osage, Jackson, Brown & Wabaunsee Counties",3218.091,1 
+"20","00900","KS","Flint Hills Region--Emporia City",8420.686,1 
+"20","01000","KS","Central Kansas--Hutchinson City",2879.858,1 
+"20","01100","KS","South Central Kansas",10094.79,1 
+"20","01200","KS","Southwest Kansas--Dodge City, Garden City & Liberal City",11878.056,1 
+"20","01301","KS","Sedgwick (Northwest) & Harvey Counties--Wichita (Northwest) & Newton Cities",858.506,1 
+"20","01302","KS","Sedgwick (Northeast) & Butler (North & East) Counties--Wichita City (Northeast)",1285.197,1 
+"20","01303","KS","Sedgwick County (Central)--Wichita City (Central)",34.877,1 
+"20","01304","KS","Sedgwick (South) & Butler (Southwest) Counties--Wichita (South) & Derby Cities",788.549,1 
+"20","01400","KS","East Central Kansas",3456.896,1 
+"20","01500","KS","Southeast Kansas",3037.619,1 
+"21","00100","KY","Purchase Area Development District",2370.632,1 
+"21","00200","KY","Pennyrile Area Development District (North)",2026.944,1 
+"21","00300","KY","Pennyrile Area Development District (South)",1747.273,1 
+"21","00400","KY","Barren River Area Development District (Outer)",3378.29,1 
+"21","00500","KY","Barren River Area Development District (Central)--Warren County",541.6,1 
+"21","00600","KY","Lake Cumberland Area Development District (West)",2157.959,1 
+"21","00700","KY","Lake Cumberland Area Development District (East)",1543.381,1 
+"21","00800","KY","Cumberland Valley Area Development District (North)",1564.945,1 
+"21","00900","KY","Cumberland Valley Area Development District (South)",1648.955,1 
+"21","01000","KY","Kentucky River Area Development District",2550.794,1 
+"21","01100","KY","Big Sandy Area Development District",1980.179,1 
+"21","01200","KY","Lincoln Trail Area Development District (East)",1520.755,1 
+"21","01300","KY","Lincoln Trail Area Development District (West)",1791.122,1 
+"21","01400","KY","Green River Area Development District (Southwest)",1951.209,1 
+"21","01500","KY","Green River Area Development District (Northeast)--Daviess & Hancock Counties",645.999,1 
+"21","01600","KY","KIPDA Area Development District (Southeast)",678.198,1 
+"21","01701","KY","KIPDA Area Development District (West)--Louisville/Jefferson County (Northwest)",29.578,1 
+"21","01702","KY","KIPDA Area Development District (West)--Louisville/Jefferson County (North Central)",35.513,1 
+"21","01703","KY","KIPDA Area Development District (West)--Louisville/Jefferson County (Northeast)",64.466,1 
+"21","01704","KY","KIPDA Area Development District (West)--Louisville/Jefferson County (Southeast)",102.77,1 
+"21","01705","KY","KIPDA Area Development District (West)--Louisville/Jefferson County (South Central)",53.933,1 
+"21","01706","KY","KIPDA Area Development District (West)--Louisville/Jefferson County (Southwest)",94.157,1 
+"21","01800","KY","KIPDA Area Development District (Northeast)",810.281,1 
+"21","01901","KY","Bluegrass Area Development District (Central)--Lexington-Fayette County (Central)",27.552,1 
+"21","01902","KY","Bluegrass Area Development District (Central)--Lexington-Fayette County (Outer)",256.098,1 
+"21","02000","KY","Bluegrass Area Development District (West)",847.16,1 
+"21","02100","KY","Bluegrass Area Development District (South)",916.456,1 
+"21","02200","KY","Bluegrass Area Development District (Southeast)",869.35,1 
+"21","02300","KY","Bluegrass Area Development District (Northeast)",1325.484,1 
+"21","02400","KY","Northern Kentucky Area Development District (North Central)--Kenton County",160.25,1 
+"21","02500","KY","Northern Kentucky Area Development District (Northwest)--Boone County",246.359,1 
+"21","02600","KY","Northern Kentucky Area Development District (Southeast)",1267.336,1 
+"21","02700","KY","Buffalo Trace & Gateway Area Development Districts",2717.694,1 
+"21","02800","KY","FIVCO Area Development District",1563.667,1 
+"22","00100","LA","Coordinating & Development Corporation 1--Shreveport City (North)",548.442,1 
+"22","00101","LA","Coordinating & Development Corporation 2--Shreveport City (South)",330.097,1 
+"22","00200","LA","Coordinating & Development Corporation 3--Bossier & Webster Parishes",1433.087,1 
+"22","00300","LA","Coordinating & Development Corporation 4--Northwest Louisiana",5421.467,1 
+"22","00400","LA","North Delta Regional Planning & Development District 1--Ouachita Parish",610.406,1 
+"22","00500","LA","North Delta Regional Planning & Development District 2--Northeast Louisiana",5961.73,1 
+"22","00600","LA","Kisatchie Delta Regional Planning & Development District 1",4455.18,1 
+"22","00700","LA","Kisatchie Delta Regional Planning & Development District 2--Rapides & Vernon Parishes",2645.872,1 
+"22","00800","LA","Imperial Calcasieu Regional Planning & Development District 1 (North)",2653.662,1 
+"22","00900","LA","Imperial Calcasieu Regional Planning & Development District 2 (South)",2265.401,1 
+"22","01000","LA","Acadiana Regional Development District 1--St. Landry & Evangeline Parishes",1586.257,1 
+"22","01100","LA","Acadiana Regional Development District 2--Acadia & Vermilion Parishes",1828.319,1 
+"22","01200","LA","Acadiana Regional Development District 3--Lafayette Parish (North)",174.874,1 
+"22","01201","LA","Acadiana Regional Development District 4--Lafayette Parish (South)",93.846,1 
+"22","01300","LA","Acadiana Regional Development District 5--Iberia, St. Mary & St. Martin Parishes",1867.137,1 
+"22","01400","LA","Capital Region Planning Commission 1--Baton Rouge Metropolitan Area (West)",2224.991,1 
+"22","01500","LA","Capital Region Planning Commission 2--East Baton Rouge Parish (South)",92.738,1 
+"22","01501","LA","Capital Region Planning Commission 3--Baton Rouge City",62.392,1 
+"22","01502","LA","Capital Region Planning Commission 4--East Baton Rouge Parish (North)",300.243,1 
+"22","01600","LA","Capital Region Planning Commission 5--Ascension Parish",289.981,1 
+"22","01700","LA","Capital Region Planning Commission 6--Livingston & St. Helena Parishes",1056.571,1 
+"22","01800","LA","Capital Region Planning Commission 7--Tangipahoa & Washington Parishes",1460.799,1 
+"22","01900","LA","South Central Planning & Development Commission 1--River Parishes",733.691,1 
+"22","02000","LA","South Central Planning & Development Commission 2--Lafourche & Assumption Parishes",1406.873,1 
+"22","02100","LA","South Central Planning & Development Commission 3--Terrebonne Parish",1231.815,1 
+"22","02200","LA","Regional Planning Commission 1--St. Tammany Parish (Northwest)",527.137,1 
+"22","02201","LA","Regional Planning Commission 2--St. Tammany Parish (Southeast)",318.413,1 
+"22","02300","LA","Regional Planning Commission 3--Jefferson Parish (North)",27.137,1 
+"22","02301","LA","Regional Planning Commission 4--Jefferson Parish (Central)",22.238,1 
+"22","02302","LA","Regional Planning Commission 5--Jefferson Parish (West Bank)",63.155,1 
+"22","02400","LA","Regional Planning Commission 6--New Orleans City (Northeast)",126.504,1 
+"22","02401","LA","Regional Planning Commission 7--New Orleans City (Central)",16.618,1 
+"22","02402","LA","Regional Planning Commission 8--New Orleans City (South)",26.301,1 
+"22","02500","LA","Regional Planning Commission 9--St. Bernard, Jefferson (South) & Plaquemines Parishes",1340.53,1 
+"23","00100","ME","Northeast Maine--Aroostook & Washington Counties",9233.99,1 
+"23","00200","ME","Northwest Maine--Oxford, Somerset, Franklin & Piscataquis Counties",11658.709,1 
+"23","00300","ME","Penobscot County",3397.362,1 
+"23","00400","ME","Kennebec County",867.524,1 
+"23","00500","ME","Coastal Maine Region--Hancock, Knox, Waldo & Lincoln Counties",3137.763,1 
+"23","00600","ME","Androscoggin County",467.927,1 
+"23","00700","ME","Sagadahoc & Cumberland (North) Counties--Bath City & Brunswick",571.568,1 
+"23","00800","ME","South Maine--York (West) & Cumberland (West) Counties",1164.971,1 
+"23","00900","ME","Cumberland (Outside Portland) & York (East) Counties--Biddeford & Saco Cities",291.272,1 
+"23","01000","ME","Cumberland County (Southeast)--Portland, South Portland & Westbrook Cities",51.838,1 
+"24","00100","MD","Allegany & Garrett Counties--Cumberland City",1071.261,1 
+"24","00200","MD","Washington County--Hagerstown City",457.78,1 
+"24","00301","MD","Frederick County (Outside Greater Frederick City)",565.675,1 
+"24","00302","MD","Frederick County (Central)--Greater Frederick City",94.546,1 
+"24","00400","MD","Carroll County",447.595,1 
+"24","00501","MD","Baltimore County (Outer)",389.773,1 
+"24","00502","MD","Baltimore County--Randallstown (East), Owings Mills, Milford Mill & Reisterstown",36.888,1 
+"24","00503","MD","Baltimore County--Pikesville (South), Lochearn, Cockeysville & Mays Chapel",42.95,1 
+"24","00504","MD","Baltimore County--Towson (East & Central), Parkville & Carney",26.433,1 
+"24","00505","MD","Baltimore County--Perry Hall, Middle River & Rosedale",39.94,1 
+"24","00506","MD","Baltimore County--Dundalk, Essex & Edgemere",29.194,1 
+"24","00507","MD","Baltimore County--Catonsville, Woodlawn & Arbutus",33.124,1 
+"24","00601","MD","Harford County (North & West)--Bel Air Town, Fallston & Jarrettsville",317.493,1 
+"24","00602","MD","Harford County (South & East)--Aberdeen & Havre de Grace Cities",119.596,1 
+"24","00700","MD","Cecil County",346.273,1 
+"24","00801","MD","Baltimore City--Sandtown-Winchester, Ashburton & Mount Washington",17.334,1 
+"24","00802","MD","Baltimore City--Guilford, Roland Park & Druid Lake",12.251,1 
+"24","00803","MD","Baltimore City--Frankford, Belair-Edison & Loch Raven",13.407,1 
+"24","00804","MD","Baltimore City--Inner Harbor, Canton & Bayview",16.593,1 
+"24","00805","MD","Baltimore City--Irvington, Ten Hills & Cherry Hill",21.359,1 
+"24","00901","MD","Howard County (West)--Columbia (West) & Ellicott City (Northwest)",182.752,1 
+"24","00902","MD","Howard County (East)--Columbia (East), Ellicott City (Southeast) & Elkridge",67.989,1 
+"24","01001","MD","Montgomery County (North & West)--Olney, Damascus, Clarksburg & Darnestown",286.763,1 
+"24","01002","MD","Montgomery County (West Central)--Germantown & Montgomery Village",24.183,1 
+"24","01003","MD","Montgomery County (Central)--Rockville, Gaithersburg Cities & North Potomac",43.745,1 
+"24","01004","MD","Montgomery County (South)--Bethesda, Potomac & North Bethesda",56.834,1 
+"24","01005","MD","Montgomery County (East Central)--Wheaton, Aspen Hill & Glenmont",23.501,1 
+"24","01006","MD","Montgomery County (East)--Fairland, Calverton, White Oak & Burtonsville",43.078,1 
+"24","01007","MD","Montgomery County (Southeast)--Takoma Park City & Silver Spring",13.151,1 
+"24","01101","MD","Prince Georges County (Northwest)--College Park City & Langley Park",16.189,1 
+"24","01102","MD","Prince Georges County (North)--Laurel, Greenbelt (North & East) Cities & Beltsville",64.277,1 
+"24","01103","MD","Prince Georges County (Northwest)--New Carrollton & Hyattsville (Southeast) Cities",19.602,1 
+"24","01104","MD","Prince Georges County (Central)--Seat Pleasant City, Capitol Heights Town & Landover",26.288,1 
+"24","01105","MD","Prince Georges County (East)--Bowie City, Kettering, Largo, Mitchellville & Lanham",116.347,1 
+"24","01106","MD","Prince Georges County (South)--Clinton, Fort Washington (South), Rosaryville & Croom",208.794,1 
+"24","01107","MD","Prince Georges County (Southwest)--Oxon Hill, Hillcrest Heights & Temple Hills",31.193,1 
+"24","01201","MD","Anne Arundel County (Northwest)--Severn, Odenton, Crofton, Maryland City & Fort Meade",119.365,1 
+"24","01202","MD","Anne Arundel County (North)--Glen Burnie, Pasadena, Ferndale & Brooklyn Park",36.205,1 
+"24","01203","MD","Anne Arundel County (Central)--Severna Park, Arnold & Lake Shore",71.932,1 
+"24","01204","MD","Anne Arundel County (Southeast)--Annapolis City, Parole, Annapolis Neck & Edgewater",187.399,1 
+"24","01300","MD","Queen Annes, Talbot, Caroline, Dorchester & Kent Counties",1777.661,1 
+"24","01400","MD","Wicomico, Worcester & Somerset Counties--Salisbury City",1162.447,1 
+"24","01500","MD","St. Marys & Calvert Counties",570.332,1 
+"24","01600","MD","Charles County--La Plata Town & Waldorf",457.749,1 
+"25","00100","MA","Berkshire County--Pittsfield City",926.825,1 
+"25","00200","MA","Franklin & Hampshire (North) Counties",941.733,1 
+"25","00300","MA","Worcester County (Central)--Worcester City",37.371,1 
+"25","00301","MA","Worcester County (Northeast)--Leominster, Fitchburg & Gardner Cities",140.635,1 
+"25","00302","MA","Worcester County (West Central)",404.328,1 
+"25","00303","MA","Worcester County (East Central)",138.851,1 
+"25","00304","MA","Worcester County (South)",313.99,1 
+"25","00400","MA","Worcester & Middlesex Counties (Outside Leominster, Fitchburg & Gardner Cities)",540.915,1 
+"25","00501","MA","Middlesex County (Outside Lowell City)",129.102,1 
+"25","00502","MA","Middlesex County (Far Northeast)--Lowell City",13.583,1 
+"25","00503","MA","Middlesex County--Waltham City, Lexington, Burlington, Bedford & Lincoln Towns",68.781,1 
+"25","00504","MA","Middlesex County (South)--Framingham Town, Marlborough City & Natick Town",60.858,1 
+"25","00505","MA","Middlesex County--Watertown Town City, Arlington, Belmont & Winchester Towns",19.819,1 
+"25","00506","MA","Middlesex County (East)--Cambridge City",6.385,1 
+"25","00507","MA","Middlesex County (East)--Somerville & Everett Cities",7.541,1 
+"25","00508","MA","Middlesex County (East)--Malden & Medford Cities",13.144,1 
+"25","00701","MA","Essex County (Northwest)--Lawrence, Haverhill & Methuen Town Cities",62.144,1 
+"25","00702","MA","Essex County (Central)--Amesbury Town City",153.003,1 
+"25","00703","MA","Essex County (East)--Salem, Beverly, Gloucester & Newburyport Cities",181.593,1 
+"25","00704","MA","Essex County (South)--Lynn City, Swampscott & Nahant Towns",14.811,1 
+"25","01000","MA","Peabody City, Danvers, Reading, North Reading & Lynnfield Towns",62.464,1 
+"25","01300","MA","Billerica, Andover, Tewksbury & Wilmington Towns",94.091,1 
+"25","01400","MA","Middlesex (West Central) & Worcester (East) Counties",164.723,1 
+"25","01600","MA","Hampden (West & East) & Hampshire (South) Counties--Northampton City",617.711,1 
+"25","01900","MA","Hampden County (Central)--Springfield City",31.865,1 
+"25","01901","MA","Hampden County (West of Springfield City)--Westfield & Holyoke Cities",138.446,1 
+"25","01902","MA","Hampden County (East of Springfield City)--Chicopee City",113.96,1 
+"25","02400","MA","Middlesex (Far Southwest), Norfolk (Northwest) & Worcester (Far East) Counties",123.975,1 
+"25","02800","MA","Woburn, Melrose Cities, Saugus, Wakefield & Stoneham Towns",41.482,1 
+"25","03301","MA","Boston City--Allston, Brighton & Fenway",5.485,1 
+"25","03302","MA","Boston City--Back Bay, Beacon Hill, Charlestown, East Boston, Central & South End",9.576,1 
+"25","03303","MA","Boston City--Dorchester & South Boston",8.587,1 
+"25","03304","MA","Boston City--Mattapan & Roxbury",6.727,1 
+"25","03305","MA","Boston City--Hyde Park, Jamaica Plain, Roslindale & West Roxbury",17.298,1 
+"25","03306","MA","Suffolk County (North)--Revere, Chelsea & Winthrop Town Cities",10.482,1 
+"25","03400","MA","Middlesex (Southeast) & Norfolk (Northeast) Counties--Newton City & Brookline Town",24.587,1 
+"25","03500","MA","Norfolk (Northeast) & Middlesex (Southeast) Counties (West of Boston City)",95.993,1 
+"25","03601","MA","Norfolk County (Southwest)--Greater Franklin Town City",145.306,1 
+"25","03602","MA","Norfolk County (Central)--Randolph, Norwood, Dedham, Canton & Holbrook Towns",56.494,1 
+"25","03603","MA","Norfolk County (Northeast)--Quincy City & Milton Town",29.577,1 
+"25","03900","MA","Weymouth Town, Braintree Town Cities, Hingham, Hull & Cohasset Towns",65.343,1 
+"25","04000","MA","Plymouth & Norfolk Counties--Brockton City, Stoughton & Avon Towns",41.708,1 
+"25","04200","MA","Attleboro City, North Attleborough, Swansea, Seekonk, Rehoboth & Plainville Towns",144.682,1 
+"25","04301","MA","Bristol (Outside New Bedford City) & Plymouth (South) Counties",264.45,1 
+"25","04302","MA","Bristol County (Central)--Fall River City & Somerset Town",41.032,1 
+"25","04303","MA","Bristol County--Taunton City, Mansfield, Norton, Raynam, Dighton & Berkley Towns",153.634,1 
+"25","04500","MA","Bristol County (South)--New Bedford City & Fairhaven Town",32.332,1 
+"25","04700","MA","Barnstable County (West)--Inner Cape Cod Towns & Barnstable Town City",210.656,1 
+"25","04800","MA","Barnstable (East), Dukes & Nantucket Counties--Outer Cape Cod Towns",331.282,1 
+"25","04901","MA","Plymouth & Bristol Counties (Outside Brockton City)",115.515,1 
+"25","04902","MA","Plymouth County (Central)",240.08,1 
+"25","04903","MA","Plymouth County (East)--Plymouth, Marshfield, Scituate, Duxbury & Kingston Towns",185.103,1 
+"26","00100","MI","Western Upper Peninsula",8596.492,1 
+"26","00200","MI","Eastern Upper Peninsula",7780.671,1 
+"26","00300","MI","Northeast Lower Peninsula",4804.074,1 
+"26","00400","MI","Northwest Lower Peninsula (East)",3049.128,1 
+"26","00500","MI","Northwest Lower Peninsula (West)",1673.355,1 
+"26","00600","MI","Newaygo, Mason, Oceana & Lake Counties",2387.718,1 
+"26","00700","MI","Muskegon County",499.246,1 
+"26","00801","MI","Ottawa County (West)",236.668,1 
+"26","00802","MI","Ottawa County (East)",326.8,1 
+"26","00900","MI","Allegan County",825.231,1 
+"26","01001","MI","Kent County (Southwest)",95.275,1 
+"26","01002","MI","Kent County (Central)--Grand Rapids City Area",44.007,1 
+"26","01003","MI","Kent County (Southeast)",288.097,1 
+"26","01004","MI","Kent County (North)",419.569,1 
+"26","01100","MI","Ionia, Montcalm, Mecosta & Osceola Counties",2398.166,1 
+"26","01200","MI","Isabella, Gratiot & Clare Counties",1705.456,1 
+"26","01300","MI","Iosco, Gladwin, Roscommon, Ogemaw & Arenac Counties",2497.19,1 
+"26","01400","MI","Bay & Midland Counties",958.555,1 
+"26","01500","MI","Saginaw County",800.114,1 
+"26","01600","MI","Tuscola, Sanilac & Huron Counties",2601.399,1 
+"26","01701","MI","Genesee (East) & Lapeer Counties",855.14,1 
+"26","01702","MI","Genesee County (Central, Outside Flint City)",108.38,1 
+"26","01703","MI","Genesee County (Central)--Flint City Area",33.432,1 
+"26","01704","MI","Genesee (West) & Shiawassee Counties",813.706,1 
+"26","01801","MI","Ingham County (South & East)",519.933,1 
+"26","01802","MI","Ingham County (Northwest)",36.187,1 
+"26","01900","MI","Eaton & Clinton Counties",1141.583,1 
+"26","02000","MI","Calhoun & Barry Counties",1259.325,1 
+"26","02101","MI","Kalamazoo County (Outer)",504.994,1 
+"26","02102","MI","Kalamazoo County (Central)--Kalamazoo & Portage Cities Area",56.665,1 
+"26","02200","MI","St. Joseph & Branch Counties",1006.96,1 
+"26","02300","MI","Van Buren & Cass Counties",1097.536,1 
+"26","02400","MI","Berrien County",567.747,1 
+"26","02500","MI","Lenawee & Hillsdale Counties",1347.688,1 
+"26","02600","MI","Jackson County",701.666,1 
+"26","02701","MI","Washtenaw County (West, Northeast & Southeast)",564.851,1 
+"26","02702","MI","Washtenaw County (East Central)--Ann Arbor City Area",29.514,1 
+"26","02703","MI","Washtenaw County (East Central, Outside Ann Arbor City)",111.6,1 
+"26","02800","MI","Livingston County",565.254,1 
+"26","02901","MI","Oakland County (West)",274.899,1 
+"26","02902","MI","Oakland County (Northeast)",209.467,1 
+"26","02903","MI","Oakland County (East Central)--Troy & Rochester Area",68.699,1 
+"26","02904","MI","Oakland County (Central)",69.451,1 
+"26","02905","MI","Oakland County (Southwest)",70.151,1 
+"26","02906","MI","Oakland County (Central)--Birmingham & Bloomfield Area",73.149,1 
+"26","02907","MI","Oakland County (South Central)--Farmington & Southfield Area",63.714,1 
+"26","02908","MI","Oakland County (Southeast)",38.133,1 
+"26","03001","MI","Macomb County (North)",256.731,1 
+"26","03002","MI","Macomb County (Central)",72.192,1 
+"26","03003","MI","Macomb County (Southwest)--Sterling Heights City",36.505,1 
+"26","03004","MI","Macomb County (Southeast)--Mount Clemens & Fraser Area",50.927,1 
+"26","03005","MI","Macomb County (Southeast)--St. Clair Shores, Roseville & Eastpointe Area",26.748,1 
+"26","03006","MI","Macomb County (Southwest)--Warren & Center Line Cities",36.121,1 
+"26","03100","MI","St. Clair County",721.17,1 
+"26","03201","MI","Wayne County (Northwest)",106.593,1 
+"26","03202","MI","Wayne County (North Central)--Livonia City & Redford Charter Township",46.934,1 
+"26","03203","MI","Wayne County (Central)--Dearborn & Dearborn Heights Cities",35.991,1 
+"26","03204","MI","Wayne County (Central)--Westland, Garden City, Inkster & Wayne Cities",38.567,1 
+"26","03205","MI","Wayne County (Southwest)",131.916,1 
+"26","03206","MI","Wayne County (Southeast)--Downriver Area (South)",69.104,1 
+"26","03207","MI","Wayne County (Southeast)--Downriver Area (North)",26.341,1 
+"26","03208","MI","Detroit City (Northwest)",31.247,1 
+"26","03209","MI","Detroit City (North Central)",20.216,1 
+"26","03210","MI","Detroit City (Northeast)",26.723,1 
+"26","03211","MI","Detroit City (South Central & Southeast)",29.403,1 
+"26","03212","MI","Detroit City (Southwest)",25.373,1 
+"26","03213","MI","Wayne County (Northeast)--I-94 Corridor",23.672,1 
+"26","03300","MI","Monroe County",549.394,1 
+"27","00100","MN","Clay, Polk, Roseau, Pennington, Marshall, Norman, Kittson & Red Lake Counties",9483.735,1 
+"27","00200","MN","Beltrami, Becker, Hubbard, Clearwater, Mahnomen & Lake of the Woods Counties",7600.504,1 
+"27","00300","MN","Itasca, Carlton (South), Cass & Aitkin Counties--Grand Rapids City",7290.796,1 
+"27","00400","MN","St. Louis (North), Koochiching, Lake & Cook Counties--Hibbing & Cloquet Cities",12863.794,1 
+"27","00500","MN","St. Louis County (Southeast)--Duluth, Hermantown & Proctor Cities",130.758,1 
+"27","00600","MN","Chisago, Isanti, Pine, Mille Lacs & Kanabec Counties",3355.841,1 
+"27","00700","MN","Crow Wing, Morrison, Todd & Wadena Counties",3605.407,1 
+"27","00800","MN","West Central Minnesota",6956.809,1 
+"27","00900","MN","Stearns County--St. Cloud City",1343.133,1 
+"27","01000","MN","Sherburne & Benton Counties",841.218,1 
+"27","01101","MN","Anoka County (Northwest)--Andover, Ramsey, Anoka & East Bethel Cities",205.746,1 
+"27","01102","MN","Anoka County (Southwest)--Coon Rapids, Fridley & Columbia Heights Cities",38.236,1 
+"27","01103","MN","Anoka County (East)--Blaine, Lino Lakes & Ham Lake Cities",179.027,1 
+"27","01201","MN","Washington County (North)--Oakdale, Forest Lake, Stillwater & Hugo Cities",250.046,1 
+"27","01202","MN","Washington County (South)--Woodbury & Cottage Grove Cities",134.236,1 
+"27","01301","MN","Ramsey County (North)--Shoreview, White Bear Lake & New Brighton Cities",60.753,1 
+"27","01302","MN","Ramsey County (Central & Far Southeast)--Maplewood, Roseville & North St. Paul Cities",39.481,1 
+"27","01303","MN","Ramsey County (Southeast)--St. Paul City (East)",25.755,1 
+"27","01304","MN","Ramsey County (Southwest)--St. Paul City (West)",26.223,1 
+"27","01401","MN","Hennepin County (West)--Champlin, Rogers Cities & Lake Minnetonka",235.277,1 
+"27","01402","MN","Hennepin County--Plymouth, Maple Grove (West) & Medicine Lake Cities",47.501,1 
+"27","01403","MN","Hennepin County--Brooklyn Park, Maple Grove (East) & Osseo Cities",44.776,1 
+"27","01404","MN","Hennepin County--Brooklyn Center, Golden Valley, New Hope & Robbinsdale Cities",31.756,1 
+"27","01405","MN","Hennepin County--Minneapolis (North) & St. Anthony Cities",24.469,1 
+"27","01406","MN","Hennepin County--Minneapolis City (Southeast)",16.687,1 
+"27","01407","MN","Hennepin County--Minneapolis City (Southwest)",15.337,1 
+"27","01408","MN","Hennepin County--Edina, St. Louis Park & Hopkins Cities",30.168,1 
+"27","01409","MN","Hennepin County--Eden Prairie & Minnetonka Cities",59.615,1 
+"27","01410","MN","Hennepin County--Bloomington & Richfield Cities",48.006,1 
+"27","01501","MN","Dakota County (North)--Eagan, Inver Grove Heights & South St. Paul Cities",80.953,1 
+"27","01502","MN","Dakota County (South)--Lakeville, Hastings, Rosemount & Farmington Cities",439.49,1 
+"27","01503","MN","Dakota County (West)--Burnsville & Apple Valley Cities",41.725,1 
+"27","01600","MN","Scott County (East)--Shakopee, Savage & Prior Lake Cities",237.23,1 
+"27","01700","MN","Carver & Scott (West) Counties",473.571,1 
+"27","01800","MN","Wright County",661.457,1 
+"27","01900","MN","Kandiyohi, McLeod, Meeker, Renville & Sibley Counties",3468.119,1 
+"27","02000","MN","Brown, Lyon, Redwood, Chippewa, Yellow Medicine, Lac qui Parle & Lincoln Counties",4846.221,1 
+"27","02100","MN","Southwest Minnesota",5568.68,1 
+"27","02200","MN","Blue Earth, Nicollet & Waseca Counties--Mankato City",1619.694,1 
+"27","02300","MN","Rice, Goodhue & Le Sueur Counties",1701.282,1 
+"27","02400","MN","Mower, Steele, Freeborn & Dodge Counties",2287.337,1 
+"27","02500","MN","Olmsted County--Rochester City",653.349,1 
+"27","02600","MN","Winona, Wabasha, Fillmore & Houston Counties--Winona City",2562.546,1 
+"28","00100","MS","North Delta Region--DeSoto County--Southaven City",476.145,1 
+"28","00200","MS","Northeast Region--Marshall, Alcorn, Prentiss, Tippah, Tishomingo & Benton Counties",2809.896,1 
+"28","00300","MS","North Delta Region--Panola, Tate, Coahoma, Tallahatchie, Tunica & Quitman Counties",3147.313,1 
+"28","00400","MS","Three Rivers Region--Lafayette, Monroe, Itawamba, Chickasaw & Calhoun Counties",3017.942,1 
+"28","00500","MS","Three Rivers Region--Lee, Pontotoc & Union Counties--Tupelo City",1363.238,1 
+"28","00600","MS","Golden Triangle Region--Starkville, Columbus & West Point Cities",3515.288,1 
+"28","00700","MS","North Central Region",4008.678,1 
+"28","00800","MS","South Delta Region",3562.325,1 
+"28","00900","MS","Central Region--Madison & Yazoo Counties",1621.826,1 
+"28","01000","MS","Central Region--Jackson (West & South) & Clinton (South & East) Cities",193.828,1 
+"28","01100","MS","Central Region--Jackson City (East & Central)",55.24,1 
+"28","01200","MS","Central Region--Hinds (West), Warren & Copiah Counties--Vicksburg City",2002.045,1 
+"28","01300","MS","Central Region--Rankin & Simpson Counties",1364.648,1 
+"28","01400","MS","East Central Region--Neshoba, Scott, Leake, Jasper, Smith & Kemper Counties",3841.003,1 
+"28","01500","MS","East Central Region--Lauderdale, Newton & Clarke Counties--Meridian City",1973.292,1 
+"28","01600","MS","Southwest Region",5271.473,1 
+"28","01700","MS","South Region--Jones, Wayne, Covington, Greene & Jefferson Davis Counties",3040.535,1 
+"28","01800","MS","South Region--Forrest, Lamar, Marion & Perry Counties--Hattiesburg City",2153.005,1 
+"28","01900","MS","South Region--Pearl River, Hancock, George & Stone Counties",2208.805,1 
+"28","02000","MS","South Region--Harrison County--Gulfport & Biloxi Cities",573.994,1 
+"28","02100","MS","South Region--Jackson County",722.754,1 
+"29","00100","MO","Northwest Missouri",7133.04,1 
+"29","00200","MO","Buchanan, Andrew & DeKalb Counties",1262.086,1 
+"29","00300","MO","Northeast Missouri",5681.49,1 
+"29","00400","MO","Lincoln, Warren, Audrain, Pike & Montgomery Counties",2954.077,1 
+"29","00500","MO","Cole, Callaway, Moniteau & Osage Counties",2247.696,1 
+"29","00600","MO","Boone County",685.414,1 
+"29","00700","MO","Pettis, Randolph, Saline, Cooper, Howard, Carroll & Chariton Counties",4394.827,1 
+"29","00800","MO","Johnson, Lafayette, Ray, Clinton & Caldwell Counties",2871.869,1 
+"29","00901","MO","Clay County (Northeast)",334.581,1 
+"29","00902","MO","Kansas City (North Central), Gladstone City & North Kansas City",59.486,1 
+"29","00903","MO","Platte County",423.421,1 
+"29","01001","MO","Jackson County--Kansas City (Central)",59.665,1 
+"29","01002","MO","Jackson County (North Central)",65.51,1 
+"29","01003","MO","Jackson County (East)",309.949,1 
+"29","01004","MO","Jackson County (South Central)",89.962,1 
+"29","01005","MO","Jackson County--Kansas City (South)",79.376,1 
+"29","01100","MO","Cass & Bates Counties",1533.525,1 
+"29","01200","MO","Lawrence, Henry, Vernon, Cedar, Barton, St. Clair & Dade Counties",4361.481,1 
+"29","01300","MO","Laclede, Polk, Benton, Dallas & Hickory Counties",3044.161,1 
+"29","01400","MO","Pulaski, Camden, Miller & Morgan Counties",2393.247,1 
+"29","01500","MO","Phelps, Crawford, Dent, Gasconade & Maries Counties",3211.873,1 
+"29","01600","MO","Franklin County",922.681,1 
+"29","01701","MO","St. Charles County (South)",224.452,1 
+"29","01702","MO","St. Charles County (Northwest)",130.859,1 
+"29","01703","MO","St. Charles County (Northeast)",205.124,1 
+"29","01801","MO","St. Louis County (Northeast)",59.854,1 
+"29","01802","MO","St. Louis County (Northwest)",61.427,1 
+"29","01803","MO","St. Louis County (Inner Ring North)",29.718,1 
+"29","01804","MO","St. Louis County (West)",96.811,1 
+"29","01805","MO","St. Louis County (Central)",52.486,1 
+"29","01806","MO","St. Louis County (Central West)",44.777,1 
+"29","01807","MO","St. Louis County (Inner Ring South)",43.618,1 
+"29","01808","MO","St. Louis County (South)",119.109,1 
+"29","01901","MO","St. Louis City (North)",31.6,1 
+"29","01902","MO","St. Louis City (South)",30.309,1 
+"29","02001","MO","Jefferson County (North)",110.984,1 
+"29","02002","MO","Jefferson County (South)",545.645,1 
+"29","02100","MO","St. Francois, Washington, Perry & Ste. Genevieve Counties",2185.306,1 
+"29","02200","MO","Cape Girardeau, Scott & Bollinger Counties",1616.43,1 
+"29","02300","MO","Dunklin, Stoddard, New Madrid, Pemiscot & Mississippi Counties",2943.258,1 
+"29","02400","MO","Butler, Ripley, Wayne, Madison, Iron, Reynolds & Carter Counties",4443.87,1 
+"29","02500","MO","Howell, Texas, Wright, Douglas, Oregon, Ozark & Shannon Counties",6138.504,1 
+"29","02601","MO","Christian, Greene (Outside Springfield City) & Webster Counties",1629.786,1 
+"29","02602","MO","Greene County--Springfield City (North)",83.213,1 
+"29","02603","MO","Greene County--Springfield City (South)",117.513,1 
+"29","02700","MO","Taney, Barry, Stone & McDonald Counties",2414.201,1 
+"29","02800","MO","Jasper & Newton Counties",1263.252,1 
+"30","00100","MT","Northwest Montana--Kalispell City",11696.513,1 
+"30","00200","MT","West Montana--Missoula City",10454.355,1 
+"30","00300","MT","Southwest Montana--Butte-Silver Bow & Helena City",20945.55,1 
+"30","00400","MT","North Central Montana--Great Falls City",32717.681,1 
+"30","00500","MT","South Central Montana--Bozeman City",11105.095,1 
+"30","00600","MT","East Montana (Outside Billings City)",58578.279,1 
+"30","00700","MT","Billings City",48.328,1 
+"31","00100","NE","North Central & Northwest Nebraska",26096.462,1 
+"31","00200","NE","Northeast Nebraska",9132.91,1 
+"31","00300","NE","Central Nebraska",8846.731,1 
+"31","00400","NE","Southwest Nebraska",15983.635,1 
+"31","00500","NE","South Central Nebraska",5439.058,1 
+"31","00600","NE","Southeast Nebraska",7694.038,1 
+"31","00701","NE","Dodge, Cass, Saunders & Washington Counties",2226.343,1 
+"31","00702","NE","Sarpy County--Bellevue City",238.99,1 
+"31","00801","NE","Lancaster County--Lincoln City (North)",399.377,1 
+"31","00802","NE","Lancaster County--Lincoln City (South)",438.172,1 
+"31","00901","NE","Douglas County--Omaha City (Northwest)",171.822,1 
+"31","00902","NE","Douglas County--Omaha City (Southwest)",83.544,1 
+"31","00903","NE","Douglas County--Omaha City (Northeast)",46.961,1 
+"31","00904","NE","Douglas County--Omaha City (Southeast)",26.127,1 
+"32","00101","NV","Washoe County (South Central)--Reno City",54.324,1 
+"32","00102","NV","Washoe County (South)",420.367,1 
+"32","00103","NV","Washoe County (North)--Sparks City",5827.675,1 
+"32","00200","NV","Carson City, Lyon, Douglas & Storey Counties",3118.488,1 
+"32","00300","NV","Rural Nevada",92468.895,1 
+"32","00401","NV","Clark County (Northwest Central)--Northwest Las Vegas Valley",33.51,1 
+"32","00402","NV","Clark County (North)--Las Vegas (Northeast) & North Las Vegas (Outer) Cities",2217.468,1 
+"32","00403","NV","Clark County (Central)--Greater North Las Vegas City",51.595,1 
+"32","00404","NV","Clark County (East)--Mesquite City, Sunrise Manor (North), Moapa Valley & Nellis AFB",1873.525,1 
+"32","00405","NV","Las Vegas City (Southeast)",18.151,1 
+"32","00406","NV","Las Vegas City (South Central)",20.541,1 
+"32","00407","NV","Clark County (West)--Las Vegas City (Southwest)",1043.509,1 
+"32","00408","NV","Clark County (Central)--Spring Valley & Summerlin South",88.581,1 
+"32","00409","NV","Clark County (Central)--Paradise (Northwest) & Winchester",33.916,1 
+"32","00410","NV","Clark County (Central)--Whitney, Sunrise Manor (South) & Paradise (Northeast)",22.336,1 
+"32","00411","NV","Clark County (Central)--Henderson City (West)",77.044,1 
+"32","00412","NV","Clark County (South)--Henderson (East) & Boulder Cities",2374.866,1 
+"32","00413","NV","Clark County (Central)--Paradise (South) & Enterprise",36.388,1 
+"33","00100","NH","Northern New Hampshire--Grafton & Coos Counties",3503.434,1 
+"33","00200","NH","Lakes Region--Belknap, Carroll & Merrimack (Northern) Counties",1499.054,1 
+"33","00300","NH","Strafford Region--Strafford, Rockingham (Northern) & Carroll (Southeastern) Counties",525.487,1 
+"33","00400","NH","Central New Hampshire--Merrimack County (Central)--Concord City",667.599,1 
+"33","00500","NH","Southwestern New Hampshire--Cheshire & Sullivan Counties",1243.974,1 
+"33","00600","NH","Hillsborough County (Western)",571.187,1 
+"33","00700","NH","Outer Manchester City",446.528,1 
+"33","00800","NH","Manchester City",33.101,1 
+"33","00900","NH","Hillsborough County (Southeastern)--Greater Nashua City",100.49,1 
+"33","01000","NH","Seacoast Region--Rockingham County (Southern)--Portsmouth City",361.796,1 
+"34","00101","NJ","Atlantic County (East)--Atlantic City & Ventnor City",121.83,1 
+"34","00102","NJ","Atlantic County (Outside Somers Point City)--Pleasantville City & Hammonton Town",429.876,1 
+"34","00301","NJ","Bergen County (South Central)--Hackensack & Englewood (West) Cities",13.333,1 
+"34","00302","NJ","Bergen County (Southwest)--Rutherford, North Arlington & Hasbrouck Heights Boroughs",26.234,1 
+"34","00303","NJ","Bergen County (Southeast)--Fort Lee, Cliffside Park & Palisades Park Boroughs",12.343,1 
+"34","00304","NJ","Bergen County (West Central)--Fair Lawn Borough, Garfield City & Lodi Borough",14.839,1 
+"34","00305","NJ","Bergen County (East)--Tenafly, Park Ridge & Cresskill Boroughs",45.621,1 
+"34","00306","NJ","Bergen County (Northwest)--Ramsey, Oakland & Franklin Lakes Boroughs",62.313,1 
+"34","00307","NJ","Bergen County (North Central)--Bergenfield, Paramus, Dumont & New Milford Boroughs",21.784,1 
+"34","00308","NJ","Bergen County (Central)--Ridgewood Village, Glen Rock & Westwood Boroughs",36.542,1 
+"34","00400","NJ","Passaic County (Southeast)--Paterson City",8.428,1 
+"34","00501","NJ","Passaic County (South)--Passaic & Clifton (Southeast) Cities",11.099,1 
+"34","00502","NJ","Passaic County (Central)--Hawthorne Borough & Clifton City (Northwest)",28.96,1 
+"34","00503","NJ","Passaic County (North)--Ringwood, Wanaque & Pompton Lakes Boroughs",136.106,1 
+"34","00601","NJ","Hudson County (Central)--Jersey City (North)",6.365,1 
+"34","00602","NJ","Hudson County (Central)--Jersey City (South)",7.859,1 
+"34","00701","NJ","Hudson County (North)--West New York, Secaucus & Guttenberg Towns",12.159,1 
+"34","00702","NJ","Hudson County (Northeast)--Union City & Hoboken Cities",3.354,1 
+"34","00703","NJ","Hudson County (South & West)--Bayonne City, Kearney & Harrison Towns",16.454,1 
+"34","00800","NJ","Hunterdon County",427.819,1 
+"34","00901","NJ","Middlesex County (Southeast)",82.37,1 
+"34","00902","NJ","Middlesex County (Southwest)",82.95,1 
+"34","00903","NJ","Middlesex County (Northwest)--South Plainfield & Middlesex Boroughs",34.145,1 
+"34","00904","NJ","Middlesex County (North Central)--Metuchen Borough",31.597,1 
+"34","00905","NJ","Middlesex County (Northeast)--Carteret Borough",23.079,1 
+"34","00906","NJ","Middlesex County (Central)--New Brunswick City, South River & Highland Park Boroughs",31.023,1 
+"34","00907","NJ","Middlesex County (East Central)--Perth Amboy City & Sayreville Borough",23.75,1 
+"34","01001","NJ","Somerset County (North & West)",156.943,1 
+"34","01002","NJ","Somerset County (South)",99.907,1 
+"34","01003","NJ","Somerset County (Central)--North Plainfield & Somerville Boroughs",44.963,1 
+"34","01101","NJ","Monmouth County (Southeast)--Tinton Falls Borough (South)",58.214,1 
+"34","01102","NJ","Monmouth County (Southwest)--Freehold Borough",157.152,1 
+"34","01103","NJ","Monmouth County (East Central)--Long Branch, Asbury Park Cities & Eatontown Borough",32.891,1 
+"34","01104","NJ","Monmouth County (Northeast)--Red Bank & Tinton Falls (North) Boroughs",47.982,1 
+"34","01105","NJ","Monmouth County (Northwest)--Keansburg Borough",50.382,1 
+"34","01106","NJ","Monmouth County (Central)",122.172,1 
+"34","01201","NJ","Ocean County (South)",259.73,1 
+"34","01202","NJ","Ocean County (Central)--Beachwood Borough",65.412,1 
+"34","01203","NJ","Ocean County (North Central)",46.908,1 
+"34","01204","NJ","Ocean County (Northwest)",221.488,1 
+"34","01205","NJ","Ocean County (Northeast)--Point Pleasant Borough",35.242,1 
+"34","01301","NJ","Essex County (Southeast)--Newark City (North & East)",16.728,1 
+"34","01302","NJ","Essex County (Southeast)--Newark City (Southwest)",7.459,1 
+"34","01401","NJ","Essex County (Northeast)",12.03,1 
+"34","01402","NJ","Essex County (South Central)--East Orange City",15.784,1 
+"34","01403","NJ","Essex County (Northwest)",35.536,1 
+"34","01404","NJ","Essex County (Southwest)",38.675,1 
+"34","01501","NJ","Morris County (North)--Dover Town & Kinnelon Borough",128.09,1 
+"34","01502","NJ","Morris County (West)",176.339,1 
+"34","01503","NJ","Morris County (East)--Lincoln Park Borough",69.508,1 
+"34","01504","NJ","Morris County (South)--Morristown Town, Madison & Florham Park Boroughs",86.239,1 
+"34","01600","NJ","Sussex County",519.014,1 
+"34","01700","NJ","Warren County",356.918,1 
+"34","01800","NJ","Union County (Northeast)--Elizabeth City",12.319,1 
+"34","01901","NJ","Union County (North Central)--Roselle Park Borough",15.798,1 
+"34","01902","NJ","Union County (Northwest)--Summit City & Westfield Town (North)",33.017,1 
+"34","01903","NJ","Union County (Southwest)--Plainfield City & Westfield Town (South)",19.537,1 
+"34","01904","NJ","Union County (Southeast)--Linden, Rahway Cities & Roselle Borough (South)",22.184,1 
+"34","02001","NJ","Burlington County (North)--Burlington City",59.89,1 
+"34","02002","NJ","Burlington County (West Central)",109.572,1 
+"34","02003","NJ","Burlington County (South & East)",629.114,1 
+"34","02101","NJ","Camden County (North)--Camden & Gloucester Cities",22.168,1 
+"34","02102","NJ","Camden County (Central)--Lindenwold & Collingswood Boroughs",29.673,1 
+"34","02103","NJ","Camden County (South & West)--Bellmawr & Pine Hill Boroughs",127.972,1 
+"34","02104","NJ","Camden County (East Central)--Haddonfield Borough",41.449,1 
+"34","02201","NJ","Gloucester County (Northeast)--Woodbury City",62.282,1 
+"34","02202","NJ","Gloucester County (South & West)--Glassboro Borough",259.723,1 
+"34","02301","NJ","Mercer County (West Central)--Trenton City",22.898,1 
+"34","02302","NJ","Mercer County (North)--Princeton Borough",141.854,1 
+"34","02303","NJ","Mercer County (South)",59.806,1 
+"34","02400","NJ","Cumberland County (South)--Vineland & Millville Cities",362.581,1 
+"34","02500","NJ","Salem & Cumberland (North) Counties--Bridgeton City",453.02,1 
+"34","02600","NJ","Cape May & Atlantic (South Central) Counties--Ocean City & Somers Point City",255.423,1 
+"35","00100","NM","Northwest New Mexico--Navajo Nation",14297.506,1 
+"35","00200","NM","San Juan County (Northeast)--Farmington, Bloomfield & Aztec Cities",1204.85,1 
+"35","00300","NM","North Central New Mexico",14820.209,1 
+"35","00400","NM","Eastern Plains New Mexico",21786.928,1 
+"35","00500","NM","Santa Fe County",1909.414,1 
+"35","00600","NM","Sandoval County",3710.65,1 
+"35","00700","NM","Valencia, Bernalillo (East Mountains) Counties & Isleta Pueblo",1538.903,1 
+"35","00801","NM","Albuquerque City (Far Northeast Heights)",45.22,1 
+"35","00802","NM","Albuquerque City (Near Northeast Heights)",19.932,1 
+"35","00803","NM","Albuquerque City (Southeast Heights)",111.344,1 
+"35","00804","NM","Albuquerque City (Central) & Bernalillo County (North Valley)",36.609,1 
+"35","00805","NM","Albuquerque City (Northwest Mesa), Paradise Hills & Navajo Nation-Tohajiilee Chapter",417.88,1 
+"35","00806","NM","Albuquerque City (Southwest Mesa) & Bernalillo County (Southwest Mesa & South Valley)",57.114,1 
+"35","00900","NM","Southwest New Mexico",31457.845,1 
+"35","01001","NM","Doña Ana County (Outer)",3696.282,1 
+"35","01002","NM","Doña Ana County (Central)--Las Cruces, Mesilla Cities & University Park",111.229,1 
+"35","01100","NM","Central Southeast New Mexico",17509.575,1 
+"35","01200","NM","Far Southeast New Mexico",8566.657,1 
+"36","00100","NY","St. Lawrence County",2680.377,1 
+"36","00200","NY","Clinton, Franklin, Essex & Hamilton Counties",6178.573,1 
+"36","00300","NY","Warren & Washington Counties",1698.136,1 
+"36","00401","NY","Herkimer (North & Central) & Oneida (Outer) Counties",2093.297,1 
+"36","00402","NY","Oneida County (Central)--Greater Utica & Rome Cities",257.453,1 
+"36","00403","NY","Otsego, Schoharie, Oneida (South) & Herkimer (South) Counties",1896.667,1 
+"36","00500","NY","Jefferson & Lewis Counties",2543.269,1 
+"36","00600","NY","Oswego County",951.65,1 
+"36","00701","NY","Onondaga County (Central)--Syracuse City",24.978,1 
+"36","00702","NY","Onondaga County (North)",192.952,1 
+"36","00703","NY","Onondaga County (Central)--Syracuse City (Outer)",199.38,1 
+"36","00704","NY","Cayuga & Onondaga (South) Counties",1052.662,1 
+"36","00800","NY","Wayne & Seneca Counties",927.532,1 
+"36","00901","NY","Monroe County (East)",87.098,1 
+"36","00902","NY","Monroe County (Central)--Rochester City (East)",13.857,1 
+"36","00903","NY","Monroe County (Central)--Rochester City (West)",21.379,1 
+"36","00904","NY","Monroe County (Central)--Greece & Gates Towns",62.664,1 
+"36","00905","NY","Monroe County (North & West)",292.947,1 
+"36","00906","NY","Monroe County (South)",179.261,1 
+"36","01000","NY","Genesee & Orleans Counties",884.195,1 
+"36","01101","NY","Niagara County (Southwest)--Greater Niagara Falls & North Tonawanda Area",61.581,1 
+"36","01102","NY","Niagara County (North & East)",460.778,1 
+"36","01201","NY","Erie County (Northwest)",50.812,1 
+"36","01202","NY","Erie County (North Central)",53.203,1 
+"36","01203","NY","Erie County (Northeast)",240.133,1 
+"36","01204","NY","Erie County (Central)",57.361,1 
+"36","01205","NY","Erie County (West Central)--Buffalo City (East)",26.84,1 
+"36","01206","NY","Erie County (West Central)--Buffalo City (West)",13.535,1 
+"36","01207","NY","Erie County (South)",600.811,1 
+"36","01300","NY","Livingston & Wyoming Counties",1224.509,1 
+"36","01400","NY","Ontario & Yates Counties",982.208,1 
+"36","01500","NY","Madison & Cortland Counties",1153.602,1 
+"36","01600","NY","Fulton & Montgomery Counties",898.512,1 
+"36","01700","NY","Schenectady County--Schenectady City",204.516,1 
+"36","01801","NY","Saratoga County (South & Central)",131.207,1 
+"36","01802","NY","Saratoga County (Outer)",678.777,1 
+"36","01900","NY","Rensselaer County--Troy City",652.431,1 
+"36","02001","NY","Albany County (East Central)--Albany City",23.904,1 
+"36","02002","NY","Albany County (Outside Albany City)",498.9,1 
+"36","02100","NY","Columbia & Greene Counties",1281.867,1 
+"36","02201","NY","Broome County (West Central)--Greater Binghamton City & Greater Johnson City Village",57.44,1 
+"36","02202","NY","Broome (Outer West) & Tioga Counties",906.74,1 
+"36","02203","NY","Chenango, Delaware & Broome (East) Counties",2596.176,1 
+"36","02300","NY","Tompkins County",474.649,1 
+"36","02401","NY","Chemung (South) & Steuben (East) Counties--Greater Elmira & Greater Corning Cities",323.933,1 
+"36","02402","NY","Steuben (North & West), Schuyler & Chemung (North) Counties",1802.311,1 
+"36","02500","NY","Cattaraugus & Allegany Counties",2337.658,1 
+"36","02600","NY","Chautauqua County",1060.226,1 
+"36","02701","NY","Sullivan & Ulster (West) Counties",1619.917,1 
+"36","02702","NY","Ulster County (East)",472.45,1 
+"36","02801","NY","Dutchess County (North & East)",646.339,1 
+"36","02802","NY","Dutchess County (Southwest)",149.291,1 
+"36","02901","NY","Orange County (Northeast)--Greater Newburgh City",160.607,1 
+"36","02902","NY","Orange County (Northwest)",359.2,1 
+"36","02903","NY","Orange County (Southeast)",291.879,1 
+"36","03001","NY","Rockland County (North)--New City & Congers",73.781,1 
+"36","03002","NY","Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns",52.288,1 
+"36","03003","NY","Rockland County (West)--Spring Valley, Suffern Villages & Monsey",47.481,1 
+"36","03101","NY","Putnam County",232.214,1 
+"36","03102","NY","Westchester County (Northwest)",82.601,1 
+"36","03103","NY","Westchester County (Northeast)",223.297,1 
+"36","03104","NY","Westchester County (Southeast)",36.187,1 
+"36","03105","NY","Westchester County (Central)--White Plains City",46.737,1 
+"36","03106","NY","Westchester County (Southwest)--Yonkers City",18.012,1 
+"36","03107","NY","Westchester County (South Central)--New Rochelle & Mount Vernon Cities",21.761,1 
+"36","03201","NY","Nassau County (Northwest)--North Hempstead Town (North)",38.44,1 
+"36","03202","NY","Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City",67.012,1 
+"36","03203","NY","Nassau County (East Central)--Oyster Bay Town (Central)",22.857,1 
+"36","03204","NY","Nassau County (West Central)--North Hempstead Town (South)",15.074,1 
+"36","03205","NY","Nassau County (West Central)--Hempstead Town (Northwest)",14.174,1 
+"36","03206","NY","Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor",15.783,1 
+"36","03207","NY","Nassau County (Central)--Hempstead Town (Northeast)",16.754,1 
+"36","03208","NY","Nassau County (Southeast)--Oyster Bay Town (South)",20.532,1 
+"36","03209","NY","Nassau County (Central)--Hempstead Town (East Central)",17.158,1 
+"36","03210","NY","Nassau County (South Central)--Hempstead Town (Southeast)",28.041,1 
+"36","03211","NY","Nassau County (West Central)--Hempstead Town (West Central)",12.314,1 
+"36","03212","NY","Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City",16.578,1 
+"36","03301","NY","Suffolk County (Northwest)--Huntington Town (North)",45.219,1 
+"36","03302","NY","Suffolk County (Northwest)--Huntington Town (South)",48.905,1 
+"36","03303","NY","Suffolk County (Northwest)--Smithtown Town",53.698,1 
+"36","03304","NY","Suffolk County (North Central)--Brookhaven Town (North)",65.581,1 
+"36","03305","NY","Suffolk County (East)",348.246,1 
+"36","03306","NY","Suffolk County (South Central)--Brookhaven Town (South)",120.647,1 
+"36","03307","NY","Suffolk County (Central)--Brookhaven Town (Central)",44.497,1 
+"36","03308","NY","Suffolk County (Central)--Brookhaven Town (West Central)",28.826,1 
+"36","03309","NY","Suffolk County (Central)--Islip Town (East)",41.637,1 
+"36","03310","NY","Suffolk County (Central)--Islip Town (Northwest)",28.149,1 
+"36","03311","NY","Suffolk County (Southwest)--Islip Town (South)",34.327,1 
+"36","03312","NY","Suffolk County (Southwest)--Babylon Town (Southeast)",25.056,1 
+"36","03313","NY","Suffolk County (West Central)--Babylon Town (Northwest)",27.263,1 
+"36","03701","NY","NYC-Bronx Community District 8--Riverdale, Fieldston & Kingsbridge",3.418,1 
+"36","03702","NY","NYC-Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn",6.743,1 
+"36","03703","NY","NYC-Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville",9.386,1 
+"36","03704","NY","NYC-Bronx Community District 11--Pelham Parkway, Morris Park & Laconia",3.807,1 
+"36","03705","NY","NYC-Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont",4.371,1 
+"36","03706","NY","NYC-Bronx Community District 7--Bedford Park, Fordham North & Norwood",1.571,1 
+"36","03707","NY","NYC-Bronx Community District 5--Morris Heights, Fordham South & Mount Hope",1.51,1 
+"36","03708","NY","NYC-Bronx Community District 4--Concourse, Highbridge & Mount Eden",1.985,1 
+"36","03709","NY","NYC-Bronx Community District 9--Castle Hill, Clason Point & Parkchester",4.447,1 
+"36","03710","NY","NYC-Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose",4.857,1 
+"36","03801","NY","NYC-Manhattan Community District 12--Washington Heights, Inwood & Marble Hill",2.983,1 
+"36","03802","NY","NYC-Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem",1.689,1 
+"36","03803","NY","NYC-Manhattan Community District 10--Central Harlem",1.447,1 
+"36","03804","NY","NYC-Manhattan Community District 11--East Harlem",2.314,1 
+"36","03805","NY","NYC-Manhattan Community District 8--Upper East Side",2.018,1 
+"36","03806","NY","NYC-Manhattan Community District 7--Upper West Side & West Side",2.951,1 
+"36","03807","NY","NYC-Manhattan Community District 4 & 5--Chelsea, Clinton & Midtown Business District",3.073,1 
+"36","03808","NY","NYC-Manhattan Community District 6--Murray Hill, Gramercy & Stuyvesant Town",1.641,1 
+"36","03809","NY","NYC-Manhattan Community District 3--Chinatown & Lower East Side",1.747,1 
+"36","03810","NY","NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho",2.965,1 
+"36","03901","NY","NYC-Staten Island Community District 3--Tottenville, Great Kills & Annadale",24.5,1 
+"36","03902","NY","NYC-Staten Island Community District 2--New Springville & South Beach",19.824,1 
+"36","03903","NY","NYC-Staten Island Community District 1--Port Richmond, Stapleton & Mariners Harbor",14.047,1 
+"36","04001","NY","NYC-Brooklyn Community District 1--Greenpoint & Williamsburg",4.107,1 
+"36","04002","NY","NYC-Brooklyn Community District 4--Bushwick",2.53,1 
+"36","04003","NY","NYC-Brooklyn Community District 3--Bedford-Stuyvesant",2.297,1 
+"36","04004","NY","NYC-Brooklyn Community District 2--Brooklyn Heights & Fort Greene",3.108,1 
+"36","04005","NY","NYC-Brooklyn Community District 6--Park Slope, Carroll Gardens & Red Hook",4.004,1 
+"36","04006","NY","NYC-Brooklyn Community District 8--Crown Heights North & Prospect Heights",2.223,1 
+"36","04007","NY","NYC-Brooklyn Community District 16--Brownsville & Ocean Hill",2.59,1 
+"36","04008","NY","NYC-Brooklyn Community District 5--East New York & Starrett City",5.906,1 
+"36","04009","NY","NYC-Brooklyn Community District 18--Canarsie & Flatlands",13.723,1 
+"36","04010","NY","NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby",3.079,1 
+"36","04011","NY","NYC-Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate",1.708,1 
+"36","04012","NY","NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace",4.159,1 
+"36","04013","NY","NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights",3.884,1 
+"36","04014","NY","NYC-Brooklyn Community District 12--Borough Park, Kensington & Ocean Parkway",3.145,1 
+"36","04015","NY","NYC-Brooklyn Community District 14--Flatbush & Midwood",2.907,1 
+"36","04016","NY","NYC-Brooklyn Community District 15--Sheepshead Bay, Gerritsen Beach & Homecrest",4.338,1 
+"36","04017","NY","NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach",3.705,1 
+"36","04018","NY","NYC-Brooklyn Community District 13--Brighton Beach & Coney Island",3.403,1 
+"36","04101","NY","NYC-Queens Community District 1--Astoria & Long Island City",5.107,1 
+"36","04102","NY","NYC-Queens Community District 3--Jackson Heights & North Corona",4.065,1 
+"36","04103","NY","NYC-Queens Community District 7--Flushing, Murray Hill & Whitestone",11.746,1 
+"36","04104","NY","NYC-Queens Community District 11--Bayside, Douglaston & Little Neck",9.319,1 
+"36","04105","NY","NYC-Queens Community District 13--Queens Village, Cambria Heights & Rosedale",19.656,1 
+"36","04106","NY","NYC-Queens Community District 8--Briarwood, Fresh Meadows & Hillcrest",7.441,1 
+"36","04107","NY","NYC-Queens Community District 4--Elmhurst & South Corona",3.649,1 
+"36","04108","NY","NYC-Queens Community District 6--Forest Hills & Rego Park",2.787,1 
+"36","04109","NY","NYC-Queens Community District 2--Sunnyside & Woodside",5.972,1 
+"36","04110","NY","NYC-Queens Community District 5--Ridgewood, Glendale & Middle Village",7.324,1 
+"36","04111","NY","NYC-Queens Community District 9--Richmond Hill & Woodhaven",4.754,1 
+"36","04112","NY","NYC-Queens Community District 12--Jamaica, Hollis & St. Albans",9.265,1 
+"36","04113","NY","NYC-Queens Community District 10--Howard Beach & Ozone Park",6.135,1 
+"36","04114","NY","NYC-Queens Community District 14--Far Rockaway, Breezy Point & Broad Channel",11.313,1 
+"37","00100","NC","Boone High Country--Watauga, Ashe, Yancey, Avery & Mitchell Counties",1519.799,1 
+"37","00200","NC","Wilkesboro High Country--Surry, Wilkes & Alleghany Counties",1521.504,1 
+"37","00300","NC","Rockingham & Stokes Counties",1014.408,1 
+"37","00400","NC","Granville, Person & Caswell Counties",1348.813,1 
+"37","00500","NC","Franklin, Vance & Warren (West) Counties",994.929,1 
+"37","00600","NC","Halifax, Hertford, Northampton & Warren (East) Counties",1792.462,1 
+"37","00700","NC","Northeast Albemarle Sound Region",1489.295,1 
+"37","00800","NC","South & West Albemarle Sound & Northern Outer Banks Regions",2893.776,1 
+"37","00900","NC","Nash & Edgecombe Counties--Rocky Mount City",1045.743,1 
+"37","01000","NC","Wilson & Greene Counties--Wilson City",634.102,1 
+"37","01100","NC","Johnston County",791.299,1 
+"37","01201","NC","Raleigh City (South & Central)",46.214,1 
+"37","01202","NC","Raleigh City (North)",44.267,1 
+"37","01203","NC","Wake County (Northeast)--Raleigh City (Northeast), Wake Forest & Rolesville Towns",87.749,1 
+"37","01204","NC","Wake County (East)--Raleigh City (East), Knightdale & Garner (North) Towns",185.515,1 
+"37","01205","NC","Wake County (Southeast)--Garner (South) & Fuquay-Varina Towns",147.069,1 
+"37","01206","NC","Wake County (Northwest)--Raleigh City (Northwest) & Morrisville Town",139.64,1 
+"37","01207","NC","Wake County (West Central)--Cary Town",56.493,1 
+"37","01208","NC","Wake County (Southwest)--Apex & Holly Springs Towns",128.272,1 
+"37","01301","NC","Durham County (South)--Durham City (South)",97.277,1 
+"37","01302","NC","Durham County (North)--Durham City (North)",188.699,1 
+"37","01400","NC","Orange County--Chapel Hill Town",397.958,1 
+"37","01500","NC","Chatham & Lee Counties",937.145,1 
+"37","01600","NC","Alamance County--Burlington City",423.943,1 
+"37","01701","NC","Greensboro City (North)",56.556,1 
+"37","01702","NC","Greensboro City (South)",44.119,1 
+"37","01703","NC","Guilford County (North)--Summerfield Town",353.679,1 
+"37","01704","NC","Guilford County (South)--High Point City",191.349,1 
+"37","01801","NC","Winston-Salem City (North)",64.929,1 
+"37","01802","NC","Winston-Salem City (South)",77.013,1 
+"37","01803","NC","Forsyth County (Outside Winston-Salem City)--Kernersville Town & Clemmons Village",266.205,1 
+"37","01900","NC","Davie, Yadkin & Iredell (North) Counties",876.421,1 
+"37","02000","NC","Caldwell & Alexander Counties",731.56,1 
+"37","02100","NC","Burke & McDowell Counties",947.707,1 
+"37","02201","NC","Buncombe County (Southeast)--Asheville City",183.157,1 
+"37","02202","NC","Buncombe County (Northwest)",473.515,1 
+"37","02300","NC","Haywood, Madison, Swain, Graham & Jackson (North) Counties",1880.251,1 
+"37","02400","NC","Jackson (South), Macon, Cherokee & Clay Counties",1619.576,1 
+"37","02500","NC","Henderson & Transylvania Counties",751.596,1 
+"37","02600","NC","Rutherford, Cleveland (West) & Polk Counties--Shelby City",986.778,1 
+"37","02700","NC","Lincoln & Cleveland (East) Counties",577.352,1 
+"37","02800","NC","Catawba County--Hickory City",398.721,1 
+"37","02900","NC","Iredell (South)--Mooresville Town & Statesville City",296.346,1 
+"37","03001","NC","Gaston County (Northwest)--Mount Holly City",273.072,1 
+"37","03002","NC","Gaston County (Southeast)--Gastonia & Belmont Cities",82.955,1 
+"37","03101","NC","Charlotte City (Central)",27.686,1 
+"37","03102","NC","Charlotte City (Northwest)",56.72,1 
+"37","03103","NC","Charlotte City (Northeast)",36.185,1 
+"37","03104","NC","Charlotte City (South)",55.17,1 
+"37","03105","NC","Charlotte City (Southwest)",48.865,1 
+"37","03106","NC","Mecklenburg County (North)--Huntersville, Cornelius & Davidson Towns",123.444,1 
+"37","03107","NC","Mecklenburg County (East)--Mint Hill & Matthews (North) Towns",89.202,1 
+"37","03108","NC","Mecklenburg County (South)--Matthews Town (South)",86.571,1 
+"37","03200","NC","Cabarrus County (West)--Concord, Kannapolis Cities & Harrisburg Town",133.001,1 
+"37","03300","NC","Stanley & Cabarrus (East) Counties",623.834,1 
+"37","03400","NC","Rowan County",511.374,1 
+"37","03500","NC","Davidson County",552.675,1 
+"37","03600","NC","Randolph County",782.517,1 
+"37","03700","NC","Moore & Montgomery Counties",1189.603,1 
+"37","03800","NC","Harnett County",594.987,1 
+"37","03900","NC","Sampson & Duplin Counties",1760.96,1 
+"37","04000","NC","Wayne County",553.087,1 
+"37","04100","NC","Lenoir, Onslow (North) & Jones Counties",1270.74,1 
+"37","04200","NC","Pitt County--Greenville City",651.975,1 
+"37","04300","NC","Craven County",708.958,1 
+"37","04400","NC","Carteret, Beaufort & Pamlico Counties",1669.981,1 
+"37","04500","NC","Onslow County (South)--Jacksonville City",363.304,1 
+"37","04600","NC","Pender & New Hanover (North) Counties",971.536,1 
+"37","04700","NC","New Hanover County (South)--Wilmington City",89.793,1 
+"37","04800","NC","Brunswick County",846.973,1 
+"37","04900","NC","Columbus, Bladen & Robeson (East) Counties",2007.762,1 
+"37","05001","NC","Cumberland County (Central)--Fayetteville City (Central & East)",54.294,1 
+"37","05002","NC","Cumberland County (East)--Hope Mills & Spring Lake Towns",501.644,1 
+"37","05003","NC","Cumberland County (West)--Fayetteville City (West)",96.377,1 
+"37","05100","NC","Robeson County (West)--Lumberton City",753.08,1 
+"37","05200","NC","Hoke, Richmond & Scotland Counties",1183.41,1 
+"37","05300","NC","Union (East) & Anson Counties--Monroe City",1032.248,1 
+"37","05400","NC","Union County (West)--Indian Trail & Stallings Towns",130.724,1 
+"38","00100","ND","West North Dakota--Minot City",30410.644,1 
+"38","00200","ND","East Central North Dakota--Jamestown City",19803.826,1 
+"38","00300","ND","South Central North Dakota--Bismarck City",8388.098,1 
+"38","00400","ND","Northeast North Dakota--Grand Forks City",8633.292,1 
+"38","00500","ND","Cass County--Fargo City",1764.937,1 
+"39","00100","OH","Defiance, Williams, Henry & Paulding Counties",1664.873,1 
+"39","00200","OH","Wood (South), Fulton & Lucas (Southwest) Counties--Bowling Green City",924.793,1 
+"39","00300","OH","Lucas (West) & Wood (North Central) Counties--Perrysburg, Sylvania & Maumee Cities",187.728,1 
+"39","00400","OH","Toledo City (West)",43.127,1 
+"39","00500","OH","Toledo City (East)",36.731,1 
+"39","00600","OH","Ottawa, Wood (Northeast) & Lucas (East) Counties--Oregon City",426.039,1 
+"39","00700","OH","Erie & Sandusky Counties",660.011,1 
+"39","00801","OH","Lorain County (North)--Elyria & Lorain Cities",67.258,1 
+"39","00802","OH","Lorain County (South)--Avon, Avon Lake & North Ridgeville Cities",423.844,1 
+"39","00901","OH","Cuyahoga County--Olmsted Township, Bay Village, North Olmsted & Westlake Cities",45.916,1 
+"39","00902","OH","Cuyahoga County (West)--Berea, Brook Park, Lakewood & Rocky River Cities",36.329,1 
+"39","00903","OH","Cuyahoga County (South)--Broadview Heights, North Royalton & Strongsville Cities",88.099,1 
+"39","00904","OH","Cuyahoga County (South Central)--Brooklyn, Parma, Parma Heights & Seven Hills Cities",33.366,1 
+"39","00905","OH","Cleveland City (West)",20.696,1 
+"39","00906","OH","Cleveland City (Central)",27.193,1 
+"39","00907","OH","Cuyahoga County (Southeast)--Bedford, Garfield Heights & Maple Heights Cities",52.895,1 
+"39","00908","OH","Cleveland City (East) & Bratenahl Village",30.91,1 
+"39","00909","OH","Cuyahoga County (Northeast)--Euclid, Cleveland Heights & South Euclid Cities",28.293,1 
+"39","00910","OH","Cuyahoga County (East)--Lyndhurst, Mayfield Heights, Shaker Heights & Solon Cities",93.492,1 
+"39","01000","OH","Lake County (West)--Eastlake, Wickliffe, Willoughby & Willowick Cities",65.285,1 
+"39","01100","OH","Lake County (East)--Mentor, Painesville Cities & Madison Village",113.785,1 
+"39","01200","OH","Geauga & Lake (South) Counties",448.586,1 
+"39","01300","OH","Ashtabula County",701.931,1 
+"39","01400","OH","Trumbull (Outside Warren City) & Mahoning (Outside Youngstown City) Counties",784.121,1 
+"39","01500","OH","Mahoning County (Northeast)--Youngstown City, Boardman & Austintown",149.577,1 
+"39","01600","OH","Trumbull County (South Central)--Warren & Niles Cities",96.221,1 
+"39","01700","OH","Portage County",487.381,1 
+"39","01801","OH","Summit County (North & Northwest)--Hudson, Twinsburg & Macedonia Cities",158.602,1 
+"39","01802","OH","Summit County (East Central)--Cuyahoga Falls (Southeast), Stow & Tallmadge Cities",50.033,1 
+"39","01803","OH","Summit County (Central)--Akron City (East)",30.824,1 
+"39","01804","OH","Summit County (Central)--Akron (West) & Cuyahoga Falls (West) Cities",51.003,1 
+"39","01805","OH","Summit County (South)--Barberton, Green & New Franklin Cities",122.286,1 
+"39","01900","OH","Medina County",421.358,1 
+"39","02000","OH","Wayne County",554.929,1 
+"39","02100","OH","Huron & Ashland Counties",914.445,1 
+"39","02200","OH","Richland County",495.269,1 
+"39","02300","OH","Seneca, Crawford & Wyandot Counties",1359.668,1 
+"39","02400","OH","Hancock & Putnam Counties",1013.879,1 
+"39","02500","OH","Allen County",402.496,1 
+"39","02600","OH","Auglaize, Mercer & Van Wert Counties",1272.993,1 
+"39","02700","OH","Logan, Champaign & Hardin Counties",1357.503,1 
+"39","02800","OH","Marion, Knox & Morrow Counties",1335.33,1 
+"39","02900","OH","Holmes, Guernsey & Coshocton Counties",1508.7,1 
+"39","03000","OH","Tuscarawas & Harrison Counties",969.975,1 
+"39","03100","OH","Stark County (West)--Massillon City",254.191,1 
+"39","03200","OH","Stark County (Central)--Canton & North Canton Cities",59.622,1 
+"39","03300","OH","Stark County (East) & Carroll County--Alliance City",656.066,1 
+"39","03400","OH","Columbiana County",531.893,1 
+"39","03500","OH","Belmont & Jefferson Counties",940.457,1 
+"39","03600","OH","Washington, Morgan, Noble & Monroe Counties",1902.128,1 
+"39","03700","OH","Muskingum & Perry Counties",1072.55,1 
+"39","03800","OH","Licking County",682.5,1 
+"39","03900","OH","Fairfield County",504.411,1 
+"39","04000","OH","Delaware County",443.098,1 
+"39","04101","OH","Columbus (Far Northeast), Gahanna & New Albany Cities",64.78,1 
+"39","04102","OH","Columbus (North), Westerville & Worthington Cities",27.984,1 
+"39","04103","OH","Columbus (Far Northwest), Dublin & Hilliard (North) Cities",45.048,1 
+"39","04104","OH","Columbus (Northwest), Upper Arlington & Grandview Heights Cities",29.184,1 
+"39","04105","OH","Columbus City (Central)",18.414,1 
+"39","04106","OH","Columbus City (Northeast)",36.204,1 
+"39","04107","OH","Columbus (East), Whitehall & Bexley Cities",23.206,1 
+"39","04108","OH","Columbus (Southeast) & Reynoldsburg Cities",37.272,1 
+"39","04109","OH","Franklin County (South)--Columbus (South), Grove Cities & Groveport Village",109.391,1 
+"39","04110","OH","Columbus City (West)",34.737,1 
+"39","04111","OH","Columbus (Far West) & Hilliard (South) Cities",105.969,1 
+"39","04200","OH","Pickaway, Union & Madison Counties",1398.926,1 
+"39","04300","OH","Clark County",397.473,1 
+"39","04400","OH","Miami County",406.58,1 
+"39","04500","OH","Darke, Shelby & Preble Counties",1429.895,1 
+"39","04601","OH","Montgomery County (West)--Miamisburg & West Carrollton Cities",250.293,1 
+"39","04602","OH","Montgomery County (Northeast)--Huber Heights, Trotwood, Vandalia & Englewood Cities",96.983,1 
+"39","04603","OH","Montgomery County (East Central)--Dayton & Riverside Cities",61.772,1 
+"39","04604","OH","Montgomery County (Southeast)--Kettering & Centerville Cities",52.506,1 
+"39","04700","OH","Greene County",413.729,1 
+"39","04800","OH","Ross & Fayette Counties",1095.544,1 
+"39","04900","OH","Jackson, Hocking, Pike & Vinton Counties",1694.269,1 
+"39","05000","OH","Athens, Gallia & Meigs Counties",1400.227,1 
+"39","05100","OH","Scioto & Lawrence Counties",1063.584,1 
+"39","05200","OH","Highland, Clinton & Adams Counties",1545.635,1 
+"39","05301","OH","Warren County (East)--Lebanon & Springboro (East) Cities",296.942,1 
+"39","05302","OH","Warren County (West)--Mason, Franklin & Springboro (West) Cities",104.372,1 
+"39","05401","OH","Butler County (Southeast)--Monroe City & Beckett Ridge",79.134,1 
+"39","05402","OH","Butler County (South Central)--Hamilton & Fairfield Cities",63.176,1 
+"39","05403","OH","Butler County (North & West)--Middletown, Oxford & Trenton Cities",324.746,1 
+"39","05501","OH","Hamilton County (West)--Mack & Dent",141.366,1 
+"39","05502","OH","Hamilton County (Central)--Forest Park City, White Oak, Bridgetown & Finneytown",49.708,1 
+"39","05503","OH","Cincinnati City (West)",27.292,1 
+"39","05504","OH","Cincinnati City (Central)",29.483,1 
+"39","05505","OH","Cincinnati (East) & Norwood Cities",31.068,1 
+"39","05506","OH","Hamilton County (North Central)--Sharonville, Blue Ash, Springdale & Reading Cities",52.804,1 
+"39","05507","OH","Hamilton County (East)--Loveland, Montgomery Cities & Forestville",74.19,1 
+"39","05600","OH","Clermont County (West)",112.882,1 
+"39","05700","OH","Clermont (East) & Brown Counties",829.234,1 
+"40","00100","OK","Northeast Oklahoma",3624.511,1 
+"40","00200","OK","Cherokee, Sequoyah & Adair Counties",1996.156,1 
+"40","00300","OK","Southeast Oklahoma",8209.475,1 
+"40","00400","OK","Southwest Oklahoma",7029.321,1 
+"40","00500","OK","Panhandle & Northwest Oklahoma",16138.431,1 
+"40","00601","OK","Comanche County (Central)--Lawton City",536.006,1 
+"40","00602","OK","Stephens, Caddo, Comanche (North), Tillman, Jefferson & Cotton Counties",4944.434,1 
+"40","00701","OK","Carter, Garvin, Murray, Love & Pontotoc (West) Counties",2934.19,1 
+"40","00702","OK","Bryan, Pontotoc (East), Marshall, Atoka, Johnston & Coal Counties--Ada City",3751.684,1 
+"40","00800","OK","Canadian County--Oklahoma City (West)",896.626,1 
+"40","00900","OK","Cleveland County--Norman, Oklahoma City (South) & Moore Cities",538.766,1 
+"40","01001","OK","Oklahoma County (Southwest)--Oklahoma City (West Central)",56.821,1 
+"40","01002","OK","Oklahoma County (Northwest)--Oklahoma City (Northwest Central) & Bethany Cities",91.29,1 
+"40","01003","OK","Oklahoma County (Northeast)--Edmond & Oklahoma City (North Central) Cities",171.666,1 
+"40","01004","OK","Oklahoma County (East)--Midwest, Del & Oklahoma City (Northeast) Cities",231.063,1 
+"40","01005","OK","Oklahoma County (Southeast)--Oklahoma City (East Central)",103.434,1 
+"40","01006","OK","Oklahoma County (Central)--Oklahoma City (Central)",54.544,1 
+"40","01101","OK","Grady, McClain & Pottawatomie (South) Counties",2173.224,1 
+"40","01102","OK","Pottawatomie (North), Logan & Lincoln Counties--Shawnee City",1981.794,1 
+"40","01201","OK","Tulsa County (Central)--Tulsa City (Central)",56.43,1 
+"40","01202","OK","Tulsa County (Southeast)--Tulsa (Southeast) & Broken Arrow (West) Cities",104.78,1 
+"40","01203","OK","Tulsa County (North)--Tulsa (North) & Owasso Cities",191.392,1 
+"40","01204","OK","Tulsa (West), Creek (Northeast) & Osage (Southeast) Counties--Tulsa City (West)",607.928,1 
+"40","01301","OK","Rogers (Central) & Wagoner (West) Counties--Claremore City",479.222,1 
+"40","01302","OK","Muskogee, Okmulgee, Wagoner (East) & McIntosh Counties",2451.263,1 
+"40","01400","OK","Garfield, Kay & Noble Counties--Enid City",2710.09,1 
+"40","01501","OK","Payne, Seminole, Creek (Southwest), Hughes & Okfuskee Counties--Stillwater City",3350.731,1 
+"40","01601","OK","Washington, Osage (North & West), Pawnee & Creek (Northwest) Counties",3179.647,1 
+"41","00100","OR","Umatilla, Union, Baker & Wallowa Counties",11466.661,1 
+"41","00200","OR","North Central Oregon--The Dalles City",17966.742,1 
+"41","00300","OR","Klamath, Malheur, Lake & Harney Counties",34100.738,1 
+"41","00400","OR","Deschutes County",3018.186,1 
+"41","00500","OR","Columbia, Lincoln, Clatsop & Tillamook Counties",3568.752,1 
+"41","00600","OR","Linn & Benton Counties",2966.071,1 
+"41","00703","OR","Lane County (West Central)--Eugene City (West & South)",51.419,1 
+"41","00704","OR","Lane County (East Central)--Eugene (Northeast) & Springfield Cities",47.956,1 
+"41","00705","OR","Lane County (Outside Eugene & Springfield Cities)",4453.745,1 
+"41","00800","OR","Josephine, Coos & Curry Counties",4863.3,1 
+"41","00901","OR","Jackson County (Central)--Medford & Central Point Cities",73.263,1 
+"41","00902","OR","Jackson County (Outside Medford & Central Point Cities)--Ashland City",2710.285,1 
+"41","01000","OR","Douglas County",5036.075,1 
+"41","01103","OR","Marion County (West Central)--Salem (North), Keizer Cities & Hayesville",27.341,1 
+"41","01104","OR","Marion County (West Central)--Salem City (South) & Four Corners",47.733,1 
+"41","01105","OR","Marion County (Outside Salem & Keizer Cities)--Woodburn & Silverton Cities",1107.251,1 
+"41","01200","OR","Yamhill & Polk Counties",1456.647,1 
+"41","01301","OR","Portland City (North & Northeast)",30.042,1 
+"41","01302","OR","Portland City (East)",29.185,1 
+"41","01303","OR","Portland City (Southeast)",16.505,1 
+"41","01305","OR","Portland City (Central East)",15.15,1 
+"41","01314","OR","Portland City (Northwest & Southwest)",99.659,1 
+"41","01316","OR","Multnomah County (East)--Gresham & Troutdale Cities",240.756,1 
+"41","01317","OR","Clackamas County (South & East)--Damascus City",1718.936,1 
+"41","01318","OR","Clackamas County (Northwest)--Oregon City, Milwaukie & Happy Valley Cities",65,1 
+"41","01319","OR","Clackamas County (Northwest)--Lake Oswego, West Linn, Wilsonville & Canby Cities",86.386,1 
+"41","01320","OR","Washington County (Southeast)--Tigard, Tualatin & Sherwood Cities",43.154,1 
+"41","01321","OR","Washington County (West)--Forest Grove, Cornelius Cities, Bethany & Oak Hills",554.216,1 
+"41","01322","OR","Washington County (Central)--Hillsboro City",81.633,1 
+"41","01323","OR","Washington County (Central)--Beaverton City (West) & Aloha",21.343,1 
+"41","01324","OR","Washington County (Northeast)--Beaverton City (East & Central) & Cedar Mill",23.884,1 
+"42","00101","PA","Erie City, Lawrence Park Township & Wesleyville Borough",21.446,1 
+"42","00102","PA","Erie County (Outer)",777.708,1 
+"42","00200","PA","Crawford & Warren Counties",1896.433,1 
+"42","00300","PA","Clearfield, McKean, Elk, Potter & Cameron Counties",4428.832,1 
+"42","00400","PA","Bradford, Tioga & Sullivan Counties",2731.126,1 
+"42","00500","PA","Pike, Wayne & Susquehanna Counties",2093.999,1 
+"42","00600","PA","Monroe County",608.286,1 
+"42","00701","PA","Lackawanna County--Scranton City, Dunmore, Old Forge, Taylor & Moosic Boroughs",49.32,1 
+"42","00702","PA","Lackawanna (Outside Greater Scranton City) & Wyoming Counties",807.081,1 
+"42","00801","PA","Luzerne County (East)--Kingston Borough",316.362,1 
+"42","00802","PA","Luzerne County (South Central)--Wilkes-Barre & Hazleton Cities",200.016,1 
+"42","00803","PA","Columbia & Luzerne (West) Counties--Bloomsburg Town & Berwick Borough",857.062,1 
+"42","00900","PA","Lycoming & Clinton Counties",2116.579,1 
+"42","01000","PA","Northumberland & Montour Counties",588.61,1 
+"42","01100","PA","Mifflin, Union, Snyder & Juniata Counties",1447.069,1 
+"42","01200","PA","Centre County",1109.921,1 
+"42","01300","PA","Venango, Jefferson, Clarion & Forest Counties",2354.732,1 
+"42","01400","PA","Mercer County",672.575,1 
+"42","01501","PA","Lawrence & Beaver (North) Counties--New Castle City",448.034,1 
+"42","01502","PA","Beaver County (South)",344.854,1 
+"42","01600","PA","Butler County",788.604,1 
+"42","01701","PA","Pittsburgh City (North)",30.092,1 
+"42","01702","PA","Pittsburgh City (South)",25.615,1 
+"42","01801","PA","Allegheny County (West)",126.507,1 
+"42","01802","PA","Allegheny County (North)--Franklin Park Borough & Allison Park",203.942,1 
+"42","01803","PA","Allegheny County (North Central)",61.316,1 
+"42","01804","PA","Allegheny County (East)--Monroeville Municipality, Plum & Wilkinsburg Boroughs",86.409,1 
+"42","01805","PA","Allegheny County (Southeast)--West Mifflin Borough, McKeesport City & Munhall Borough",93.837,1 
+"42","01806","PA","Allegheny County (South Central)--Baldwin & Whitehall Boroughs",27.386,1 
+"42","01807","PA","Allegheny County (South)--Bethel Park Municipality & Jefferson Hills Borough",74.971,1 
+"42","01900","PA","Indiana & Armstrong Counties",1480.233,1 
+"42","02001","PA","Westmoreland County (Northwest)--Murrysville Municipality & New Kensington City",167.536,1 
+"42","02002","PA","Westmoreland County (Southwest)--Greensburg City",230.771,1 
+"42","02003","PA","Westmoreland County (East)",629.247,1 
+"42","02100","PA","Cambria County",688.351,1 
+"42","02200","PA","Blair & Huntingdon Counties--Altoona City",1400.439,1 
+"42","02301","PA","Cumberland (West) & Perry Counties--Carlisle Borough",952.842,1 
+"42","02302","PA","Cumberland County (East)",144.062,1 
+"42","02401","PA","Dauphin County (Central)--Harrisburg City & Colonial Park",66.157,1 
+"42","02402","PA","Dauphin County (Outer)--Hershey",458.89,1 
+"42","02500","PA","Lebanon County",361.833,1 
+"42","02600","PA","Schuylkill County",778.634,1 
+"42","02701","PA","Berks County (Northwest)--Wyomissing Borough",312.818,1 
+"42","02702","PA","Berks County (Southwest)--Reading City",104.814,1 
+"42","02703","PA","Berks County (East)",438.874,1 
+"42","02801","PA","Carbon & Lehigh (North) Counties",567.137,1 
+"42","02802","PA","Lehigh County (South--Outside Allentown & Bethlehem Cities)--Emmaus Borough",137.644,1 
+"42","02803","PA","Allentown City",17.546,1 
+"42","02901","PA","Northampton (South) & Lehigh (East) Counties--Bethlehem (East) & Easton Cities",90.639,1 
+"42","02902","PA","Northampton County (North)",283.33,1 
+"42","03001","PA","Bucks County (North)",307.046,1 
+"42","03002","PA","Bucks County (Central)",144.332,1 
+"42","03003","PA","Bucks County (Southeast)--Levittown",79.332,1 
+"42","03004","PA","Bucks County (Southwest)",73.597,1 
+"42","03101","PA","Montgomery County (Northwest)--Pottstown Borough",125.108,1 
+"42","03102","PA","Montgomery County (Northeast)--Lansdale Borough",106.776,1 
+"42","03103","PA","Montgomery County (Southwest)--King of Prussia & Ardmore (East)",61.917,1 
+"42","03104","PA","Montgomery County (Central)--Norristown Borough",63.729,1 
+"42","03105","PA","Montgomery County (Southeast)--Willow Grove, Horsham & Montgomeryville",64.572,1 
+"42","03106","PA","Montgomery County (South Central)",60.938,1 
+"42","03201","PA","Philadelphia City (Far Northeast)",26.286,1 
+"42","03202","PA","Philadelphia City (Near Northeast-West)",9.13,1 
+"42","03203","PA","Philadelphia City (Near Northeast-East)",9.786,1 
+"42","03204","PA","Philadelphia City (North)",8.802,1 
+"42","03205","PA","Philadelphia City (East)",10.602,1 
+"42","03206","PA","Philadelphia City (Northwest)",19.165,1 
+"42","03207","PA","Philadelphia City (Central)",6.813,1 
+"42","03208","PA","Philadelphia City (West)",11.359,1 
+"42","03209","PA","Philadelphia City (Center City)",5.903,1 
+"42","03210","PA","Philadelphia City (Southwest)",16.282,1 
+"42","03211","PA","Philadelphia City (Southeast)",9.972,1 
+"42","03301","PA","Delaware County (North)--Broomall & Ardmore (West)",50.303,1 
+"42","03302","PA","Delaware County (East)--Yeadon, Darby, Lansdowne Boroughs & Drexel Hill",21.03,1 
+"42","03303","PA","Delaware County (Southeast)--Chester City",29.437,1 
+"42","03304","PA","Delaware County (West)",83.074,1 
+"42","03401","PA","Chester County (North)--Phoenixville Borough",146.963,1 
+"42","03402","PA","Chester County (East Central)--West Chester Borough",106.766,1 
+"42","03403","PA","Chester County (West Central)--Coatesville City",193.167,1 
+"42","03404","PA","Chester County (South)",303.611,1 
+"42","03501","PA","Lancaster County--Lancaster City, East Lampeter, Lancaster & West Lampeter Townships",52.627,1 
+"42","03502","PA","Lancaster County (Northwest)--Elizabethtown Borough",212.074,1 
+"42","03503","PA","Lancaster County (East)--Ephrata Borough",517.37,1 
+"42","03504","PA","Lancaster County (Southwest)--Columbia Borough",161.74,1 
+"42","03601","PA","York County (Central)--York City & Shiloh",92.65,1 
+"42","03602","PA","York County (North)--Weigelstown",336.085,1 
+"42","03603","PA","York County (South)",475.447,1 
+"42","03701","PA","Adams & Franklin (Southeast) Counties",561.13,1 
+"42","03702","PA","Franklin County (Outside Washington Township & Waynesboro Borough)",729.761,1 
+"42","03800","PA","Somerset, Bedford & Fulton Counties",2524.222,1 
+"42","03900","PA","Fayette County",790.339,1 
+"42","04001","PA","Washington County (North)--Washington City",517.445,1 
+"42","04002","PA","Washington (South) & Greene Counties",915.493,1 
+"44","00101","RI","Northwest Rhode Island--Providence County (West & Central)--Woonsocket City",289.456,1 
+"44","00102","RI","Northeast Rhode Island--Providence County--Pawtucket & Central Falls Cities",60.066,1 
+"44","00103","RI","Providence City",18.4,1 
+"44","00104","RI","Providence County (Southeast)--Cranston & East Providence Cities",41.58,1 
+"44","00201","RI","Central Rhode Island--Kent County--Warwick City",168.528,1 
+"44","00300","RI","Southeast Rhode Island--Newport & Bristol Counties--Newport City",126.55,1 
+"44","00400","RI","South Rhode Island--Washington County",329.235,1 
+"45","00101","SC","Pickens & Oconee Counties--Easley & Clemson Cities",1122.74,1 
+"45","00102","SC","Greenville County (North)--Greer City (North & West) & Taylors (Central & East)",374.45,1 
+"45","00103","SC","Greenville County (North Central & Outside Greenville City)--Wade Hampton & Berea",125.818,1 
+"45","00104","SC","Greenville County (Central)--Greenville & Mauldin Cities",60.081,1 
+"45","00105","SC","Greenville (South) & Laurens Counties--Simpsonville, Laurens & Clinton Cities",938.574,1 
+"45","00200","SC","Anderson County--Anderson City",715.426,1 
+"45","00301","SC","Spartanburg County (Central)--Spartanburg City",121.852,1 
+"45","00302","SC","Spartanburg County (Outside Spartanburg City)--Greer City (East)",686.074,1 
+"45","00400","SC","Cherokee, Newberry, Chester & Union Counties",2117.524,1 
+"45","00501","SC","York County (West & Outside Rock Hill City)",535.329,1 
+"45","00502","SC","York County (East)--Rock Hill City & Fort Mill Town",145.266,1 
+"45","00601","SC","Lexington (South & West) & Saluda Counties--Lexington Town & Red Bank",1000.692,1 
+"45","00602","SC","Lexington County (North & East)--West Columbia, Cayce Cities, Irmo Town & Seven Oaks",150.999,1 
+"45","00603","SC","Richland (North) & Fairfield Counties--Forest Acres City & Dentsville",936.236,1 
+"45","00604","SC","Richland County (Central)--Columbia City",187.271,1 
+"45","00605","SC","Kershaw, Richland (South) & Calhoun Counties",1427.552,1 
+"45","00700","SC","Lancaster, Chesterfield & Marlboro Counties",1827.909,1 
+"45","00800","SC","Sumter, Clarendon, Williamsburg & Lee Counties--Sumter City",2616.345,1 
+"45","00900","SC","Florence & Darlington Counties--Florence City",1361.118,1 
+"45","01000","SC","Georgetown, Marion & Dillon Counties",1707.646,1 
+"45","01101","SC","Horry County (West & North)--Conway City & Red Hill",937.048,1 
+"45","01102","SC","Horry County (Southeast)--Myrtle Beach, North Myrtle Beach Cities & Socastee (East)",196.848,1 
+"45","01201","SC","Dorchester (North & West) & Berkeley (Southwest) Counties--Summerville Town & Ladson",510.807,1 
+"45","01202","SC","Charleston (South & West) & Berkeley (South) Counties--Charleston City",625.432,1 
+"45","01203","SC","Charleston (Northeast) & Berkeley (North & East) Counties--Mount Pleasant Town",1199.564,1 
+"45","01204","SC","Charleston, Berkeley & Dorchester Counties--North Charleston City",252.375,1 
+"45","01300","SC","Orangeburg, Colleton, Barnwell, Hampton, Bamberg & Allendale Counties",4072.34,1 
+"45","01400","SC","Beaufort & Jasper Counties--Hilton Head Island, Bluffton Towns & Beaufort City",1231.598,1 
+"45","01500","SC","Aiken & Edgefield Counties--Aiken & North Augusta Cities",1571.44,1 
+"45","01600","SC","Greenwood, Abbeville & McCormick Counties",1304.34,1 
+"46","00100","SD","West South Dakota--Rapid City",16396.326,1 
+"46","00200","SD","Lakota Region",28983.51,1 
+"46","00300","SD","Northeast South Dakota",15189.153,1 
+"46","00400","SD","Jackrabbit Region",11272.434,1 
+"46","00500","SD","Southeast South Dakota (Outside Sioux Falls City)",3884.917,1 
+"46","00600","SD","Sioux Falls City",84.66,1 
+"47","00100","TN","Northwest Tennessee--Gibson, Dyer, Obion, Crockett & Lake Counties",2091.116,1 
+"47","00200","TN","Land Between the Lakes--Weakley, Henry, Carroll, Humphreys, Benton & Houston Counties",2867.121,1 
+"47","00300","TN","Montgomery & Stewart Counties--Clarksville City",998.507,1 
+"47","00400","TN","Robertson, Dickson, Cheatham & Hickman Counties",1881.119,1 
+"47","00500","TN","Sumner County--Hendersonville City",529.449,1 
+"47","00600","TN","Warren, Macon, Smith, DeKalb, Cannon & Trousdale Counties",1738.287,1 
+"47","00700","TN","Putnam, Overton, Jackson, Clay & Pickett Counties",1542.421,1 
+"47","00800","TN","Cumberland, White, Fentress & Van Buren Counties",1829.726,1 
+"47","00900","TN","Campbell, Claiborne, Scott, Morgan & Hancock Counties",2191.588,1 
+"47","01000","TN","Hawkins & Sullivan (Northwest) Counties--Kingsport City",533.039,1 
+"47","01100","TN","Sullivan County (Southeast)--Bristol City",367.3,1 
+"47","01200","TN","Greene, Carter, Unicoi & Johnson Counties",1448.008,1 
+"47","01300","TN","Washington County--Johnson City",326.465,1 
+"47","01400","TN","Hamblen, Cocke & Grainger Counties",876.344,1 
+"47","01500","TN","Sevier & Jefferson Counties",866.578,1 
+"47","01601","TN","Anderson, Union & Knox (North) Counties--Oak Ridge (East) & Clinton Cities",603.797,1 
+"47","01602","TN","Knox County (East)",251.393,1 
+"47","01603","TN","Knoxville City",87.637,1 
+"47","01604","TN","Knox County (West)--Farragut Town",126.099,1 
+"47","01700","TN","Blount County",558.706,1 
+"47","01800","TN","Roane, Loudon & Monroe Counties--Oak Ridge City (West)",1225.488,1 
+"47","01900","TN","Bradley, McMinn & Polk Counties--Cleveland City",1193.563,1 
+"47","02001","TN","Chattanooga City (South & Central)",58.984,1 
+"47","02002","TN","Hamilton County (South)--Chattanooga (North) & Red Bank Cities",114.186,1 
+"47","02003","TN","Hamilton County (North)--Soddy-Daisy City",369.262,1 
+"47","02100","TN","Rhea, Marion, Sequatchie, Grundy, Bledsoe & Meigs Counties",2041.475,1 
+"47","02200","TN","Coffee, Franklin, Lincoln & Moore Counties",1683.06,1 
+"47","02300","TN","Wilson County--Lebanon & Mount Juliet Cities",570.826,1 
+"47","02401","TN","Rutherford County (North)--Smyrna Town & La Vergne City",257.912,1 
+"47","02402","TN","Rutherford County (South)--Murfreesboro City",361.452,1 
+"47","02501","TN","Nashville-Davidson (East)",101.436,1 
+"47","02502","TN","Nashville-Davidson (North)",181.373,1 
+"47","02503","TN","Nashville-Davidson (Central)",45.777,1 
+"47","02504","TN","Nashville-Davidson (Southeast)",50.846,1 
+"47","02505","TN","Nashville-Davidson (Southwest)",124.6,1 
+"47","02600","TN","Williamson County--Franklin & Brentwood Cities",582.599,1 
+"47","02700","TN","Maury, Bedford & Marshall Counties",1462.234,1 
+"47","02800","TN","Lawrence, Giles, Wayne, Lewis & Perry Counties",2658.976,1 
+"47","02900","TN","Henderson, Hardeman, McNairy, Hardin, Haywood & Decatur Counties",3194.976,1 
+"47","03000","TN","Madison & Chester Counties--Jackson City",842.853,1 
+"47","03100","TN","Tipton, Fayette & Lauderdale Counties",1635.144,1 
+"47","03201","TN","Memphis City (Central Riverside)",43.454,1 
+"47","03202","TN","Memphis City (Central Midtown)",38.55,1 
+"47","03203","TN","Memphis (North) & Bartlett (Southwest) Cities",48.514,1 
+"47","03204","TN","Shelby County (North)--Bartlett (North & East) & Millington Cities",287.111,1 
+"47","03205","TN","Memphis (East), Lakeland Cities & Arlington Town (South)",110.031,1 
+"47","03206","TN","Shelby County (Southeast)--Collierville Town & Germantown City",76.958,1 
+"47","03207","TN","Memphis City (Southeast)",28.925,1 
+"47","03208","TN","Memphis City (Southwest)",129.631,1 
+"48","00100","TX","Panhandle Regional Planning Commission (Outside Potter & Randall Counties)",23933.22,1 
+"48","00200","TX","Panhandle Regional Planning Commission--Potter County--Amarillo City (North)",908.37,1 
+"48","00300","TX","Panhandle Regional Planning Commission--Randall County--Amarillo City (South)",911.544,1 
+"48","00400","TX","South Plains Association of Governments (Outside Lubbock County)",12699.529,1 
+"48","00501","TX","South Plains Association of Governments--Lubbock County--Lubbock City (Central)",27.126,1 
+"48","00502","TX","South Plains Association of Governments--Lubbock County--Lubbock City (Outer)",868.474,1 
+"48","00600","TX","North Texas Regional Planning Commission (Outside Wichita County) & Wise County",9790.688,1 
+"48","00700","TX","North Texas Regional Planning Commission--Wichita County--Wichita Falls City",627.776,1 
+"48","00800","TX","Texoma COG--Grayson, Cooke & Fannin Counties",2698.4,1 
+"48","00900","TX","Hunt & Rockwall Counties--Rockwall, Greenville & Dallas (Far Northeast) Cities",967.354,1 
+"48","01000","TX","Ark-Tex COG (West)",3910.197,1 
+"48","01100","TX","Ark-Tex COG (East)--Bowie & Cass Counties",1821.969,1 
+"48","01200","TX","East Texas COG (Northeast)--Harrison, Upshur & Marion Counties",1863.778,1 
+"48","01300","TX","East Texas COG (Northwest)--Van Zandt, Wood, Camp & Rains Counties",1913.069,1 
+"48","01400","TX","Kaufman County",780.699,1 
+"48","01501","TX","East Texas COG (Central)--Smith County (Outside Tyler City)",811.718,1 
+"48","01502","TX","East Texas COG (Central)--Smith County (West)--Tyler City",109.736,1 
+"48","01600","TX","East Texas COG (Central)--Gregg County--Longview City",273.303,1 
+"48","01700","TX","East Texas COG (Southeast)--Rusk, Cherokee & Panola Counties",2778.689,1 
+"48","01800","TX","East Texas COG (Southwest)--Henderson & Anderson Counties",1936.35,1 
+"48","01901","TX","Collin County (Southwest)--Dallas (North), Plano (South) & Richardson (North) Cities",33.064,1 
+"48","01902","TX","Collin County (Southwest)--Plano City (West)",27.17,1 
+"48","01903","TX","Collin County (Southwest)--Plano City (Central)",22.907,1 
+"48","01904","TX","Collin County (South Central)--Allen, Murphy, Plano (East) & Parker Cities",51.841,1 
+"48","01905","TX","Collin County (Central)--McKinney City",49.512,1 
+"48","01906","TX","Collin County (Northwest)--Frisco City (East) & Prosper Town",159.437,1 
+"48","01907","TX","Collin County (East)",497.294,1 
+"48","02001","TX","Denton County (Far Southeast)--Carrollton (North) & Dallas (North) Cities",28.477,1 
+"48","02002","TX","Denton County (Southeast)--Lewisville City",38.2,1 
+"48","02003","TX","Denton County (South Central)--Flower Mound Town & Highland Village City",116.874,1 
+"48","02004","TX","Denton County (East Central)--Frisco (West), The Colony & Little Elm Cities",56.24,1 
+"48","02005","TX","Denton County (Central)--Denton (Central) & Corinth Cities",46.009,1 
+"48","02006","TX","Denton County (North & West)--Denton City (Outer)",592.632,1 
+"48","02101","TX","Ellis County",935.487,1 
+"48","02102","TX","Johnson County",724.692,1 
+"48","02200","TX","North Central Texas COG (West)--Hood, Erath, Palo Pinto & Somervell Counties",2641.967,1 
+"48","02301","TX","Dallas County (Northeast)--Rowlett & Garland (Northeast) Cities",39.707,1 
+"48","02302","TX","Dallas County (Northeast)--Garland City (South)",25.842,1 
+"48","02303","TX","Dallas County (East)--Mesquite City (Central & Southeast)",54.802,1 
+"48","02304","TX","Dallas County (Southeast)--Dallas City (Southeast)",151.37,1 
+"48","02305","TX","Dallas (East) & Mesquite (West) Cities--South of I-30 & West of I-635",30.698,1 
+"48","02306","TX","Dallas (Northeast) & Mesquite (North) Cities--North of I-30 & West of I-635",26.491,1 
+"48","02307","TX","Dallas City (Northeast)--East of US-75",17.657,1 
+"48","02308","TX","Dallas County (Northeast)--Garland (Northwest) & Richardson (East) Cities",25.019,1 
+"48","02309","TX","Dallas (Far North) & Richardson (Southwest) Cities",27.467,1 
+"48","02310","TX","Dallas (Far North), Carrollton (Southeast) Cities & Addison Town--North of I-635",23.978,1 
+"48","02311","TX","Dallas City (North)--South of I-635 & West of US-75",24.701,1 
+"48","02312","TX","Dallas (West Central), University Park Cities & Highland Park Town",35.521,1 
+"48","02313","TX","Dallas City (Downtown)--North of I-30",15.444,1 
+"48","02314","TX","Dallas City (East Central)--South of I-30 & East of I-35E",36.736,1 
+"48","02315","TX","Dallas City (West Central)--East of Loop TX-12 & West of I-35E",27.546,1 
+"48","02316","TX","Dallas City (South Central)--North of I-20 & West of I-35E",22.7,1 
+"48","02317","TX","Dallas County (South)--DeSoto & Lancaster Cities",63.46,1 
+"48","02318","TX","Dallas County (Southwest)--Cedar Hill & Duncanville Cities",54.744,1 
+"48","02319","TX","Dallas County (West)--Grand Prairie (Central) & Dallas (Southwest) Cities",42.646,1 
+"48","02320","TX","Dallas County (West)--Irving (South) & Grand Prairie (North) Cities",35.862,1 
+"48","02321","TX","Dallas County (Northwest)--Irving (Central) & Dallas (Northwest) Cities",44.262,1 
+"48","02322","TX","Dallas County (Northwest)--Irving (North), Coppell & Carrollton (Southwest) Cities",44.626,1 
+"48","02400","TX","Parker County",903.478,1 
+"48","02501","TX","Tarrant County (Northeast)--Grapevine, Southlake & Colleyville Cities",72.702,1 
+"48","02502","TX","Tarrant County (East)--Euless (South & West) & Arlington (North) Cities",37.928,1 
+"48","02503","TX","Tarrant County (East)--Arlington (East) & Grand Prairie (West Central) Cities",30.249,1 
+"48","02504","TX","Tarrant County (Southeast)--Arlington (Southeast) & Grand Prairie (Southwest) Cities",27.317,1 
+"48","02505","TX","Tarrant County (Southeast)--Mansfield (North) & Arlington (Southwest) Cities",43.595,1 
+"48","02506","TX","Tarrant County (South Central)--Fort Worth City (Southeast)--South of I-20",85.037,1 
+"48","02507","TX","Tarrant County (East)--Arlington City (West)--South of I-30 & East of Loop I-820",33.543,1 
+"48","02508","TX","Fort Worth City (East Central)--South of I-30, East of I-35W & Inside Loop I-820",31.97,1 
+"48","02509","TX","Fort Worth (Northeast) & Hurst (South) Cities--North of I-30",51.588,1 
+"48","02510","TX","Tarrant County (North)--North Richland Hills (North) & Keller Cities",42.796,1 
+"48","02511","TX","Fort Worth City (North)--East of I-35W & West of US-377",30.368,1 
+"48","02512","TX","Fort Worth City (North Central) & Haltom City (North)--Inside Loop I-820",38.774,1 
+"48","02513","TX","Fort Worth City (South Central) & Edgecliff Village Town",28.533,1 
+"48","02514","TX","Tarrant County (Southwest)--Fort Worth (Southwest) & Benbrook Cities",112.748,1 
+"48","02515","TX","Tarrant County (West)--Fort Worth City (West)",70.374,1 
+"48","02516","TX","Tarrant County (Northwest)--Fort Worth (Northwest) & Saginaw Cities",126.086,1 
+"48","02600","TX","West Central Texas COG (Outside Taylor County)",16873.096,1 
+"48","02700","TX","West Central Texas COG--Taylor County--Abilene City",915.552,1 
+"48","02800","TX","Concho Valley COG & Permian Basin Regional Planning Commission (East)",20519.911,1 
+"48","02900","TX","Concho Valley COG--Tom Green County--San Angelo City",1521.972,1 
+"48","03000","TX","Permian Basin Regional Planning Commission (Central)--Midland County--Midland City",900.299,1 
+"48","03100","TX","Permian Basin Regional Planning Commission (Central)--Ector County--Odessa City",897.687,1 
+"48","03200","TX","Rio Grande COG & Permian Basin Regional Planning Commission (West)",36578.345,1 
+"48","03301","TX","El Paso County (Outside El Paso City)--Socorro & Horizon Cities",721.408,1 
+"48","03302","TX","El Paso City (East)",26.648,1 
+"48","03303","TX","El Paso City (Southeast)",42.815,1 
+"48","03304","TX","El Paso City (Central)",32.651,1 
+"48","03305","TX","El Paso City (North)",89.39,1 
+"48","03306","TX","El Paso City (Northwest)",99.781,1 
+"48","03400","TX","Central Texas COG (West), Burnet & Llano Counties",6412.671,1 
+"48","03501","TX","Central Texas COG--Bell County (West)--Killeen & Harker Heights Cities",61.408,1 
+"48","03502","TX","Central Texas COG--Bell County (North, East & South)--Temple & Belton Cities",989.608,1 
+"48","03601","TX","Brazos Valley COG (Outside Brazos County) & Milam County",5462.268,1 
+"48","03602","TX","Brazos Valley COG--Brazos County--College Station & Bryan Cities",585.445,1 
+"48","03700","TX","Heart of Texas COG (Outside McLennan County) & Navarro County",5499.979,1 
+"48","03801","TX","Heart of Texas COG--McLennan County--Waco City (Central)",42.75,1 
+"48","03802","TX","Heart of Texas COG--McLennan County--Waco (Outer), Hewitt & Robinson Cities",994.351,1 
+"48","03900","TX","Deep East Texas COG (West) & Walker County",4335.021,1 
+"48","04000","TX","Deep East Texas COG (Central)--Angelina & Nacogdoches Counties",1744.315,1 
+"48","04100","TX","Deep East Texas COG (East)",4614.654,1 
+"48","04200","TX","Orange & Hardin Counties",1224.236,1 
+"48","04301","TX","Jefferson County (North Central)--Beaumont City",76.057,1 
+"48","04302","TX","Jefferson County (Outside Beaumont City)--Port Arthur City",800.238,1 
+"48","04400","TX","Houston-Galveston Area Council--Liberty & Chambers Counties",1755.554,1 
+"48","04501","TX","Houston-Galveston Area Council--Montgomery County (Northeast)--Conroe City (East)",491.135,1 
+"48","04502","TX","Houston-Galveston Area Council--Montgomery County (West)--Conroe City (West)",352.287,1 
+"48","04503","TX","Houston-Galveston Area Council--Montgomery County (South)--The Woodlands (North)",50.39,1 
+"48","04504","TX","Houston-Galveston Area Council--Montgomery County (Southeast)",147.923,1 
+"48","04601","TX","Houston City (North Central)--North of I-10 & Inside Loop I-610",26.028,1 
+"48","04602","TX","Houston City (East Central)--East of I-45 & Inside Loop I-610",25.509,1 
+"48","04603","TX","Houston City (South Central)--South of US-59, West of I-45 & Inside Loop I-610",22.329,1 
+"48","04604","TX","Houston City (West Central)--South of I-10 & Inside Loop I-610",22.104,1 
+"48","04605","TX","Harris County (Southeast)--Pasadena City (North & Central)--Inside Beltway TX-8",27.699,1 
+"48","04606","TX","Houston (East), Galena Park, Jacinto Cities & Cloverleaf",40.453,1 
+"48","04607","TX","Houston City (Northeast)--Between Loop I-610 & Beltway TX-8",62.709,1 
+"48","04608","TX","Houston City (North) & Aldine--Between Loop I-610 & Beltway TX-8",30.108,1 
+"48","04609","TX","Houston City (North)--South of Aldine & Inside Beltway TX-8",28.128,1 
+"48","04610","TX","Houston City (North)--West of Aldine & Inside Beltway TX-8",26.925,1 
+"48","04611","TX","Houston City (Northwest)--Between Loop I-610 & Beltway TX-8",31.785,1 
+"48","04612","TX","Houston (West) & Spring Valley Village Cities--Between Loop I-610 & Beltway TX-8",19.842,1 
+"48","04613","TX","Houston (West) & Hunters Creek Village Cities--Between Loop I-610 & Beltway TX-8",20.623,1 
+"48","04614","TX","Houston City (West)--Westpark Tollway, Between Loop I-610 & Beltway TX-8",10.473,1 
+"48","04615","TX","Houston (Southwest) & Bellaire (Southeast) Cities--Between Loop I-610 & Beltway TX-8",13.649,1 
+"48","04616","TX","Houston City (Southwest)--Between Loop I-610 & Beltway TX-8",18.631,1 
+"48","04617","TX","Houston City (South)--Between Loop I-610 & Beltway TX-8",52.99,1 
+"48","04618","TX","Houston City (Southeast)--West of Pasadena City & Outside Loop I-610",20.173,1 
+"48","04619","TX","Houston (Southeast) & South Houston Cities--Inside Beltway TX-8",27.859,1 
+"48","04620","TX","Houston (Southeast) & Webster Cities",44.935,1 
+"48","04621","TX","Houston (Southeast), Pasadena (Southeast), La Porte (South) & Seabrook (East) Cities",62.258,1 
+"48","04622","TX","Harris County (East)--Deer Park, La Porte (North) Cities & Channelview",79.866,1 
+"48","04623","TX","Harris County (East)--Baytown City",110.857,1 
+"48","04624","TX","Harris County (Northeast)--Houston City (Far Northeast)",140.038,1 
+"48","04625","TX","Harris County (North)--Houston (North), Humble Cities & Atascocita",76.592,1 
+"48","04626","TX","Harris County (North)--Houston City (North)--I-45, Between Beltway TX-8 & FM-1960",28.533,1 
+"48","04627","TX","Harris County (Far North)--Spring",50.063,1 
+"48","04628","TX","Harris County (Northwest)--Jersey Village City--Between Beltway TX-8 & FM-1960",30.119,1 
+"48","04629","TX","Harris County (North)--North of FM-1960, West of I-45 & East of TX-249",30.938,1 
+"48","04630","TX","Harris County (Far North)--Tomball City & The Woodlands (Southwest)",89.338,1 
+"48","04631","TX","Harris County (Northwest)--North of US-290 & North of FM-1960",42.468,1 
+"48","04632","TX","Harris County (Far Northwest)--Katy City (Northeast)",228.039,1 
+"48","04633","TX","Harris County (Northwest)--South of US-290 & West of TX-6",19.367,1 
+"48","04634","TX","Harris County (West)--Houston City (West)--North of US-90 & West of TX-6",26.596,1 
+"48","04635","TX","Houston City (West)--South of I-10 & West of TX-6",39.174,1 
+"48","04636","TX","Houston City (West)--East of TX-6 & West of Beltway TX-8",43.23,1 
+"48","04637","TX","Houston City (West)--Westpark Tollway, West of Beltway TX-8",18.583,1 
+"48","04638","TX","Houston City (Southwest)--East of TX-6 & West of Beltway TX-8",14.468,1 
+"48","04701","TX","Galveston County (Central, South & East)--Galveston, Texas City & La Marque Cities",292.523,1 
+"48","04702","TX","Galveston County (Northwest)--League City & Friendswood City",85.835,1 
+"48","04801","TX","Houston-Galveston Area Council--Brazoria County (North)--Pearland City",51.373,1 
+"48","04802","TX","Houston-Galveston Area Council--Brazoria County (Central)--Alvin City",615.937,1 
+"48","04803","TX","Houston-Galveston Area Council--Brazoria County (Southwest)--Lake Jackson City",690.391,1 
+"48","04901","TX","Fort Bend County (East)--Missouri City",36.032,1 
+"48","04902","TX","Fort Bend County (Northeast)--Sugar Land & Stafford Cities",49.458,1 
+"48","04903","TX","Fort Bend County (Central)--Rosenberg City, Pecan Grove & New Territory",57.499,1 
+"48","04904","TX","Fort Bend County (North)--Mission Bend (Southwest), Cinco Ranch & Four Corners",43.083,1 
+"48","04905","TX","Fort Bend County (West & South)",675.409,1 
+"48","05000","TX","Houston-Galveston Area Council (West)",4306.638,1 
+"48","05100","TX","Capital Area COG (East)--Bastrop, Caldwell, Fayette & Lee Counties",3012.431,1 
+"48","05201","TX","Capital Area COG--Williamson County (North)--Georgetown (East) & Taylor Cities",839.177,1 
+"48","05202","TX","Capital Area COG--Williamson County (Southeast)--Round Rock City",51.466,1 
+"48","05203","TX","Williamson County (South)--Austin City (Far North), Brushy Creek & Jollyville",44.513,1 
+"48","05204","TX","Capital Area COG--Williamson County (West)--Cedar Park & Leander Cities",183.147,1 
+"48","05301","TX","Travis County (Northeast)--Pflugerville, Manor Cities & Wells Branch",166.996,1 
+"48","05302","TX","Austin City (North)",26.337,1 
+"48","05303","TX","Austin City (Northeast)",54.717,1 
+"48","05304","TX","Austin City (Southeast)",54.334,1 
+"48","05305","TX","Austin City (Northwest)",95.267,1 
+"48","05306","TX","Austin City (Central)",27.052,1 
+"48","05307","TX","Austin City (South)",25.48,1 
+"48","05308","TX","Austin City (Southwest), Lost Creek & Barton Creek",63.779,1 
+"48","05309","TX","Travis County (West, South & Outside Austin City)",476.241,1 
+"48","05400","TX","Capital Area COG (Southwest)--Hays County",677.978,1 
+"48","05500","TX","Golden Crescent Regional Planning Commission (North) & Wilson & Karnes Counties",6178.108,1 
+"48","05600","TX","Golden Crescent Regional Planning Commission (Southeast)--Victoria & Calhoun Counties",1388.983,1 
+"48","05700","TX","Alamo Area COG (Northeast)--Guadalupe County",711.3,1 
+"48","05800","TX","Alamo Area COG (Northeast)--Comal County",559.476,1 
+"48","05901","TX","San Antonio City (Central)",19.073,1 
+"48","05902","TX","San Antonio City (Northeast)--Inside Loop I-410",40.219,1 
+"48","05903","TX","San Antonio City (Southeast)--Inside Loop I-410",34.617,1 
+"48","05904","TX","San Antonio City (Northwest)--Inside Loop I-410",18.048,1 
+"48","05905","TX","San Antonio City (West)--Inside Loop I-410",36.938,1 
+"48","05906","TX","San Antonio City (Southwest)--Inside Loop I-410",31.414,1 
+"48","05907","TX","Bexar County (South)--San Antonio City (Far South)",490.89,1 
+"48","05908","TX","San Antonio City (West)--Between Loop TX-1604 & Loop I-410",26.405,1 
+"48","05909","TX","San Antonio (Northwest) & Leon Valley Cities",22.257,1 
+"48","05910","TX","San Antonio City (Northwest)--Between Loop TX-1604 & Loop I-410",25.435,1 
+"48","05911","TX","San Antonio City (North), Hollywood Park Town & Shavano Park City",35.461,1 
+"48","05912","TX","San Antonio City (Northeast)--Between Loop TX-1604 & Loop I-410",32.756,1 
+"48","05913","TX","San Antonio (Northeast), Kirby & Windcrest Cities",33.62,1 
+"48","05914","TX","Bexar County (Northwest)--San Antonio (Far Northwest) & Helotes Cities",182.914,1 
+"48","05915","TX","Bexar County (North)--San Antonio City (Far North) & Timberwood Park",139.063,1 
+"48","05916","TX","Bexar County (Northeast)--San Antonio (Northeast), Universal City & Converse Cities",70.711,1 
+"48","06000","TX","Alamo Area COG (Northwest) & Blanco County",3533.236,1 
+"48","06100","TX","Alamo Area COG (Southwest)",4469.361,1 
+"48","06200","TX","Middle Rio Grande Development Council",14266.042,1 
+"48","06301","TX","South Texas Development Council (North)--Webb County--Laredo City (Central)",25,1 
+"48","06302","TX","South Texas Development Council--Webb County (North & East)--Laredo City (Outer)",3336.483,1 
+"48","06400","TX","South Texas Development Council (South) & Coastal Bend COG (West)",7330.333,1 
+"48","06500","TX","Coastal Bend COG (Northeast)",2596.208,1 
+"48","06601","TX","Coastal Bend COG--Nueces County--Corpus Christi City (Outer)",787.693,1 
+"48","06602","TX","Coastal Bend COG--Nueces County (Central)--Corpus Christi City (North Central)",27.242,1 
+"48","06603","TX","Coastal Bend COG--Nueces County (Central)--Corpus Christi City (South Central)",23.547,1 
+"48","06701","TX","Cameron County (East)--Brownsville City (North)",533.341,1 
+"48","06702","TX","Cameron County (West)--Harlingen & San Benito Cities",319.165,1 
+"48","06703","TX","Cameron County (South)--Brownsville City (Central)",38.416,1 
+"48","06801","TX","Hidalgo County (Southeast)--Weslaco & Mercedes Cities",166.335,1 
+"48","06802","TX","Hidalgo County (East)--Alamo & Donna Cities",103.693,1 
+"48","06803","TX","Hidalgo County (South Central)--Pharr, San Juan & Hidalgo Cities",77.244,1 
+"48","06804","TX","Hidalgo County (North Central)--Edinburg City",128.496,1 
+"48","06805","TX","Hidalgo County (Central)--McAllen City",47.697,1 
+"48","06806","TX","Hidalgo County (Southwest)--Mission City",57.823,1 
+"48","06807","TX","Hidalgo County (North & West)",989.577,1 
+"48","06900","TX","Coastal Bend COG (Southeast) & Willacy County",4738.522,1 
+"49","03001","UT","Tooele & Box Elder Counties",12686.902,1 
+"49","05001","UT","Cache, Summit, Morgan & Rich Counties",4674.495,1 
+"49","11001","UT","Davis County (North)--Layton, Clearfield, Kaysville, Syracuse & Clinton Cities",185.17,1 
+"49","11002","UT","Davis County (South)--Bountiful, Farmington & North Salt Lake Cities",113.608,1 
+"49","13001","UT","Southeast Utah & Uintah Basin Region",27025.457,1 
+"49","21001","UT","Southwest & South Central Utah (Outside Washington County)--Cedar City",31735.81,1 
+"49","35001","UT","Salt Lake County (Northwest)--Salt Lake City (West), West Valley City (West) & Magna",159.98,1 
+"49","35002","UT","Salt Lake County (Northeast)--Salt Lake City (East)",139.494,1 
+"49","35003","UT","Salt Lake County--West Valley City (Central), Salt Lake City (South Central) & Kearns",32.321,1 
+"49","35004","UT","Salt Lake County--West Valley City (East), Taylorsville & Murray (West) Cities",30.142,1 
+"49","35005","UT","Salt Lake County (East Central)--Murray (East), Holladay Cities & Millcreek",53.376,1 
+"49","35006","UT","Salt Lake County--West Jordan (West), Herriman & South Jordan (West) Cities",118.315,1 
+"49","35007","UT","Salt Lake County--West Jordan (East), South Jordan (East) & Riverton Cities",48.087,1 
+"49","35008","UT","Salt Lake County (Southeast)--Sandy (North), Cottonwood Heights & Midvale Cities",107.903,1 
+"49","35009","UT","Salt Lake County (South & East Central)--Draper (Northwest) & Sandy (South) Cities",52.663,1 
+"49","49001","UT","Utah County (West)--Saratoga Springs, Payson & Lehi (Southwest) Cities",756.864,1 
+"49","49002","UT","Utah County (Central)--Orem, Pleasant Grove, American Fork & Lindon Cities",50.239,1 
+"49","49003","UT","Utah County (Central)--Provo City",41.067,1 
+"49","49004","UT","Utah County (East)--Spanish Fork, Springville, Lehi (Northeast) & Highland Cities",1155.284,1 
+"49","53001","UT","Washington County--St. George City",2426.358,1 
+"49","57001","UT","Weber County (West)--Roy, North Ogden, Ogden (Northwest) & West Haven Cities",190.324,1 
+"49","57002","UT","Weber County (East)--Ogden (Southeast) & South Ogden Cities",385.76,1 
+"50","00100","VT","Northwest Vermont--Chittenden, Franklin & Grand Isle Counties--Burlington City",1252.096,1 
+"50","00200","VT","Northeast Vermont--Washington, Caledonia, Orleans, Lamoille & Essex Counties",3151.76,1 
+"50","00300","VT","Southeast Vermont--Windsor, Windham & Orange Counties",2441.675,1 
+"50","00400","VT","Southwest Vermont--Rutland, Bennington & Addison Counties",2371.126,1 
+"51","01301","VA","Arlington County (North)",13.097,1 
+"51","01302","VA","Arlington County (South)",12.878,1 
+"51","04101","VA","Chesterfield County (East)--James River Region",78.266,1 
+"51","04102","VA","Chesterfield County (Central)--Chester & Rockwood",85.899,1 
+"51","04103","VA","Chesterfield County (West)--Brandermill & Woodlake",259.132,1 
+"51","10701","VA","Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village)",33.198,1 
+"51","10702","VA","Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport",61.336,1 
+"51","10703","VA","Loudoun County (West & South)--Leesburg Town",421.027,1 
+"51","51010","VA","LENOWISCO & Cumberland Plateau Planning District Commissions",3207.681,1 
+"51","51020","VA","Mount Rogers Planning District Commission",2769.569,1 
+"51","51040","VA","New River Valley Planning District Commission",1452.945,1 
+"51","51044","VA","Roanoke Valley-Alleghany Regional Commission (Roanoke, Salem Cities & Vinton Town)",60.325,1 
+"51","51045","VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",2259.279,1 
+"51","51080","VA","Central Shenandoah Planning District Commission (Southwest)",2553.086,1 
+"51","51084","VA","Northern Shenandoah Valley Regional Commission (North)",598.906,1 
+"51","51085","VA","Northern Shenandoah Valley Regional Commission (South)",1033.097,1 
+"51","51087","VA","Rappahannock-Rapidan Regional Commission",1954.376,1 
+"51","51089","VA","Thomas Jefferson Planning District Commission (South & East)",1716.716,1 
+"51","51090","VA","Thomas Jefferson Planning District Commission (North)",423.628,1 
+"51","51095","VA","Virginias Region 2000 (North)--Bedford, Amherst, Appomattox Counties & Bedford City",1567.327,1 
+"51","51096","VA","Virginias Region 2000 (South)--Campbell County & Lynchburg City",552.994,1 
+"51","51097","VA","West Piedmont Planning District Commission",1888.261,1 
+"51","51105","VA","Southside Planning District Commission & Commonwealth Regional Council",4813.19,1 
+"51","51110","VA","Central Shenandoah Planning District Commission (Northeast)",866.504,1 
+"51","51115","VA","George Washington Regional Commission (North)",279.396,1 
+"51","51120","VA","George Washington Regional Commission (South)",1108.646,1 
+"51","51125","VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",2412.823,1 
+"51","51135","VA","Crater Planning District Commission",1880.891,1 
+"51","51145","VA","Isle of Wight, Southampton Counties, Suffolk & Franklin Cities",1323.13,1 
+"51","51154","VA","Norfolk City (Northeast)",50.241,1 
+"51","51155","VA","Portsmouth & Norfolk (Southwest) Cities",37.533,1 
+"51","51164","VA","Virginia Beach City (North)",49.419,1 
+"51","51165","VA","Virginia Beach City (Central)",33.984,1 
+"51","51167","VA","Virginia Beach City (South)",165.613,1 
+"51","51175","VA","Newport News City",68.714,1 
+"51","51186","VA","Hampton City",51.413,1 
+"51","51206","VA","James City, York Counties, Williamsburg & Poquoson Cities",271.555,1 
+"51","51215","VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",1676.66,1 
+"51","51224","VA","Henrico County (South & East)--Highland Springs, East Highland Park & Glen Allen",171.304,1 
+"51","51225","VA","Henrico County (West)--Tuckahoe, Short Pump & Wyndham",62.393,1 
+"51","51235","VA","Richmond City",59.805,1 
+"51","51244","VA","Prince William County (North & West)--Linton Hall & Gainesville",227.611,1 
+"51","51245","VA","Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley",43.874,1 
+"51","51246","VA","Prince William County (Southeast)--Dale City, Lake Ridge & Woodbridge",77.33,1 
+"51","51255","VA","Alexandria City",15.027,1 
+"51","55001","VA","Chesapeake City (Northeast)",54.431,1 
+"51","55002","VA","Chesapeake City (South & West)",286.369,1 
+"51","59301","VA","Fairfax County (East Central)--Annandale, West Falls Church & Baileys Crossroads",24.896,1 
+"51","59302","VA","Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon",29.806,1 
+"51","59303","VA","Fairfax County (Central) & Fairfax City--Burke",37.809,1 
+"51","59304","VA","Fairfax County (Southwest)--Centreville (Southeast) & Lorton",99.627,1 
+"51","59305","VA","Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East)",39.042,1 
+"51","59306","VA","Fairfax County (South Central)--Springfield (South), West Springfield & Franconia",25.35,1 
+"51","59307","VA","Fairfax County (Northwest)--Reston (North) & Franklin Farm",44.083,1 
+"51","59308","VA","Fairfax County (Northeast)--McLean & Idylwood",58.944,1 
+"51","59309","VA","Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West)",39.649,1 
+"53","10100","WA","Whatcom County--Bellingham City",2106.857,1 
+"53","10200","WA","Skagit, Island & San Juan Counties",2113.566,1 
+"53","10300","WA","Chelan & Douglas Counties",4739.789,1 
+"53","10400","WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",11348.89,1 
+"53","10501","WA","Spokane County (North Central)--Spokane City (North)",41.322,1 
+"53","10502","WA","Spokane County (South Central)--Spokane City (South)",79.953,1 
+"53","10503","WA","Spokane County (East Central)--Greater Spokane Valley City",104.596,1 
+"53","10504","WA","Spokane County (Outer)--Cheney City",1537.921,1 
+"53","10600","WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",8610.09,1 
+"53","10701","WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",92.595,1 
+"53","10702","WA","Benton County (East Central)--Kennewick & Richland (South) Cities",102.842,1 
+"53","10703","WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",4017.241,1 
+"53","10800","WA","Grant & Kittitas Counties",4976.784,1 
+"53","10901","WA","Yakima County (Central)--Greater Yakima City",65.118,1 
+"53","10902","WA","Yakima County (Outer)--Sunnyside & Grandview Cities",4230.278,1 
+"53","11000","WA","Lewis, Klickitat & Skamania Counties",5929.793,1 
+"53","11101","WA","Clark County (Southwest)--Vancouver City (West & Central)",40.693,1 
+"53","11102","WA","Clark County (West Central)--Salmon Creek & Hazel Dell",37.134,1 
+"53","11103","WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",75.194,1 
+"53","11104","WA","Clark County (North)--Battle Ground City & Orchards",475.983,1 
+"53","11200","WA","Cowlitz, Pacific & Wahkiakum Counties",2336.158,1 
+"53","11300","WA","Grays Harbor & Mason Counties",2861.444,1 
+"53","11401","WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",79.046,1 
+"53","11402","WA","Thurston County (Outer)",642.916,1 
+"53","11501","WA","Pierce County (Central)--Tacoma City (Central)",24.983,1 
+"53","11502","WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",135.656,1 
+"53","11503","WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",145.77,1 
+"53","11504","WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",43.73,1 
+"53","11505","WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",82.436,1 
+"53","11506","WA","Pierce County (East Central)--Puyallup City & South Hill",47.44,1 
+"53","11507","WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",1189.491,1 
+"53","11601","WA","Seattle City (Northwest)",16.866,1 
+"53","11602","WA","Seattle City (Northeast)",15.245,1 
+"53","11603","WA","Seattle City (Downtown)--Queen Anne & Magnolia",11.311,1 
+"53","11604","WA","Seattle City (Southeast)--Capitol Hill",13.243,1 
+"53","11605","WA","Seattle City (West)--Duwamish & Beacon Hill",27.076,1 
+"53","11606","WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",29.044,1 
+"53","11607","WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",36.184,1 
+"53","11608","WA","King County (Northwest Central)--Greater Bellevue City",35.233,1 
+"53","11609","WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",78.501,1 
+"53","11610","WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",29.318,1 
+"53","11611","WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",40.43,1 
+"53","11612","WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",62.077,1 
+"53","11613","WA","King County (Southwest Central)--Kent City",37.304,1 
+"53","11614","WA","King County (Southwest)--Auburn City & Lakeland",68.792,1 
+"53","11615","WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",658.522,1 
+"53","11616","WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",956.42,1 
+"53","11701","WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",26.412,1 
+"53","11702","WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",32.291,1 
+"53","11703","WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",27.24,1 
+"53","11704","WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",64.681,1 
+"53","11705","WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",937.514,1 
+"53","11706","WA","Snohomish County (North)--Marysville & Arlington Cities",999.136,1 
+"53","11801","WA","Kitsap County (North)--Bainbridge Island City & Silverdale",182.129,1 
+"53","11802","WA","Kitsap County (South)--Bremerton & Port Orchard Cities",212.812,1 
+"53","11900","WA","Clallam & Jefferson Counties",3542.029,1 
+"54","00100","WV","Ohio, Marshall, Hancock & Brooke Counties",583.065,1 
+"54","00200","WV","Harrison, Marion, Taylor & Doddridge Counties",1217.234,1 
+"54","00300","WV","Monongalia & Preston Counties--Morgantown City",1008.867,1 
+"54","00400","WV","Berkeley, Jefferson, Mineral, Hampshire & Morgan Counties",1727.928,1 
+"54","00500","WV","Randolph, Upshur, Barbour, Lewis, Hardy, Grant, Pendleton & Tucker Counties",4294.93,1 
+"54","00600","WV","Jackson, Wetzel, Roane, Braxton, Ritchie, Tyler, Gilmer & Calhoun Counties",3142.821,1 
+"54","00700","WV","Wood, Pleasants & Wirt Counties",728.872,1 
+"54","00800","WV","Cabell, Wayne & Mason Counties--Huntington City",1217.747,1 
+"54","00900","WV","Putnam, Boone & Lincoln Counties",1284.251,1 
+"54","01000","WV","Kanawha & Clay Counties--Charleston City",1243.49,1 
+"54","01100","WV","Greenbrier, Nicholas, Summers, Monroe & Pocahontas Counties",3993.357,1 
+"54","01200","WV","Raleigh, Mercer & Fayette Counties",1685.894,1 
+"54","01300","WV","Logan, Mingo, Wyoming & McDowell Counties",1909.754,1 
+"55","00100","WI","Northwest Wisconsin",10604.31,1 
+"55","00101","WI","Madison City (Central)",22.2,1 
+"55","00102","WI","Dane County (East)",619.017,1 
+"55","00103","WI","Dane County (West)",556.023,1 
+"55","00200","WI","Green Bay City",46.088,1 
+"55","00300","WI","Outer Green Bay City",483.62,1 
+"55","00600","WI","Oneida, Lincoln, Vilas, Langlade & Forest Counties",4733.254,1 
+"55","00700","WI","West Central Wisconsin--Northern Mississippi Region",5461.065,1 
+"55","00800","WI","Grant, Green, Iowa, Richland & Lafayette Counties",3713.124,1 
+"55","00900","WI","La Crosse County",451.686,1 
+"55","01000","WI","Sauk & Columbia Counties",1596.431,1 
+"55","01001","WI","Dodge & Jefferson Counties",1432.098,1 
+"55","01300","WI","Marinette, Oconto, Door & Florence Counties",3367.508,1 
+"55","01301","WI","Manitowoc & Kewaunee Counties",931.601,1 
+"55","01400","WI","East Central Wisconsin",3429.57,1 
+"55","01401","WI","Fond du Lac & Calumet Counties",1037.789,1 
+"55","01500","WI","Outagamie County",637.523,1 
+"55","01501","WI","Winnebago County",434.487,1 
+"55","01600","WI","Marathon County",1544.983,1 
+"55","01601","WI","Central Sands--Wood, Portage, Juneau & Adams Counties",3006.366,1 
+"55","02400","WI","Rock County",718.142,1 
+"55","02500","WI","Sheboygan County",511.265,1 
+"55","10000","WI","Kenosha County",271.99,1 
+"55","20000","WI","Washington & Ozaukee Counties",663.78,1 
+"55","30000","WI","Racine County",332.501,1 
+"55","40101","WI","Milwaukee County (Northeast)",28.382,1 
+"55","40301","WI","Milwaukee County (South)",75.189,1 
+"55","40701","WI","Milwaukee County (West)",46.009,1 
+"55","41001","WI","Milwaukee City (North)",30.157,1 
+"55","41002","WI","Milwaukee City (North Central)",14.883,1 
+"55","41003","WI","Milwaukee City (Central)",11.488,1 
+"55","41004","WI","Milwaukee City (South Central)",12.043,1 
+"55","41005","WI","Milwaukee City (South)",23.252,1 
+"55","50000","WI","Walworth County",555.127,1 
+"55","55101","WI","Barron, Polk, Clark & Chippewa (North) Counties",3381.389,1 
+"55","55102","WI","St. Croix & Dunn Counties",1572.435,1 
+"55","55103","WI","Eau Claire & Chippewa (South) Counties",1251.455,1 
+"55","70101","WI","Waukesha County (West)",303.669,1 
+"55","70201","WI","Waukesha County (East)",142.854,1 
+"55","70301","WI","Waukesha County (Central)",103.051,1 
+"56","00100","WY","Sheridan, Park, Teton, Lincoln & Big Horn Counties",20674.677,1 
+"56","00200","WY","Campbell, Goshen, Platte, Johnson, Washakie, Weston, Crook & Niobrara Counties",23383.543,1 
+"56","00300","WY","Laramie & Albany Counties",6959.752,1 
+"56","00400","WY","Natrona, Carbon & Converse Counties",17492.813,1 
+"56","00500","WY","Sweetwater, Fremont, Uinta, Sublette & Hot Springs Counties--Wind River Reservation",28582.356,1 
