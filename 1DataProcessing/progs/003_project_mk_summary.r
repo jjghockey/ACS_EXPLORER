@@ -443,13 +443,13 @@
 #	write_csv(stateDF,"../output/stateDF.csv")  #Single File
 	
 	#Split into two pieces
-	obs<-round(nrow(stateDF)/2,0)
-		
 	stateDF1<-stateDF[as.numeric(row.names(stateDF))<obs]
-	stateDF2<-stateDF[as.numeric(row.names(stateDF))>=obs]
+	stateDF2<-stateDF[as.numeric(row.names(stateDF>=obs & as.numeric(row.names(stateDF)<(2*obs)]	
+	stateDF3<-stateDF[as.numeric(row.names(stateDF))>=(2*obs)]
 
 	write_csv(stateDF1,"../output/stateDF1.csv")  #Single File
 	write_csv(stateDF2,"../output/stateDF2.csv")  #Single File
+	write_csv(stateDF3,"../output/stateDF3.csv")  #Single File
 	
 	#Standardize and Save out table object for Shiny Import (Shiny Map summary tables)
  	setkey(pop, GEOID10, stab, puma, PUMAname)
