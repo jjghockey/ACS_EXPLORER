@@ -442,9 +442,11 @@
 #	stateDF<-stateDF[, .(stab, long, lat, group, pop, zpop, zavg_inc,zpop_grwth, unemp_den, zur)]
 #	write_csv(stateDF,"../output/stateDF.csv")  #Single File
 	
-	#Split into two pieces
+	#Split into three pieces
+	obs<-round(nrow(stateDF)/3,0)
+		
 	stateDF1<-stateDF[as.numeric(row.names(stateDF))<obs]
-	stateDF2<-stateDF[as.numeric(row.names(stateDF>=obs & as.numeric(row.names(stateDF)<(2*obs)]	
+	stateDF2<-stateDF[as.numeric(row.names(stateDF))>=obs & as.numeric(row.names(stateDF))<(2*obs)]	
 	stateDF3<-stateDF[as.numeric(row.names(stateDF))>=(2*obs)]
 
 	write_csv(stateDF1,"../output/stateDF1.csv")  #Single File
