@@ -11,7 +11,7 @@ Shiny APP to explore the American Community Survey Data
   
 002_project_mk_shapefile.r - Process TIGER PUMA shapefiles for mapping.  Please note that the raw data is not directly downloaded via the .r script.  It has to be manually downloaded.  Since github restricts the file size for uploads, this data is NOT available on this repo.  The files can be downloaded manually at: 
 
-ftp://ftp2.census.gov/geo/tiger/TIGER2015/PUMA/
+  ftp://ftp2.census.gov/geo/tiger/TIGER2015/PUMA/
 
 003_project_mksummary.r - Process the data created in 001 and 002 to create ggplot ready maps and graphs.  This process breaks down the data and produces much smaller sets that can be easily processed in Shiny in order to display the data.  Files that are created are saved to an output folder and zipped.  These are the files grabbed by the Shiny app. 
 
